@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+
+[packages]
+pandas = "*"
+openpyxl = "*"
+
+[dev-packages]
+black = "*"
+pylint = "*"
+isort = "*"
+pytest = "*"
+
+[scripts]
+
+[requires]
+python_version = "3.11"
