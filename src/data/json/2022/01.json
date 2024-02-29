@@ -1,1 +1,636 @@
-{"周一": [{"anime_name": "佐佐木与宫野", "weekday": "周一", "play_time": "00:00", "play_date": "1.10", "play_nums": "12", "tags": ["校园", "日常", "耽美"]}, {"anime_name": "王子的本命是恶役千金", "weekday": "周一", "play_time": "00:00", "play_date": "1.10", "play_nums": "8", "tags": []}, {"anime_name": "ON AIR办不到！", "weekday": "周一", "play_time": "00:05", "play_date": "1.10", "play_nums": "", "tags": ["电视台", "职场"]}, {"anime_name": "进击的巨人 最终季（后半篇）", "weekday": "周一", "play_time": "01:35", "play_date": "1.10", "play_nums": "12", "tags": ["热血", "战斗", "黑暗奇幻"]}, {"anime_name": "暗芝居 第十季", "weekday": "周一", "play_time": "03:05", "play_date": "1.10", "play_nums": "", "tags": ["惊悚", "恐怖", "怪谈"]}, {"anime_name": "女学。Ⅱ～Lucky Stars～", "weekday": "周一", "play_time": "06:05", "play_date": "1.10", "play_nums": "", "tags": ["校园", "偶像", "日常", "励志"]}, {"anime_name": "夜街酷斗（TRIBE NINE）", "weekday": "周一", "play_time": "21:30", "play_date": "1.10", "play_nums": "12", "tags": ["科幻", "运动", "棒球"]}, {"anime_name": "公主连结 与你重逢 第二季", "weekday": "周一", "play_time": "23:00", "play_date": "1.10", "play_nums": "12", "tags": ["奇幻", "战斗", "冒险", "搞笑", "日常"]}, {"anime_name": "食锈末世录", "weekday": "周一", "play_time": "23:35", "play_date": "1.10", "play_nums": "12", "tags": ["热血", "战斗", "冒险", "废土"]}], "周三": [{"anime_name": "彩绿", "weekday": "周三", "play_time": "00:00", "play_date": "1.5", "play_nums": "8", "tags": ["偶像", "音乐", "不含月铃姐妹"]}, {"anime_name": "里亚德录大地", "weekday": "周三", "play_time": "22:00", "play_date": "1.5", "play_nums": "12", "tags": ["奇幻", "异世界", "转生", "搞笑", "凤傲天"]}, {"anime_name": "东方少年", "weekday": "周三", "play_time": "23:00", "play_date": "1.5", "play_nums": "12", "tags": ["奇幻", "热血", "战斗", "冒险", "战国时代"]}, {"anime_name": "东京24区", "weekday": "周三", "play_time": "23:00", "play_date": "2.2", "play_nums": "12", "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]}, {"anime_name": "秘密内幕 女警的反击", "weekday": "周三", "play_time": "23:30", "play_date": "1.5", "play_nums": "13", "tags": ["搞笑", "日常", "警察", "职场"]}, {"anime_name": "JOJO的奇妙冒险 石之海（前半篇）", "weekday": "周三", "play_time": "17:00", "play_date": "12.1", "play_nums": "12", "tags": ["热血", "奇斗", "异能", "冒险", "奇幻"]}], "周二": [{"anime_name": "幻想三国志 -天元灵心记-", "weekday": "周二", "play_time": "01:00", "play_date": "1.11", "play_nums": "", "tags": ["奇幻", "战斗", "鬼怪"]}, {"anime_name": "天才王子的赤字国家振兴术", "weekday": "周二", "play_time": "22:30", "play_date": "1.11", "play_nums": "12", "tags": ["异世界", "搞笑", "治国", "恋爱"]}, {"anime_name": "与变成了异世界美少女的好友一起冒险", "weekday": "周二", "play_time": "23:00", "play_date": "1.11", "play_nums": "12", "tags": ["异世界", "搞笑", "穿越", "性转", "冒险"]}, {"anime_name": "自称贤者弟子的贤者", "weekday": "周二", "play_time": "23:30", "play_date": "1.11", "play_nums": "12", "tags": ["异世界", "穿越", "性转", "龙傲天"]}], "周五": [{"anime_name": "白金终局（铂金终局）", "weekday": "周五", "play_time": "00:28", "play_date": "连载中", "play_nums": "24", "tags": ["奇幻", "推理", "神魔", "大逃杀"]}, {"anime_name": "国王排名", "weekday": "周五", "play_time": "01:25", "play_date": "连载中", "play_nums": "23", "tags": ["奇幻", "冒险", "成长", "治愈", "励志"]}, {"anime_name": "川尻小玉的懒散生活", "weekday": "周五", "play_time": "02:25", "play_date": "1.14", "play_nums": "24", "tags": ["日常", "懒散", "酒肉"]}, {"anime_name": "瓦尼塔斯的手记 后半篇", "weekday": "周五", "play_time": "18:00", "play_date": "2.25", "play_nums": "12", "tags": ["奇幻", "战斗", "吸血鬼"]}, {"anime_name": "女孩的钓鱼慢活（SLOW LOOP）", "weekday": "周五", "play_time": "22:00", "play_date": "1.7", "play_nums": "12", "tags": ["日常", "钓鱼", "萌系", "轻百合", "芳文社"]}, {"anime_name": "一杆青空（空色Utility）", "weekday": "周五", "play_time": "18:00", "play_date": "1.21", "play_nums": "1", "tags": ["运动", "日常", "高尔夫", "JK"]}, {"anime_name": "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇", "weekday": "周五", "play_time": "22:30", "play_date": "12.31", "play_nums": "1", "tags": ["奇幻", "冒险", "魔法"]}], "周六": [{"anime_name": "瓦尼塔斯的手记 后半篇（港澳台）", "weekday": "周六", "play_time": "00:30", "play_date": "1.15", "play_nums": "12", "tags": ["奇幻", "战斗", "吸血鬼"]}, {"anime_name": "少女前线", "weekday": "周六", "play_time": "01:00", "play_date": "1.8", "play_nums": "12", "tags": ["科幻", "战斗", "枪械", "废土"]}, {"anime_name": "擅长捉弄的高木同学 第三季", "weekday": "周六", "play_time": "01:30", "play_date": "1.8", "play_nums": "12", "tags": ["校园", "搞笑", "恋爱", "日常", "狗粮"]}, {"anime_name": "终末的哈勒姆（终末的后宫）", "weekday": "周六", "play_time": "01:30", "play_date": "1.8", "play_nums": "11", "tags": ["科幻", "近未来", "后宫", "肉", "GHS"]}, {"anime_name": "指名！（CUE!）", "weekday": "周六", "play_time": "01:55", "play_date": "1.8", "play_nums": "24", "tags": ["声优", "成长", "业界", "职场"]}, {"anime_name": "勇者斗恶龙 达伊的大冒险", "weekday": "周六", "play_time": "09:30", "play_date": "连载中", "play_nums": "100", "tags": ["奇幻", "冒险", "战斗", "重置"]}, {"anime_name": "泡泡糖忍战", "weekday": "周六", "play_time": "09:30", "play_date": "1.8", "play_nums": "", "tags": ["奇幻", "忍者", "竞技"]}, {"anime_name": "白领羽球部（RYMANS CLUB）", "weekday": "周六", "play_time": "17:00", "play_date": "2.26", "play_nums": "12", "tags": ["运动", "竞技", "羽毛球", "社畜"]}, {"anime_name": "半妖的夜叉姬 第二季", "weekday": "周六", "play_time": "18:00", "play_date": "连载中", "play_nums": "24", "tags": ["奇幻", "穿越", "战斗", "后传"]}, {"anime_name": "名侦探柯南", "weekday": "周六", "play_time": "19:30", "play_date": "连载中", "play_nums": "1112", "tags": ["推理", "悬疑", "智斗"]}, {"anime_name": "失格纹的最强贤者", "weekday": "周六", "play_time": "22:00", "play_date": "1.8", "play_nums": "12", "tags": ["奇幻", "转生", "战斗", "后宫", "龙傲天"]}, {"anime_name": "魔法科高校的劣等生 追忆篇", "weekday": "周六", "play_time": "00:30", "play_date": "1.1", "play_nums": "1", "tags": ["科幻", "异能", "兄妹", "回忆", "前传"]}], "周四": [{"anime_name": "相爱相杀（杀爱）", "weekday": "周四", "play_time": "00:30", "play_date": "1.13", "play_nums": "12", "tags": ["杀手", "恋爱", "黑帮", "悬疑"]}, {"anime_name": "东京24区（港澳台）", "weekday": "周四", "play_time": "01:00", "play_date": "1.6", "play_nums": "12", "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]}, {"anime_name": "通灵王（新作）", "weekday": "周四", "play_time": "18:00", "play_date": "连载中", "play_nums": "52", "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]}, {"anime_name": "小小世界", "weekday": "周四", "play_time": "18:00", "play_date": "1.13", "play_nums": "10", "tags": ["音乐", "Q版"]}, {"anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!", "weekday": "周四", "play_time": "23:00", "play_date": "连载中", "play_nums": "26", "tags": ["Q版", "搞笑", "乐队", "日常"]}, {"anime_name": "最游记RELOAD -ZEROIN-", "weekday": "周四", "play_time": "23:00", "play_date": "1.6", "play_nums": "13", "tags": ["奇幻", "热血", "架空", "冒险"]}, {"anime_name": "平凡职业造就世界最强 第二季", "weekday": "周四", "play_time": "23:30", "play_date": "1.13", "play_nums": "12", "tags": ["奇幻", "冒险", "战斗", "后宫", "穿越", "龙傲天"]}], "周日": [{"anime_name": "更衣人偶坠入爱河（恋上换装娃娃）", "weekday": "周日", "play_time": "00:30", "play_date": "1.9", "play_nums": "12", "tags": ["校园", "日常", "Cos", "恋爱", "涩气"]}, {"anime_name": "86 -不存在的战区- （后半篇）", "weekday": "周日", "play_time": "00:30", "play_date": "3.13", "play_nums": "12", "tags": ["科幻", "战争", "机战", "架空", "悲壮"]}, {"anime_name": "明日酱的水手服", "weekday": "周日", "play_time": "01:00", "play_date": "1.9", "play_nums": "12", "tags": ["校园", "乡村", "日常", "治愈", "精致"]}, {"anime_name": "现实主义勇者的王国再建记 第二季", "weekday": "周日", "play_time": "01:30", "play_date": "1.9", "play_nums": "13", "tags": ["异世界", "穿越", "奇幻", "治国", "“政勇”"]}, {"anime_name": "怪人开发部的黑井津小姐", "weekday": "周日", "play_time": "02:00", "play_date": "1.9", "play_nums": "12", "tags": ["搞笑", "职场", "反派", "特摄联动"]}, {"anime_name": "白领羽球部（港澳台）", "weekday": "周日", "play_time": "02:00", "play_date": "1.30", "play_nums": "12", "tags": ["运动", "竞技", "羽毛球", "社畜"]}, {"anime_name": "鲁邦三世 第六季", "weekday": "周日", "play_time": "02:55", "play_date": "连载中", "play_nums": "24", "tags": ["怪盗", "冒险", "悬疑", "搞笑"]}, {"anime_name": "美味PARTY♡光之美少女", "weekday": "周日", "play_time": "07:30", "play_date": "2.6", "play_nums": "", "tags": ["奇幻", "美少女", "战斗", "轻百合"]}, {"anime_name": "数码宝贝 幽灵游戏", "weekday": "周日", "play_time": "08:00", "play_date": "连载中", "play_nums": "", "tags": ["奇幻", "冒险", "战斗", "热血"]}, {"anime_name": "博人传 火影忍者新时代", "weekday": "周日", "play_time": "17:30", "play_date": "连载中", "play_nums": "长期连载", "tags": ["热血", "战斗", "冒险", "忍者世界"]}, {"anime_name": "锈色铠甲 黎明", "weekday": "周日", "play_time": "22:00", "play_date": "1.9", "play_nums": "12", "tags": ["奇幻", "战争", "热血", "战国时代", "3D"]}, {"anime_name": "蔷薇王的葬列", "weekday": "周日", "play_time": "22:00", "play_date": "1.9", "play_nums": "24", "tags": ["历史", "战争", "复仇", "扶她", "乙女向"]}, {"anime_name": "室内足球少年!!!!!（Futsal Boys!!!!!）", "weekday": "周日", "play_time": "22:30", "play_date": "1.9", "play_nums": "12", "tags": ["校园", "运动", "竞技", "社团", "室内足球"]}, {"anime_name": "鬼灭之刃 游郭篇", "weekday": "周日", "play_time": "23:45", "play_date": "连载中", "play_nums": "11", "tags": ["热血", "战斗", "奇幻", "冒险"]}, {"anime_name": "航海王（海贼王）", "weekday": "周日", "play_time": "上午", "play_date": "连载中", "play_nums": "长期连载", "tags": ["热血", "战斗", "冒险", "搞笑", "梦想"]}, {"anime_name": "Tropical-Rouge！光之美少女", "weekday": "周日", "play_time": "中午", "play_date": "连载中", "play_nums": "46", "tags": ["奇幻", "美少女", "战斗", "轻百合"]}, {"anime_name": "永远的831", "weekday": "周日", "play_time": "19:00", "play_date": "1.30", "play_nums": "1", "tags": ["科幻", "乱世", "青春", "冒险", "3D"]}]}
+{
+  "周一": [
+    {
+      "anime_name": "佐佐木与宫野",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1grla54znt0j30u016dk2z.jpg",
+      "cover_url_git": "img/2022/01/佐佐木与宫野.jpg",
+      "play_time": "00:00",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["校园", "日常", "耽美"]
+    },
+    {
+      "anime_name": "王子的本命是恶役千金",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gwj5lzo58vj30xc1b4dlo.jpg",
+      "cover_url_git": "img/2022/01/王子的本命是恶役千金.jpg",
+      "play_time": "00:00",
+      "play_date": "1.10",
+      "play_nums": "8",
+      "tags": []
+    },
+    {
+      "anime_name": "ON AIR办不到！",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1h0hvbofxgyj307409w0tf.jpg",
+      "cover_url_git": "img/2022/01/ON AIR办不到！.jpg",
+      "play_time": "00:05",
+      "play_date": "1.10",
+      "play_nums": "",
+      "tags": ["电视台", "职场"]
+    },
+    {
+      "anime_name": "进击的巨人 最终季（后半篇）",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1he6b96d7fpj315o1mw1kp.jpg",
+      "cover_url_git": "img/2022/01/进击的巨人 最终季（后半篇）.jpg",
+      "play_time": "01:35",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["热血", "战斗", "黑暗奇幻"]
+    },
+    {
+      "anime_name": "暗芝居 第十季",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/006sgDP3gy1gxs5dockeqj307i0amwes.jpg",
+      "cover_url_git": "img/2022/01/暗芝居 第十季.jpg",
+      "play_time": "03:05",
+      "play_date": "1.10",
+      "play_nums": "",
+      "tags": ["惊悚", "恐怖", "怪谈"]
+    },
+    {
+      "anime_name": "女学。Ⅱ～Lucky Stars～",
+      "weekday": "周一",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/b14cb8441a9873c470bb87cf2cc786e4.jpeg",
+      "cover_url_git": "img/2022/01/女学。Ⅱ～Lucky Stars～.jpeg",
+      "play_time": "06:05",
+      "play_date": "1.10",
+      "play_nums": "",
+      "tags": ["校园", "偶像", "日常", "励志"]
+    },
+    {
+      "anime_name": "夜街酷斗（TRIBE NINE）",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1gxdeg94cvxj307i0am3z2.jpg",
+      "cover_url_git": "img/2022/01/夜街酷斗（TRIBE NINE）.jpg",
+      "play_time": "21:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["科幻", "运动", "棒球"]
+    },
+    {
+      "anime_name": "公主连结 与你重逢 第二季",
+      "weekday": "周一",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/d2ee20e74dffe2ef1b6eefa77a9d3094.jpeg",
+      "cover_url_git": "img/2022/01/公主连结 与你重逢 第二季.jpeg",
+      "play_time": "23:00",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "冒险", "搞笑", "日常"]
+    },
+    {
+      "anime_name": "食锈末世录",
+      "weekday": "周一",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210308-1/8c382dc36061201065dfe407f2fffa49.jpg",
+      "cover_url_git": "img/2022/01/食锈末世录.jpg",
+      "play_time": "23:35",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["热血", "战斗", "冒险", "废土"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "彩绿",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/b21a4f537d04b233dd7654d3658f9771.jpeg",
+      "cover_url_git": "img/2022/01/彩绿.jpeg",
+      "play_time": "00:00",
+      "play_date": "1.5",
+      "play_nums": "8",
+      "tags": ["偶像", "音乐", "不含月铃姐妹"]
+    },
+    {
+      "anime_name": "里亚德录大地",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693464905658_435467188.jpg",
+      "cover_url_git": "img/2022/01/里亚德录大地.jpg",
+      "play_time": "22:00",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "异世界", "转生", "搞笑", "凤傲天"]
+    },
+    {
+      "anime_name": "东方少年",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35304594.jpg",
+      "cover_url_git": "img/2022/01/东方少年.jpg",
+      "play_time": "23:00",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "热血", "战斗", "冒险", "战国时代"]
+    },
+    {
+      "anime_name": "东京24区",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvqngkkqi4j615o1n01kx02.jpg",
+      "cover_url_git": "img/2022/01/东京24区.jpg",
+      "play_time": "23:00",
+      "play_date": "2.2",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]
+    },
+    {
+      "anime_name": "秘密内幕 女警的反击",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692775192192_1612116779.jpg",
+      "cover_url_git": "img/2022/01/秘密内幕 女警的反击.jpg",
+      "play_time": "23:30",
+      "play_date": "1.5",
+      "play_nums": "13",
+      "tags": ["搞笑", "日常", "警察", "职场"]
+    },
+    {
+      "anime_name": "JOJO的奇妙冒险 石之海（前半篇）",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/34605404.jpg",
+      "cover_url_git": "img/2022/01/JOJO的奇妙冒险 石之海（前半篇）.jpg",
+      "play_time": "17:00",
+      "play_date": "12.1",
+      "play_nums": "12",
+      "tags": ["热血", "奇斗", "异能", "冒险", "奇幻"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "幻想三国志 -天元灵心记-",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693547329581_1037417997.jpg",
+      "cover_url_git": "img/2022/01/幻想三国志 -天元灵心记-.jpg",
+      "play_time": "01:00",
+      "play_date": "1.11",
+      "play_nums": "",
+      "tags": ["奇幻", "战斗", "鬼怪"]
+    },
+    {
+      "anime_name": "天才王子的赤字国家振兴术",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/6e6880degy1gozx7n1wyxj205i07ngm9.jpg",
+      "cover_url_git": "img/2022/01/天才王子的赤字国家振兴术.jpg",
+      "play_time": "22:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "搞笑", "治国", "恋爱"]
+    },
+    {
+      "anime_name": "与变成了异世界美少女的好友一起冒险",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/6272d0b976f24019ac4395a3304fde83.jpeg",
+      "cover_url_git": "img/2022/01/与变成了异世界美少女的好友一起冒险.jpeg",
+      "play_time": "23:00",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "搞笑", "穿越", "性转", "冒险"]
+    },
+    {
+      "anime_name": "自称贤者弟子的贤者",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gs0a7qwwdqj30ku0tjq93.jpg",
+      "cover_url_git": "img/2022/01/自称贤者弟子的贤者.jpg",
+      "play_time": "23:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "穿越", "性转", "龙傲天"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "白金终局（铂金终局）",
+      "weekday": "周五",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/d734cab8577bfee9bb5a919b066b2cd0.jpeg",
+      "cover_url_git": "img/2022/01/白金终局（铂金终局）.jpeg",
+      "play_time": "00:28",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "推理", "神魔", "大逃杀"]
+    },
+    {
+      "anime_name": "国王排名",
+      "weekday": "周五",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/16f8527c0d96605e10704101c8b75433.jpeg",
+      "cover_url_git": "img/2022/01/国王排名.jpeg",
+      "play_time": "01:25",
+      "play_date": "连载中",
+      "play_nums": "23",
+      "tags": ["奇幻", "冒险", "成长", "治愈", "励志"]
+    },
+    {
+      "anime_name": "川尻小玉的懒散生活",
+      "weekday": "周五",
+      "cover_url": "https://dm530.org/thumbnails/35604001.jpg",
+      "cover_url_git": "img/2022/01/川尻小玉的懒散生活.jpg",
+      "play_time": "02:25",
+      "play_date": "1.14",
+      "play_nums": "24",
+      "tags": ["日常", "懒散", "酒肉"]
+    },
+    {
+      "anime_name": "瓦尼塔斯的手记 后半篇",
+      "weekday": "周五",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/ba3ec8fdf8f46ca177914c8a651664ce.jpeg",
+      "cover_url_git": "img/2022/01/瓦尼塔斯的手记 后半篇.jpeg",
+      "play_time": "18:00",
+      "play_date": "2.25",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "吸血鬼"]
+    },
+    {
+      "anime_name": "女孩的钓鱼慢活（SLOW LOOP）",
+      "weekday": "周五",
+      "cover_url": "https://dm530.org/thumbnails/35300109.jpg",
+      "cover_url_git": "img/2022/01/女孩的钓鱼慢活（SLOW LOOP）.jpg",
+      "play_time": "22:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["日常", "钓鱼", "萌系", "轻百合", "芳文社"]
+    },
+    {
+      "anime_name": "一杆青空（空色Utility）",
+      "weekday": "周五",
+      "cover_url": "https://dm530.org/thumbnails/35639295.jpg",
+      "cover_url_git": "img/2022/01/一杆青空（空色Utility）.jpg",
+      "play_time": "18:00",
+      "play_date": "1.21",
+      "play_nums": "1",
+      "tags": ["运动", "日常", "高尔夫", "JK"]
+    },
+    {
+      "anime_name": "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gxx9z8t0mqj307409wq3d.jpg",
+      "cover_url_git": "img/2022/01/君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇.jpg",
+      "play_time": "22:30",
+      "play_date": "12.31",
+      "play_nums": "1",
+      "tags": ["奇幻", "冒险", "魔法"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "瓦尼塔斯的手记 后半篇（港澳台）",
+      "weekday": "周六",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/ba3ec8fdf8f46ca177914c8a651664ce.jpeg",
+      "cover_url_git": "img/2022/01/瓦尼塔斯的手记 后半篇（港澳台）.jpeg",
+      "play_time": "00:30",
+      "play_date": "1.15",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "吸血鬼"]
+    },
+    {
+      "anime_name": "少女前线",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvqud52yeqj60js0rsqd402.jpg",
+      "cover_url_git": "img/2022/01/少女前线.jpg",
+      "play_time": "01:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["科幻", "战斗", "枪械", "废土"]
+    },
+    {
+      "anime_name": "擅长捉弄的高木同学 第三季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20220028.jpg",
+      "cover_url_git": "img/2022/01/擅长捉弄的高木同学 第三季.jpg",
+      "play_time": "01:30",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["校园", "搞笑", "恋爱", "日常", "狗粮"]
+    },
+    {
+      "anime_name": "终末的哈勒姆（终末的后宫）",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gtr5v2t00mj607409wt9b02.jpg",
+      "cover_url_git": "img/2022/01/终末的哈勒姆（终末的后宫）.jpg",
+      "play_time": "01:30",
+      "play_date": "1.8",
+      "play_nums": "11",
+      "tags": ["科幻", "近未来", "后宫", "肉", "GHS"]
+    },
+    {
+      "anime_name": "指名！（CUE!）",
+      "weekday": "周六",
+      "cover_url": "https://dm530.org/thumbnails/35239983.jpg",
+      "cover_url_git": "img/2022/01/指名！（CUE!）.jpg",
+      "play_time": "01:55",
+      "play_date": "1.8",
+      "play_nums": "24",
+      "tags": ["声优", "成长", "业界", "职场"]
+    },
+    {
+      "anime_name": "勇者斗恶龙 达伊的大冒险",
+      "weekday": "周六",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/46e01d5622cae45e4b283d10eb31047b.jpeg",
+      "cover_url_git": "img/2022/01/勇者斗恶龙 达伊的大冒险.jpeg",
+      "play_time": "09:30",
+      "play_date": "连载中",
+      "play_nums": "100",
+      "tags": ["奇幻", "冒险", "战斗", "重置"]
+    },
+    {
+      "anime_name": "泡泡糖忍战",
+      "weekday": "周六",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f46557464a74ce573e33fae9c1d8797a.jpeg",
+      "cover_url_git": "img/2022/01/泡泡糖忍战.jpeg",
+      "play_time": "09:30",
+      "play_date": "1.8",
+      "play_nums": "",
+      "tags": ["奇幻", "忍者", "竞技"]
+    },
+    {
+      "anime_name": "白领羽球部（RYMANS CLUB）",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvnagsy3uyj60ku0t6n2002.jpg",
+      "cover_url_git": "img/2022/01/白领羽球部（RYMANS CLUB）.jpg",
+      "play_time": "17:00",
+      "play_date": "2.26",
+      "play_nums": "12",
+      "tags": ["运动", "竞技", "羽毛球", "社畜"]
+    },
+    {
+      "anime_name": "半妖的夜叉姬 第二季",
+      "weekday": "周六",
+      "cover_url": "https://dm530.org/thumbnails/35406660.jpg",
+      "cover_url_git": "img/2022/01/半妖的夜叉姬 第二季.jpg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "穿越", "战斗", "后传"]
+    },
+    {
+      "anime_name": "名侦探柯南",
+      "weekday": "周六",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/14ba18b178353d056290331fafd43b24.jpeg",
+      "cover_url_git": "img/2022/01/名侦探柯南.jpeg",
+      "play_time": "19:30",
+      "play_date": "连载中",
+      "play_nums": "1112",
+      "tags": ["推理", "悬疑", "智斗"]
+    },
+    {
+      "anime_name": "失格纹的最强贤者",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gtd3pd45mij307409w3z6.jpg",
+      "cover_url_git": "img/2022/01/失格纹的最强贤者.jpg",
+      "play_time": "22:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["奇幻", "转生", "战斗", "后宫", "龙傲天"]
+    },
+    {
+      "anime_name": "魔法科高校的劣等生 追忆篇",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/mw2000/9e6b7fdbly1go5jt3jifdj20lo0uue81.jpg",
+      "cover_url_git": "img/2022/01/魔法科高校的劣等生 追忆篇.jpg",
+      "play_time": "00:30",
+      "play_date": "1.1",
+      "play_nums": "1",
+      "tags": ["科幻", "异能", "兄妹", "回忆", "前传"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "相爱相杀（杀爱）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35282326.jpg",
+      "cover_url_git": "img/2022/01/相爱相杀（杀爱）.jpg",
+      "play_time": "00:30",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["杀手", "恋爱", "黑帮", "悬疑"]
+    },
+    {
+      "anime_name": "东京24区（港澳台）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvqngkkqi4j615o1n01kx02.jpg",
+      "cover_url_git": "img/2022/01/东京24区（港澳台）.jpg",
+      "play_time": "01:00",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]
+    },
+    {
+      "anime_name": "通灵王（新作）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
+      "cover_url_git": "img/2022/01/通灵王（新作）.jpeg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "52",
+      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "小小世界",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/017eb1dd27995a3804154f8f57e4f4a6.jpeg",
+      "cover_url_git": "img/2022/01/小小世界.jpeg",
+      "play_time": "18:00",
+      "play_date": "1.13",
+      "play_nums": "10",
+      "tags": ["音乐", "Q版"]
+    },
+    {
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gun5bsacpjj607409wmy102.jpg",
+      "cover_url_git": "img/2022/01/BanG Dream! 少女乐团派对！☆PICO Fever!.jpg",
+      "play_time": "23:00",
+      "play_date": "连载中",
+      "play_nums": "26",
+      "tags": ["Q版", "搞笑", "乐队", "日常"]
+    },
+    {
+      "anime_name": "最游记RELOAD -ZEROIN-",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693464934740_429889498.jpg",
+      "cover_url_git": "img/2022/01/最游记RELOAD -ZEROIN-.jpg",
+      "play_time": "23:00",
+      "play_date": "1.6",
+      "play_nums": "13",
+      "tags": ["奇幻", "热血", "架空", "冒险"]
+    },
+    {
+      "anime_name": "平凡职业造就世界最强 第二季",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35074694.jpg",
+      "cover_url_git": "img/2022/01/平凡职业造就世界最强 第二季.jpg",
+      "play_time": "23:30",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "后宫", "穿越", "龙傲天"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "更衣人偶坠入爱河（恋上换装娃娃）",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gvqo8cxudxj607409wweu02.jpg",
+      "cover_url_git": "img/2022/01/更衣人偶坠入爱河（恋上换装娃娃）.jpg",
+      "play_time": "00:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["校园", "日常", "Cos", "恋爱", "涩气"]
+    },
+    {
+      "anime_name": "86 -不存在的战区- （后半篇）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201225-1/573f1430c2316984bade8a39ca5dd188.jpg",
+      "cover_url_git": "img/2022/01/86 -不存在的战区- （后半篇）.jpg",
+      "play_time": "00:30",
+      "play_date": "3.13",
+      "play_nums": "12",
+      "tags": ["科幻", "战争", "机战", "架空", "悲壮"]
+    },
+    {
+      "anime_name": "明日酱的水手服",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/35417836.jpg",
+      "cover_url_git": "img/2022/01/明日酱的水手服.jpg",
+      "play_time": "01:00",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["校园", "乡村", "日常", "治愈", "精致"]
+    },
+    {
+      "anime_name": "现实主义勇者的王国再建记 第二季",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gx8r73g8k4j30ku0tggz6.jpg",
+      "cover_url_git": "img/2022/01/现实主义勇者的王国再建记 第二季.jpg",
+      "play_time": "01:30",
+      "play_date": "1.9",
+      "play_nums": "13",
+      "tags": ["异世界", "穿越", "奇幻", "治国", "“政勇”"]
+    },
+    {
+      "anime_name": "怪人开发部的黑井津小姐",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/35519110.jpg",
+      "cover_url_git": "img/2022/01/怪人开发部的黑井津小姐.jpg",
+      "play_time": "02:00",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["搞笑", "职场", "反派", "特摄联动"]
+    },
+    {
+      "anime_name": "白领羽球部（港澳台）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20220123.jpg",
+      "cover_url_git": "img/2022/01/白领羽球部（港澳台）.jpg",
+      "play_time": "02:00",
+      "play_date": "1.30",
+      "play_nums": "12",
+      "tags": ["运动", "竞技", "羽毛球", "社畜"]
+    },
+    {
+      "anime_name": "鲁邦三世 第六季",
+      "weekday": "周日",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201810922834063462.jpg",
+      "cover_url_git": "img/2022/01/鲁邦三世 第六季.jpg",
+      "play_time": "02:55",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["怪盗", "冒险", "悬疑", "搞笑"]
+    },
+    {
+      "anime_name": "美味PARTY♡光之美少女",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/35682436.jpg",
+      "cover_url_git": "img/2022/01/美味PARTY♡光之美少女.jpg",
+      "play_time": "07:30",
+      "play_date": "2.6",
+      "play_nums": "",
+      "tags": ["奇幻", "美少女", "战斗", "轻百合"]
+    },
+    {
+      "anime_name": "数码宝贝 幽灵游戏",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/ba8a06b247b273db532cc6346fe4b9b7.jpeg",
+      "cover_url_git": "img/2022/01/数码宝贝 幽灵游戏.jpeg",
+      "play_time": "08:00",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["奇幻", "冒险", "战斗", "热血"]
+    },
+    {
+      "anime_name": "博人传 火影忍者新时代",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/089c8dce07fef34ee7f178a396933a5b.jpeg",
+      "cover_url_git": "img/2022/01/博人传 火影忍者新时代.jpeg",
+      "play_time": "17:30",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "锈色铠甲 黎明",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f74d0e0014725a1c4d80a031dd0a859a.jpeg",
+      "cover_url_git": "img/2022/01/锈色铠甲 黎明.jpeg",
+      "play_time": "22:00",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "战争", "热血", "战国时代", "3D"]
+    },
+    {
+      "anime_name": "蔷薇王的葬列",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1giselmwvoaj30o00zee7h.jpg",
+      "cover_url_git": "img/2022/01/蔷薇王的葬列.jpg",
+      "play_time": "22:00",
+      "play_date": "1.9",
+      "play_nums": "24",
+      "tags": ["历史", "战争", "复仇", "扶她", "乙女向"]
+    },
+    {
+      "anime_name": "室内足球少年!!!!!（Futsal Boys!!!!!）",
+      "weekday": "周日",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693468658458_1707269805.jpg",
+      "cover_url_git": "img/2022/01/室内足球少年!!!!!（Futsal Boys!!!!!）.jpg",
+      "play_time": "22:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["校园", "运动", "竞技", "社团", "室内足球"]
+    },
+    {
+      "anime_name": "鬼灭之刃 游郭篇",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/34813210.jpg",
+      "cover_url_git": "img/2022/01/鬼灭之刃 游郭篇.jpg",
+      "play_time": "23:45",
+      "play_date": "连载中",
+      "play_nums": "11",
+      "tags": ["热血", "战斗", "奇幻", "冒险"]
+    },
+    {
+      "anime_name": "航海王（海贼王）",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/2050.jpg",
+      "cover_url_git": "img/2022/01/航海王（海贼王）.jpg",
+      "play_time": "上午",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["热血", "战斗", "冒险", "搞笑", "梦想"]
+    },
+    {
+      "anime_name": "Tropical-Rouge！光之美少女",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20210100.jpg",
+      "cover_url_git": "img/2022/01/Tropical-Rouge！光之美少女.jpg",
+      "play_time": "中午",
+      "play_date": "连载中",
+      "play_nums": "46",
+      "tags": ["奇幻", "美少女", "战斗", "轻百合"]
+    },
+    {
+      "anime_name": "永远的831",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gt68jk8zw9j30ku0tgtb4.jpg",
+      "cover_url_git": "img/2022/01/永远的831.jpg",
+      "play_time": "19:00",
+      "play_date": "1.30",
+      "play_nums": "1",
+      "tags": ["科幻", "乱世", "青春", "冒险", "3D"]
+    }
+  ]
+}

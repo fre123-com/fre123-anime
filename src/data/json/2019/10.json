@@ -1,1 +1,596 @@
-{"周一": [{"anime_name": "冰海战记（海盗战记）", "weekday": "周一", "play_time": "00:10", "play_date": "连载中", "play_nums": "24.0", "tags": ["战斗", "历史", "复仇", "冒险"]}, {"anime_name": "非洲动物上班族", "weekday": "周一", "play_time": "00:30", "play_date": "10.7", "play_nums": "12.0", "tags": ["搞笑", "职场", "动物"]}, {"anime_name": "巴比伦", "weekday": "周一", "play_time": "21:00", "play_date": "10.7", "play_nums": "12.0", "tags": ["悬疑", "科幻", "猎奇"]}, {"anime_name": "我，不是说了能力要平均值么！", "weekday": "周一", "play_time": "23:00", "play_date": "10.7", "play_nums": "12.0", "tags": ["穿越", "凤傲天", "奇幻", "萌系", "沙雕搞笑"]}, {"anime_name": "慕恋英雄（STAND MY HEROES PIECE OF TRUTH）", "weekday": "周一", "play_time": "23:00", "play_date": "10.7", "play_nums": "12.0", "tags": []}, {"anime_name": "梦幻之星 神谕篇", "weekday": "周一", "play_time": "23:00", "play_date": "10.7", "play_nums": "25.0", "tags": ["战斗", "科幻"]}], "周三": [{"anime_name": "神田川JET GIRLS", "weekday": "周三", "play_time": "00:00", "play_date": "10.9", "play_nums": "12.0", "tags": ["竞技", "肉", "百合"]}, {"anime_name": "花牌情缘 第三季", "weekday": "周三", "play_time": "02:29", "play_date": "10.23", "play_nums": "24.0", "tags": ["青春", "竞技", "乙女向"]}, {"anime_name": "七大罪 诸神的逆鳞", "weekday": "周三", "play_time": "18:00", "play_date": "10.9", "play_nums": "24.0", "tags": ["热血", "奇幻", "战斗", "神魔"]}, {"anime_name": "鸭子的天空（篮球少年王）", "weekday": "周三", "play_time": "18:25", "play_date": "10.2", "play_nums": "50.0", "tags": ["运动", "篮球", "热血", "励志", "竞技"]}, {"anime_name": "虚空魔境 第二季", "weekday": "周三", "play_time": "19:30", "play_date": "10.2", "play_nums": "21.0", "tags": ["热血", "奇幻", "战斗", "日法合作"]}, {"anime_name": "浦岛坂田船的日常", "weekday": "周三", "play_time": "22:00", "play_date": "10.2", "play_nums": "", "tags": []}, {"anime_name": "旗扬！兽道", "weekday": "周三", "play_time": "22:00", "play_date": "10.2", "play_nums": "12.0", "tags": ["穿越", "搞笑", "异世界", "沙雕"]}, {"anime_name": "这个勇者明明超强却过分慎重", "weekday": "周三", "play_time": "23:00", "play_date": "10.2", "play_nums": "12.0", "tags": ["异世界", "搞笑", "沙雕", "龙傲天", "颜艺"]}], "周二": [{"anime_name": "香蕉喵 不可思议的伙伴们", "weekday": "周二", "play_time": "07:33", "play_date": "10.1", "play_nums": "13.0", "tags": []}, {"anime_name": "黑色四叶草（黑色五叶草）", "weekday": "周二", "play_time": "18:25", "play_date": "连载中", "play_nums": "", "tags": ["奇幻", "魔法", "热血", "战斗", "咆哮帝"]}, {"anime_name": "钻石王牌 actⅡ", "weekday": "周二", "play_time": "18:30", "play_date": "连载中", "play_nums": "52.0", "tags": ["热血", "竞技", "棒球", "运动"]}, {"anime_name": "异界群敌 代码重组（Z/X Code reunion）", "weekday": "周二", "play_time": "22:30", "play_date": "10.8", "play_nums": "12.0", "tags": ["战斗", "萌系", "百合", "奇幻"]}], "周五": [{"anime_name": "非枪人生（NO GUNS LIFE）", "weekday": "周五", "play_time": "02:00", "play_date": "10.11", "play_nums": "12.0", "tags": ["战斗", "硬派"]}, {"anime_name": "NULL & PETA", "weekday": "周五", "play_time": "11:00", "play_date": "10.4", "play_nums": "12.0", "tags": ["日常", "搞笑", "百合", "萌系"]}, {"anime_name": "星合之空", "weekday": "周五", "play_time": "15:00", "play_date": "10.11", "play_nums": "12.0", "tags": ["运动", "网球", "青春", "校园", "竞技"]}, {"anime_name": "银河英雄传说：全新命题 星乱", "weekday": "周五", "play_time": "20:00", "play_date": "9.27", "play_nums": "12.0", "tags": ["太空", "科幻", "战争"]}, {"anime_name": "石纪元（Dr.STONE）", "weekday": "周五", "play_time": "22:30", "play_date": "连载中", "play_nums": "24.0", "tags": ["科学", "热血", "冒险", "励志"]}, {"anime_name": "厨病激发男孩", "weekday": "周五", "play_time": "23:00", "play_date": "10.4", "play_nums": "11.0", "tags": ["校园", "日常", "搞笑", "中二", "V家"]}], "周六": [{"anime_name": "碧蓝幻想 第二季", "weekday": "周六", "play_time": "00:30", "play_date": "10.5", "play_nums": "14.0", "tags": ["冒险", "奇幻", "战斗"]}, {"anime_name": "食戟之灵 第四季（神之皿）", "weekday": "周六", "play_time": "00:30", "play_date": "10.12", "play_nums": "25.0", "tags": ["美食", "热血", "校园", "竞技"]}, {"anime_name": "歌舞伎町夏洛克", "weekday": "周六", "play_time": "00:55", "play_date": "10.12", "play_nums": "24.0", "tags": ["悬疑", "群像"]}, {"anime_name": "炎炎消防队", "weekday": "周六", "play_time": "01:00", "play_date": "连载中", "play_nums": "24.0", "tags": ["热血", "战斗", "奇幻"]}, {"anime_name": "厨神小当家", "weekday": "周六", "play_time": "01:25", "play_date": "10.12", "play_nums": "12.0", "tags": ["美食", "热血", "有生之年"]}, {"anime_name": "高分少女 第二季", "weekday": "周六", "play_time": "02:55", "play_date": "10.26", "play_nums": "9.0", "tags": ["游戏", "青春", "恋爱", "搞笑"]}, {"anime_name": "偶像活动 on Parade！", "weekday": "周六", "play_time": "10:30", "play_date": "10.5", "play_nums": "25.0", "tags": []}, {"anime_name": "我的英雄学院 第四季", "weekday": "周六", "play_time": "18:00", "play_date": "10.12", "play_nums": "25.0", "tags": ["热血", "战斗", "超能力", "校园", "励志"]}, {"anime_name": "入间同学入魔了", "weekday": "周六", "play_time": "19:00", "play_date": "10.5", "play_nums": "23.0", "tags": ["奇幻", "搞笑", "校园"]}, {"anime_name": "战×恋", "weekday": "周六", "play_time": "22:30", "play_date": "10.5", "play_nums": "12.0", "tags": ["后宫", "战斗", "奇幻", "恋爱", "肉"]}], "周四": [{"anime_name": "爱书的下克上：为了成为图书管理员不择手段！", "weekday": "周四", "play_time": "00:30", "play_date": "10.3", "play_nums": "14.0", "tags": ["异世界", "奇幻", "励志", "种田"]}, {"anime_name": "喜欢本大爷的竟然就你一个？", "weekday": "周四", "play_time": "01:00", "play_date": "10.3", "play_nums": "12.0", "tags": ["校园", "搞笑", "恋爱", "贵乱", "反套路"]}, {"anime_name": "放学后桌游俱乐部", "weekday": "周四", "play_time": "02:11", "play_date": "10.3", "play_nums": "12.0", "tags": ["校园", "日常", "青春", "社团", "桌游"]}, {"anime_name": "动物狂想曲（BEASTARS）", "weekday": "周四", "play_time": "03:25", "play_date": "10.10", "play_nums": "", "tags": ["动物", "校园", "恋爱"]}, {"anime_name": "高达创形者 再起", "weekday": "周四", "play_time": "19:00", "play_date": "10.10", "play_nums": "", "tags": ["机战", "热血", "卖胶"]}, {"anime_name": "超人高中生们即便在异世界也能从容生存！", "weekday": "周四", "play_time": "22:00", "play_date": "10.3", "play_nums": "12.0", "tags": ["穿越", "异世界", "龙傲天", "奇幻"]}, {"anime_name": "碧蓝航线", "weekday": "周四", "play_time": "23:00", "play_date": "10.3", "play_nums": "12.0", "tags": ["战斗", "科幻", "肉搏(×)", "萌系", "舰娘"]}, {"anime_name": "刺客守则", "weekday": "周四", "play_time": "23:00", "play_date": "10.10", "play_nums": "12.0", "tags": ["后宫", "战斗", "奇幻"]}, {"anime_name": "心理测量者 第三季", "weekday": "周四", "play_time": "23:55", "play_date": "10.24", "play_nums": "8.0", "tags": ["科幻", "犯罪", "刑侦", "悬疑"]}, {"anime_name": "无限之住人-IMMORTAL-", "weekday": "周四", "play_time": "", "play_date": "10.10", "play_nums": "24.0", "tags": ["武士", "打斗", "重置"]}], "周日": [{"anime_name": "命运-冠位指定 绝对魔兽战线 巴比伦尼亚", "weekday": "周日", "play_time": "00:00", "play_date": "10.6", "play_nums": "21.0", "tags": ["战斗", "奇幻", "冒险"]}, {"anime_name": "刀剑神域 第三季 War of Underworld篇", "weekday": "周日", "play_time": "00:30", "play_date": "10.13", "play_nums": "12.0", "tags": ["科幻", "战斗", "后宫", "热血", "奇幻"]}, {"anime_name": "我们无法一起学习 第二季", "weekday": "周日", "play_time": "01:00", "play_date": "10.6", "play_nums": "13.0", "tags": ["后宫", "校园", "恋爱", "搞笑", "日常"]}, {"anime_name": "一弦定音！ 第二季", "weekday": "周日", "play_time": "01:30", "play_date": "10.6", "play_nums": "13.0", "tags": ["校园", "音乐", "青春", "励志"]}, {"anime_name": "Star☆Twinkle光之美少女", "weekday": "周日", "play_time": "12:00", "play_date": "连载中", "play_nums": "50.0", "tags": ["奇幻", "战斗", "魔法少女"]}, {"anime_name": "咯咯咯鬼太郎 第六季", "weekday": "周日", "play_time": "12:00", "play_date": "连载中", "play_nums": "", "tags": ["妖怪", "冒险", "悬疑", "经典"]}, {"anime_name": "博人传 火影忍者新时代", "weekday": "周日", "play_time": "17:30", "play_date": "连载中", "play_nums": "", "tags": ["热血", "战斗", "冒险", "忍者世界"]}, {"anime_name": "警视厅 特务部 特殊凶恶犯对策室 第七课", "weekday": "周日", "play_time": "21:30", "play_date": "10.6", "play_nums": "13.0", "tags": ["悬疑", "犯罪", "刑侦"]}, {"anime_name": "天华百剑 ～欢迎来到铭治馆！～", "weekday": "周日", "play_time": "21:54", "play_date": "10.13", "play_nums": "", "tags": []}, {"anime_name": "偶像梦幻祭", "weekday": "周日", "play_time": "22:00", "play_date": "连载中", "play_nums": "24.0", "tags": ["偶像", "校园", "音乐", "女性向"]}, {"anime_name": "歌塑世界（ACTORS -Songs Connection-）", "weekday": "周日", "play_time": "22:30", "play_date": "10.6", "play_nums": "12.0", "tags": ["青春", "音乐"]}, {"anime_name": "Fairy gone 第二季", "weekday": "周日", "play_time": "23:00", "play_date": "10.6", "play_nums": "12.0", "tags": ["奇幻", "战斗"]}, {"anime_name": "XL上司。", "weekday": "周日", "play_time": "23:00", "play_date": "10.6", "play_nums": "", "tags": ["福利", "“鼓掌”", "网盘见"]}, {"anime_name": "美妙竞技射击部（Rifle is Beautiful）", "weekday": "周日", "play_time": "23:30", "play_date": "10.13", "play_nums": "12.0", "tags": ["校园", "青春", "日常", "枪械", "百合"]}]}
+{
+  "周一": [
+    {
+      "anime_name": "冰海战记（海盗战记）",
+      "weekday": "周一",
+      "cover_url": "https://unmc.cdn.bcebos.com/1696052245224_352746325.jpg",
+      "cover_url_git": "img/2019/10/冰海战记（海盗战记）.jpg",
+      "play_time": "00:10",
+      "play_date": "连载中",
+      "play_nums": "24.0",
+      "tags": ["战斗", "历史", "复仇", "冒险"]
+    },
+    {
+      "anime_name": "非洲动物上班族",
+      "weekday": "周一",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695890726311_349828030.jpg",
+      "cover_url_git": "img/2019/10/非洲动物上班族.jpg",
+      "play_time": "00:30",
+      "play_date": "10.7",
+      "play_nums": "12.0",
+      "tags": ["搞笑", "职场", "动物"]
+    },
+    {
+      "anime_name": "巴比伦",
+      "weekday": "周一",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891062965_2021529946.jpg",
+      "cover_url_git": "img/2019/10/巴比伦.jpg",
+      "play_time": "21:00",
+      "play_date": "10.7",
+      "play_nums": "12.0",
+      "tags": ["悬疑", "科幻", "猎奇"]
+    },
+    {
+      "anime_name": "我，不是说了能力要平均值么！",
+      "weekday": "周一",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/a6f5ba0fa2d93421722510abe612afed.jpg",
+      "cover_url_git": "img/2019/10/我，不是说了能力要平均值么！.jpg",
+      "play_time": "23:00",
+      "play_date": "10.7",
+      "play_nums": "12.0",
+      "tags": ["穿越", "凤傲天", "奇幻", "萌系", "沙雕搞笑"]
+    },
+    {
+      "anime_name": "慕恋英雄（STAND MY HEROES PIECE OF TRUTH）",
+      "weekday": "周一",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/a99e93a3b176f7d0893643d1b4f5d83c.jpg",
+      "cover_url_git": "img/2019/10/慕恋英雄（STAND MY HEROES PIECE OF TRUTH）.jpg",
+      "play_time": "23:00",
+      "play_date": "10.7",
+      "play_nums": "12.0",
+      "tags": []
+    },
+    {
+      "anime_name": "梦幻之星 神谕篇",
+      "weekday": "周一",
+      "cover_url": "https://www.iyxdm.cc/uploads/allimg/c160219/1455U14Z25430-1062R.jpg",
+      "cover_url_git": "img/2019/10/梦幻之星 神谕篇.jpg",
+      "play_time": "23:00",
+      "play_date": "10.7",
+      "play_nums": "25.0",
+      "tags": ["战斗", "科幻"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "神田川JET GIRLS",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/4e54c08c870fff813c00810e8a07690f.jpg",
+      "cover_url_git": "img/2019/10/神田川JET GIRLS.jpg",
+      "play_time": "00:00",
+      "play_date": "10.9",
+      "play_nums": "12.0",
+      "tags": ["竞技", "肉", "百合"]
+    },
+    {
+      "anime_name": "花牌情缘 第三季",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2018101395023461.jpg?1",
+      "cover_url_git": "img/2019/10/花牌情缘 第三季.jpg?1",
+      "play_time": "02:29",
+      "play_date": "10.23",
+      "play_nums": "24.0",
+      "tags": ["青春", "竞技", "乙女向"]
+    },
+    {
+      "anime_name": "七大罪 诸神的逆鳞",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/21616.jpg",
+      "cover_url_git": "img/2019/10/七大罪 诸神的逆鳞.jpg",
+      "play_time": "18:00",
+      "play_date": "10.9",
+      "play_nums": "24.0",
+      "tags": ["热血", "奇幻", "战斗", "神魔"]
+    },
+    {
+      "anime_name": "鸭子的天空（篮球少年王）",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891288805_356135127.jpg",
+      "cover_url_git": "img/2019/10/鸭子的天空（篮球少年王）.jpg",
+      "play_time": "18:25",
+      "play_date": "10.2",
+      "play_nums": "50.0",
+      "tags": ["运动", "篮球", "热血", "励志", "竞技"]
+    },
+    {
+      "anime_name": "虚空魔境 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/61221fa56b1c056c84eda6cc40d2a643.jpg",
+      "cover_url_git": "img/2019/10/虚空魔境 第二季.jpg",
+      "play_time": "19:30",
+      "play_date": "10.2",
+      "play_nums": "21.0",
+      "tags": ["热血", "奇幻", "战斗", "日法合作"]
+    },
+    {
+      "anime_name": "浦岛坂田船的日常",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/21642.jpg",
+      "cover_url_git": "img/2019/10/浦岛坂田船的日常.jpg",
+      "play_time": "22:00",
+      "play_date": "10.2",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "旗扬！兽道",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/7ac90e07520419ba3b03ce83eded40f2.jpg",
+      "cover_url_git": "img/2019/10/旗扬！兽道.jpg",
+      "play_time": "22:00",
+      "play_date": "10.2",
+      "play_nums": "12.0",
+      "tags": ["穿越", "搞笑", "异世界", "沙雕"]
+    },
+    {
+      "anime_name": "这个勇者明明超强却过分慎重",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201907109583406822.jpg?2",
+      "cover_url_git": "img/2019/10/这个勇者明明超强却过分慎重.jpg?2",
+      "play_time": "23:00",
+      "play_date": "10.2",
+      "play_nums": "12.0",
+      "tags": ["异世界", "搞笑", "沙雕", "龙傲天", "颜艺"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "香蕉喵 不可思议的伙伴们",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/ea5ff230aa516c6dd4c0265d1742158a.jpg",
+      "cover_url_git": "img/2019/10/香蕉喵 不可思议的伙伴们.jpg",
+      "play_time": "07:33",
+      "play_date": "10.1",
+      "play_nums": "13.0",
+      "tags": []
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/6738.jpg",
+      "cover_url_git": "img/2019/10/黑色四叶草（黑色五叶草）.jpg",
+      "play_time": "18:25",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["奇幻", "魔法", "热血", "战斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "钻石王牌 actⅡ",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201904029137598234612.jpg",
+      "cover_url_git": "img/2019/10/钻石王牌 actⅡ.jpg",
+      "play_time": "18:30",
+      "play_date": "连载中",
+      "play_nums": "52.0",
+      "tags": ["热血", "竞技", "棒球", "运动"]
+    },
+    {
+      "anime_name": "异界群敌 代码重组（Z/X Code reunion）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/21659.jpg",
+      "cover_url_git": "",
+      "play_time": "22:30",
+      "play_date": "10.8",
+      "play_nums": "12.0",
+      "tags": ["战斗", "萌系", "百合", "奇幻"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "非枪人生（NO GUNS LIFE）",
+      "weekday": "周五",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/4501d9f5410babf2b5520e3931fbe8ea.jpg",
+      "cover_url_git": "img/2019/10/非枪人生（NO GUNS LIFE）.jpg",
+      "play_time": "02:00",
+      "play_date": "10.11",
+      "play_nums": "12.0",
+      "tags": ["战斗", "硬派"]
+    },
+    {
+      "anime_name": "NULL & PETA",
+      "weekday": "周五",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/abda1e5d72b062dcf1009faac4bf1130.jpg",
+      "cover_url_git": "img/2019/10/NULL & PETA.jpg",
+      "play_time": "11:00",
+      "play_date": "10.4",
+      "play_nums": "12.0",
+      "tags": ["日常", "搞笑", "百合", "萌系"]
+    },
+    {
+      "anime_name": "星合之空",
+      "weekday": "周五",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891163366_541793237.jpg",
+      "cover_url_git": "img/2019/10/星合之空.jpg",
+      "play_time": "15:00",
+      "play_date": "10.11",
+      "play_nums": "12.0",
+      "tags": ["运动", "网球", "青春", "校园", "竞技"]
+    },
+    {
+      "anime_name": "银河英雄传说：全新命题 星乱",
+      "weekday": "周五",
+      "cover_url": "https://dm530.org/thumbnails/34918429.jpg",
+      "cover_url_git": "img/2019/10/银河英雄传说：全新命题 星乱.jpg",
+      "play_time": "20:00",
+      "play_date": "9.27",
+      "play_nums": "12.0",
+      "tags": ["太空", "科幻", "战争"]
+    },
+    {
+      "anime_name": "石纪元（Dr.STONE）",
+      "weekday": "周五",
+      "cover_url": "https://unmc.cdn.bcebos.com/1696052202393_1391743632.jpg",
+      "cover_url_git": "img/2019/10/石纪元（Dr.STONE）.jpg",
+      "play_time": "22:30",
+      "play_date": "连载中",
+      "play_nums": "24.0",
+      "tags": ["科学", "热血", "冒险", "励志"]
+    },
+    {
+      "anime_name": "厨病激发男孩",
+      "weekday": "周五",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695890980592_1780998621.jpg",
+      "cover_url_git": "img/2019/10/厨病激发男孩.jpg",
+      "play_time": "23:00",
+      "play_date": "10.4",
+      "play_nums": "11.0",
+      "tags": ["校园", "日常", "搞笑", "中二", "V家"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "碧蓝幻想 第二季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190179.jpg",
+      "cover_url_git": "img/2019/10/碧蓝幻想 第二季.jpg",
+      "play_time": "00:30",
+      "play_date": "10.5",
+      "play_nums": "14.0",
+      "tags": ["冒险", "奇幻", "战斗"]
+    },
+    {
+      "anime_name": "食戟之灵 第四季（神之皿）",
+      "weekday": "周六",
+      "cover_url": "https://dm530.org/thumbnails/21600.jpg",
+      "cover_url_git": "img/2019/10/食戟之灵 第四季（神之皿）.jpg",
+      "play_time": "00:30",
+      "play_date": "10.12",
+      "play_nums": "25.0",
+      "tags": ["美食", "热血", "校园", "竞技"]
+    },
+    {
+      "anime_name": "歌舞伎町夏洛克",
+      "weekday": "周六",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/2dca9470a387d1887635cdafffc05ad8.jpg",
+      "cover_url_git": "img/2019/10/歌舞伎町夏洛克.jpg",
+      "play_time": "00:55",
+      "play_date": "10.12",
+      "play_nums": "24.0",
+      "tags": ["悬疑", "群像"]
+    },
+    {
+      "anime_name": "炎炎消防队",
+      "weekday": "周六",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/99457772ecf9501d67e7ba6fc3e17e0e.jpg",
+      "cover_url_git": "img/2019/10/炎炎消防队.jpg",
+      "play_time": "01:00",
+      "play_date": "连载中",
+      "play_nums": "24.0",
+      "tags": ["热血", "战斗", "奇幻"]
+    },
+    {
+      "anime_name": "厨神小当家",
+      "weekday": "周六",
+      "cover_url": "https://unmc.cdn.bcebos.com/1696052327819_1243276339.jpg",
+      "cover_url_git": "img/2019/10/厨神小当家.jpg",
+      "play_time": "01:25",
+      "play_date": "10.12",
+      "play_nums": "12.0",
+      "tags": ["美食", "热血", "有生之年"]
+    },
+    {
+      "anime_name": "高分少女 第二季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190182.jpg",
+      "cover_url_git": "img/2019/10/高分少女 第二季.jpg",
+      "play_time": "02:55",
+      "play_date": "10.26",
+      "play_nums": "9.0",
+      "tags": ["游戏", "青春", "恋爱", "搞笑"]
+    },
+    {
+      "anime_name": "偶像活动 on Parade！",
+      "weekday": "周六",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/ae733049f5709c3160b38c0dd71e69bd.jpg",
+      "cover_url_git": "img/2019/10/偶像活动 on Parade！.jpg",
+      "play_time": "10:30",
+      "play_date": "10.5",
+      "play_nums": "25.0",
+      "tags": []
+    },
+    {
+      "anime_name": "我的英雄学院 第四季",
+      "weekday": "周六",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/2729ad6f4c241093190685e27a2592bd.jpeg",
+      "cover_url_git": "img/2019/10/我的英雄学院 第四季.jpeg",
+      "play_time": "18:00",
+      "play_date": "10.12",
+      "play_nums": "25.0",
+      "tags": ["热血", "战斗", "超能力", "校园", "励志"]
+    },
+    {
+      "anime_name": "入间同学入魔了",
+      "weekday": "周六",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/b149e5dcdaf9eaa6b0153bd52dc99972.jpg",
+      "cover_url_git": "img/2019/10/入间同学入魔了.jpg",
+      "play_time": "19:00",
+      "play_date": "10.5",
+      "play_nums": "23.0",
+      "tags": ["奇幻", "搞笑", "校园"]
+    },
+    {
+      "anime_name": "战×恋",
+      "weekday": "周六",
+      "cover_url": "https://dm530.org/thumbnails/21595.jpg",
+      "cover_url_git": "img/2019/10/战×恋.jpg",
+      "play_time": "22:30",
+      "play_date": "10.5",
+      "play_nums": "12.0",
+      "tags": ["后宫", "战斗", "奇幻", "恋爱", "肉"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "爱书的下克上：为了成为图书管理员不择手段！",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/895da1f071bf04516020e41df9feec29.jpg",
+      "cover_url_git": "img/2019/10/爱书的下克上：为了成为图书管理员不择手段！.jpg",
+      "play_time": "00:30",
+      "play_date": "10.3",
+      "play_nums": "14.0",
+      "tags": ["异世界", "奇幻", "励志", "种田"]
+    },
+    {
+      "anime_name": "喜欢本大爷的竟然就你一个？",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695890969594_1192863631.jpg",
+      "cover_url_git": "img/2019/10/喜欢本大爷的竟然就你一个？.jpg",
+      "play_time": "01:00",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["校园", "搞笑", "恋爱", "贵乱", "反套路"]
+    },
+    {
+      "anime_name": "放学后桌游俱乐部",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190036.jpg",
+      "cover_url_git": "img/2019/10/放学后桌游俱乐部.jpg",
+      "play_time": "02:11",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["校园", "日常", "青春", "社团", "桌游"]
+    },
+    {
+      "anime_name": "动物狂想曲（BEASTARS）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21639.jpg",
+      "cover_url_git": "img/2019/10/动物狂想曲（BEASTARS）.jpg",
+      "play_time": "03:25",
+      "play_date": "10.10",
+      "play_nums": "",
+      "tags": ["动物", "校园", "恋爱"]
+    },
+    {
+      "anime_name": "高达创形者 再起",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
+      "cover_url_git": "img/2019/10/高达创形者 再起.jpg",
+      "play_time": "19:00",
+      "play_date": "10.10",
+      "play_nums": "",
+      "tags": ["机战", "热血", "卖胶"]
+    },
+    {
+      "anime_name": "超人高中生们即便在异世界也能从容生存！",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/88d44eb41509f501b73b7de7bf7e1527.jpg",
+      "cover_url_git": "img/2019/10/超人高中生们即便在异世界也能从容生存！.jpg",
+      "play_time": "22:00",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["穿越", "异世界", "龙傲天", "奇幻"]
+    },
+    {
+      "anime_name": "碧蓝航线",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/0b29498de44a5ca5094b2017ded0eccc.jpg",
+      "cover_url_git": "img/2019/10/碧蓝航线.jpg",
+      "play_time": "23:00",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["战斗", "科幻", "肉搏(×)", "萌系", "舰娘"]
+    },
+    {
+      "anime_name": "刺客守则",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891015898_183658674.jpg",
+      "cover_url_git": "img/2019/10/刺客守则.jpg",
+      "play_time": "23:00",
+      "play_date": "10.10",
+      "play_nums": "12.0",
+      "tags": ["后宫", "战斗", "奇幻"]
+    },
+    {
+      "anime_name": "心理测量者 第三季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190180.jpg",
+      "cover_url_git": "img/2019/10/心理测量者 第三季.jpg",
+      "play_time": "23:55",
+      "play_date": "10.24",
+      "play_nums": "8.0",
+      "tags": ["科幻", "犯罪", "刑侦", "悬疑"]
+    },
+    {
+      "anime_name": "无限之住人-IMMORTAL-",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/bb305d3923ea75e11e7aeac80a865ed4.jpeg",
+      "cover_url_git": "img/2019/10/无限之住人-IMMORTAL-.jpeg",
+      "play_time": "",
+      "play_date": "10.10",
+      "play_nums": "24.0",
+      "tags": ["武士", "打斗", "重置"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "命运-冠位指定 绝对魔兽战线 巴比伦尼亚",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/e9b8b85287a6a46cfbea5e3e0ee93b70.jpg",
+      "cover_url_git": "img/2019/10/命运-冠位指定 绝对魔兽战线 巴比伦尼亚.jpg",
+      "play_time": "00:00",
+      "play_date": "10.6",
+      "play_nums": "21.0",
+      "tags": ["战斗", "奇幻", "冒险"]
+    },
+    {
+      "anime_name": "刀剑神域 第三季 War of Underworld篇",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/6da165c94bc1d23f873cc4e5093514f1.jpeg",
+      "cover_url_git": "img/2019/10/刀剑神域 第三季 War of Underworld篇.jpeg",
+      "play_time": "00:30",
+      "play_date": "10.13",
+      "play_nums": "12.0",
+      "tags": ["科幻", "战斗", "后宫", "热血", "奇幻"]
+    },
+    {
+      "anime_name": "我们无法一起学习 第二季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/d800e3ebac659e5975901756c71dc336.jpg",
+      "cover_url_git": "img/2019/10/我们无法一起学习 第二季.jpg",
+      "play_time": "01:00",
+      "play_date": "10.6",
+      "play_nums": "13.0",
+      "tags": ["后宫", "校园", "恋爱", "搞笑", "日常"]
+    },
+    {
+      "anime_name": "一弦定音！ 第二季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190281.jpg",
+      "cover_url_git": "img/2019/10/一弦定音！ 第二季.jpg",
+      "play_time": "01:30",
+      "play_date": "10.6",
+      "play_nums": "13.0",
+      "tags": ["校园", "音乐", "青春", "励志"]
+    },
+    {
+      "anime_name": "Star☆Twinkle光之美少女",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/3ff10f42525ece0be372a7eae6f1fb77.jpeg",
+      "cover_url_git": "img/2019/10/Star☆Twinkle光之美少女.jpeg",
+      "play_time": "12:00",
+      "play_date": "连载中",
+      "play_nums": "50.0",
+      "tags": ["奇幻", "战斗", "魔法少女"]
+    },
+    {
+      "anime_name": "咯咯咯鬼太郎 第六季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/361df5cf692c8962d39ec0e0457c4e5a.jpg",
+      "cover_url_git": "img/2019/10/咯咯咯鬼太郎 第六季.jpg",
+      "play_time": "12:00",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["妖怪", "冒险", "悬疑", "经典"]
+    },
+    {
+      "anime_name": "博人传 火影忍者新时代",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/089c8dce07fef34ee7f178a396933a5b.jpeg",
+      "cover_url_git": "img/2019/10/博人传 火影忍者新时代.jpeg",
+      "play_time": "17:30",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "警视厅 特务部 特殊凶恶犯对策室 第七课",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190217.jpg",
+      "cover_url_git": "img/2019/10/警视厅 特务部 特殊凶恶犯对策室 第七课.jpg",
+      "play_time": "21:30",
+      "play_date": "10.6",
+      "play_nums": "13.0",
+      "tags": ["悬疑", "犯罪", "刑侦"]
+    },
+    {
+      "anime_name": "天华百剑 ～欢迎来到铭治馆！～",
+      "weekday": "周日",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695898822950_683601027.jpg",
+      "cover_url_git": "img/2019/10/天华百剑 ～欢迎来到铭治馆！～.jpg",
+      "play_time": "21:54",
+      "play_date": "10.13",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "偶像梦幻祭",
+      "weekday": "周日",
+      "cover_url": "https://dm530.org/thumbnails/6271.jpg",
+      "cover_url_git": "img/2019/10/偶像梦幻祭.jpg",
+      "play_time": "22:00",
+      "play_date": "连载中",
+      "play_nums": "24.0",
+      "tags": ["偶像", "校园", "音乐", "女性向"]
+    },
+    {
+      "anime_name": "歌塑世界（ACTORS -Songs Connection-）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201216-1/3d98a1575f4559d62b41ffbb3a931070.jpg",
+      "cover_url_git": "img/2019/10/歌塑世界（ACTORS -Songs Connection-）.jpg",
+      "play_time": "22:30",
+      "play_date": "10.6",
+      "play_nums": "12.0",
+      "tags": ["青春", "音乐"]
+    },
+    {
+      "anime_name": "Fairy gone 第二季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201216-1/94e1bd8a7f0bd02d54a7b3426283b528.jpg",
+      "cover_url_git": "img/2019/10/Fairy gone 第二季.jpg",
+      "play_time": "23:00",
+      "play_date": "10.6",
+      "play_nums": "12.0",
+      "tags": ["奇幻", "战斗"]
+    },
+    {
+      "anime_name": "XL上司。",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201208-1/51e7780435b8d5d0b15a593eb7307e50.jpg",
+      "cover_url_git": "img/2019/10/XL上司。.jpg",
+      "play_time": "23:00",
+      "play_date": "10.6",
+      "play_nums": "",
+      "tags": ["福利", "“鼓掌”", "网盘见"]
+    },
+    {
+      "anime_name": "美妙竞技射击部（Rifle is Beautiful）",
+      "weekday": "周日",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/eb81f39e30bbd8f08442c9b9a8784bda.jpeg",
+      "cover_url_git": "img/2019/10/美妙竞技射击部（Rifle is Beautiful）.jpeg",
+      "play_time": "23:30",
+      "play_date": "10.13",
+      "play_nums": "12.0",
+      "tags": ["校园", "青春", "日常", "枪械", "百合"]
+    }
+  ]
+}

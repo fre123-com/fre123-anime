@@ -1,6 +1,7 @@
 """
     Created by howie.hu at 2024-02-28.
     Description: 处理excel为json
+    Command: pipenv run python ./src/excel2json.py
     Changelog: all notable changes to this file will be documented
 """
 
@@ -8,8 +9,35 @@ import json
 import os
 
 import pandas as pd
+import requests
+import urllib3
 
-data_path = os.path.join(os.path.dirname(__file__), "data")
+from src.anime_info import get_anime_cover
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+
+def load_img_url(img_url: str, img_path: str):
+    """
+    持久化图片到本地
+    Args:
+        img_url (str): 图片地址
+    """
+    # 下载前先判断本地路径是否存在
+    try:
+        if os.path.exists(img_path):
+            return True
+        else:
+            if not img_url.startswith("http"):
+                img_url = "https:" + img_url
+            response = requests.get(img_url, verify=False, timeout=30)
+            response.raise_for_status()
+            with open(img_path, "wb") as f:
+                f.write(response.content)
+                return True
+    except Exception as e:
+        print(f"图片下载失败：{img_path} \n img_url \n {e}")
+        return False
 
 
 def contains_str(row, str_list):
@@ -29,8 +57,11 @@ def get_anime_data(year, month):
     """
     获取动画数据
     """
+
+    data_path = os.path.join(os.path.dirname(__file__), "data")
     excel_path = os.path.join(data_path, f"excel/{year}/{month}.xlsx")
     json_path = os.path.join(data_path, f"json/{year}/{month}.json")
+    print(f"正在读取： {excel_path}")
     all_sheets = pd.read_excel(excel_path, sheet_name=None, engine="openpyxl")
     anime_data = []
     week_list = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
@@ -54,9 +85,9 @@ def get_anime_data(year, month):
                     if each == "nan":
                         each = ""
                     final_row_list.append(each)
-
-                weekday_str = str(final_row_list[1]).strip()
-                weekday, play_time = "", str(final_row_list[2]).strip()
+                anime_name = final_row_list[0]
+                weekday_str = final_row_list[1]
+                weekday, play_time = "", final_row_list[2]
                 for each in week_list:
                     if each in weekday_str:
                         weekday = each
@@ -71,9 +102,17 @@ def get_anime_data(year, month):
                 elif "、" in tags_str:
                     for each_tag in tags_str.split("、"):
                         tags.append(each_tag.strip())
+                cover_url = get_anime_cover(anime_name)
+                img_name = anime_name + "." + cover_url.split(".")[-1]
+                img_local_path = f"img/{year}/{month}/{img_name}"
+
+                img_path = os.path.join(data_path, img_local_path)
+                is_upload_img_ok = load_img_url(cover_url, img_path)
                 row_data = {
-                    "anime_name": final_row_list[0],
+                    "anime_name": anime_name,
                     "weekday": weekday,
+                    "cover_url": cover_url,
+                    "cover_url_git": img_local_path if is_upload_img_ok else "",
                     "play_time": play_time,
                     "play_date": final_row_list[-4],
                     "play_nums": final_row_list[-3],
@@ -104,6 +143,8 @@ def get_anime_data(year, month):
 
 if __name__ == "__main__":
     # 2024 年单独计算
-    for year in range(2017, 2024):
-        for month in ["01", "04", "07", "10"]:
-            get_anime_data(str(year), month)
+    year, month = 2024, "01"
+    get_anime_data(str(year), month)
+    # for year in range(2017, 2024):
+    #     for month in ["01", "04", "07", "10"]:
+    #         get_anime_data(str(year), month)
