@@ -1,0 +1,496 @@
+{
+  "周一": [
+    {
+      "anime_name": "相亲对象是强硬的问题学生",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "10.2",
+      "play_nums": "12",
+      "tags": ["师生", "恋爱", "福利", "完整版网盘见"]
+    },
+    {
+      "anime_name": "爱米-WE LOVE RICE- 第二季",
+      "weekday": "周一",
+      "play_time": "01:00",
+      "play_date": "10.9",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "银魂. 走光篇",
+      "weekday": "周一",
+      "play_time": "01:35",
+      "play_date": "10.2",
+      "play_nums": "季",
+      "tags": ["科幻", "打斗", "无厘头", "无节操"]
+    },
+    {
+      "anime_name": "妖怪公寓的优雅日常",
+      "weekday": "周一",
+      "play_time": "22:30",
+      "play_date": "在播",
+      "play_nums": "半年",
+      "tags": ["日常", "妖怪", "神魔", "儿童文学"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "品酒要在成为夫妻后",
+      "weekday": "周三",
+      "play_time": "00:05",
+      "play_date": "10.4",
+      "play_nums": "13",
+      "tags": []
+    },
+    {
+      "anime_name": "食戟之灵 第三季",
+      "weekday": "周三",
+      "play_time": "00:30",
+      "play_date": "10.4",
+      "play_nums": "24",
+      "tags": ["校园", "美食", "“肉”", "春药之灵"]
+    },
+    {
+      "anime_name": "Infini-T Force",
+      "weekday": "周三",
+      "play_time": "01:35",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["科幻", "动作", "超级英雄", "3DCG"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周三",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "URAHARA",
+      "weekday": "周三",
+      "play_time": "19:00",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": ["科幻", "文化", "脑洞", "外星人"]
+    },
+    {
+      "anime_name": "梦之祭 第二季",
+      "weekday": "周三",
+      "play_time": "20:00",
+      "play_date": "在播",
+      "play_nums": "季",
+      "tags": ["青春", "偶像", "音乐", "男团"]
+    },
+    {
+      "anime_name": "TSUKIPRO",
+      "weekday": "周三",
+      "play_time": "22:30",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": ["偶像", "日常", "音乐", "男团"]
+    },
+    {
+      "anime_name": "雨色可可 第四季",
+      "weekday": "周三",
+      "play_time": "23:30",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": []
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "Dia Horizon",
+      "weekday": "周二",
+      "play_time": "00:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "UQ HOLDER！悠久持有者！",
+      "weekday": "周二",
+      "play_time": "00:30",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["冒险", "热血", "魔法", "后传"]
+    },
+    {
+      "anime_name": "阿松 第二季",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "10.3",
+      "play_nums": "25",
+      "tags": ["日常", "搞笑", "无厘头", "六胞胎"]
+    },
+    {
+      "anime_name": "Wake Up, Girls! 新章",
+      "weekday": "周二",
+      "play_time": "02:05",
+      "play_date": "10.10",
+      "play_nums": "12",
+      "tags": ["偶像", "女团", "校园", "音乐"]
+    },
+    {
+      "anime_name": "理想禁区",
+      "weekday": "周二",
+      "play_time": "10:00",
+      "play_date": "10.10",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "美妙天堂 偶像时间",
+      "weekday": "周二",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": []
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "play_time": "18:25",
+      "play_date": "10.3",
+      "play_nums": "13",
+      "tags": ["奇幻", "魔法", "热血", "打斗"]
+    },
+    {
+      "anime_name": "偶像大师 灰姑娘女孩剧场 第二季",
+      "weekday": "周二",
+      "play_time": "21:54",
+      "play_date": "10.3",
+      "play_nums": "13",
+      "tags": []
+    },
+    {
+      "anime_name": "十二大战",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["生肖", "异能", "打斗", "厮杀"]
+    },
+    {
+      "anime_name": "战刻夜想曲",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["穿越", "战国", "奇幻", "乙女向"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "Just because!",
+      "weekday": "周五",
+      "play_time": "00:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["校园", "青春", "恋爱", "贵乱"]
+    },
+    {
+      "anime_name": "犬屋敷（犬舍）",
+      "weekday": "周五",
+      "play_time": "03:00",
+      "play_date": "10.13",
+      "play_nums": "11",
+      "tags": ["科幻", "机械", "超级英雄", "倒A档"]
+    },
+    {
+      "anime_name": "DYNAMIC CHORD",
+      "weekday": "周五",
+      "play_time": "08:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["音乐", "乐队", "乙女向"]
+    },
+    {
+      "anime_name": "大正小小先生",
+      "weekday": "周五",
+      "play_time": "20:54",
+      "play_date": "10.6",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "机甲大师",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "10.13",
+      "play_nums": "6",
+      "tags": []
+    },
+    {
+      "anime_name": "少女终末旅行",
+      "weekday": "周五",
+      "play_time": "22:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["废土", "公路", "反差", "百合"]
+    },
+    {
+      "anime_name": "网络胜利组",
+      "weekday": "周五",
+      "play_time": "23:30",
+      "play_date": "10.6",
+      "play_nums": "10",
+      "tags": ["恋爱", "网游", "男扮女", "女扮男"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "牙狼 VANISHING LINE",
+      "weekday": "周六",
+      "play_time": "00:23",
+      "play_date": "10.7",
+      "play_nums": "24",
+      "tags": ["科幻", "都市", "悬疑", "动作"]
+    },
+    {
+      "anime_name": "无论何时我们的恋情都是10厘米。",
+      "weekday": "周六",
+      "play_time": "00:30",
+      "play_date": "11.25",
+      "play_nums": "6",
+      "tags": ["音乐", "校园", "恋爱", "狗粮"]
+    },
+    {
+      "anime_name": "新 奇诺之旅",
+      "weekday": "周六",
+      "play_time": "01:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["冒险", "旅行", "公路", "活久见"]
+    },
+    {
+      "anime_name": "神怒之日",
+      "weekday": "周六",
+      "play_time": "01:05",
+      "play_date": "10.7",
+      "play_nums": "12+6",
+      "tags": ["学园", "奇幻", "异能", "死斗"]
+    },
+    {
+      "anime_name": "将国之天鹰星",
+      "weekday": "周六",
+      "play_time": "03:00",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["乱世", "战争", "架空世界", "架空历史"]
+    },
+    {
+      "anime_name": "结城友奈是勇者 第二季",
+      "weekday": "周六",
+      "play_time": "03:25",
+      "play_date": "10.7",
+      "play_nums": "6+6",
+      "tags": ["战斗", "致郁", "残疾部", "玩命部"]
+    },
+    {
+      "anime_name": "魅力英雄",
+      "weekday": "周六",
+      "play_time": "09:00",
+      "play_date": "10.7",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "狐妖小红娘（日语版）",
+      "weekday": "周六",
+      "play_time": "10:00",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": []
+    },
+    {
+      "anime_name": "Classicaloid 第二季",
+      "weekday": "周六",
+      "play_time": "19:00",
+      "play_date": "10.7",
+      "play_nums": "25",
+      "tags": ["科幻", "音乐", "魔性", "搞笑"]
+    },
+    {
+      "anime_name": "Code:Realize 创世的姬君",
+      "weekday": "周六",
+      "play_time": "20:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["恋爱", "奇幻", "“有毒”", "乙女向"]
+    },
+    {
+      "anime_name": "宝石之国",
+      "weekday": "周六",
+      "play_time": "22:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["科幻", "战斗", "致郁", "废土"]
+    },
+    {
+      "anime_name": "偶像大师SideM",
+      "weekday": "周六",
+      "play_time": "23:30",
+      "play_date": "10.7",
+      "play_nums": "13",
+      "tags": ["青春", "偶像", "音乐", "IM@S"]
+    },
+    {
+      "anime_name": "Love Live! Sunshine!! 第二季",
+      "weekday": "周六",
+      "play_time": "23:30",
+      "play_date": "10.7",
+      "play_nums": "13",
+      "tags": ["偶像", "女团", "校园", "轻百合"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "此花亭奇谭（此花奇谭）",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["轻百合", "神魔", "萌日常", "兽耳萝莉"]
+    },
+    {
+      "anime_name": "关于我女友是个一本正经的碧池这件事",
+      "weekday": "周四",
+      "play_time": "01:00",
+      "play_date": "10.12",
+      "play_nums": "10",
+      "tags": ["校园", "恋爱", "喜剧", "逆性骚扰", "“关我碧事”"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "国王游戏",
+      "weekday": "周四",
+      "play_time": "22:30",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["校园", "悬疑", "惊悚", "NTR"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "侧车搭档",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["校园", "青春", "竞技", "轻百合"]
+    },
+    {
+      "anime_name": "Fate/Apocrypha",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["型月", "动作", "团战", "平行世界"]
+    },
+    {
+      "anime_name": "3月的狮子 第二季",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "10.15",
+      "play_nums": "22",
+      "tags": ["将棋", "励志", "治愈", "感情"]
+    },
+    {
+      "anime_name": "调教咖啡厅",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["日常", "喜剧", "打工", "咖啡厅", "芳文社"]
+    },
+    {
+      "anime_name": "鬼灯的冷彻 第二季",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "10.8",
+      "play_nums": "13",
+      "tags": ["神魔", "鬼怪", "喜剧", "吐槽"]
+    },
+    {
+      "anime_name": "魔法使的新娘",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "10.8",
+      "play_nums": "24",
+      "tags": ["奇幻", "魔法", "恋爱", "异形"]
+    },
+    {
+      "anime_name": "舞动青春",
+      "weekday": "周日",
+      "play_time": "02:08",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["青春", "运动", "舞蹈", "社交舞"]
+    },
+    {
+      "anime_name": "幻界战线 第二季",
+      "weekday": "周日",
+      "play_time": "03:08",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["热血", "奇幻", "异能", "异界"]
+    },
+    {
+      "anime_name": "卡片战斗先导者 GZ",
+      "weekday": "周日",
+      "play_time": "09:00",
+      "play_date": "10.8",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "光之美少女 食尚甜心",
+      "weekday": "周日",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "年",
+      "tags": []
+    },
+    {
+      "anime_name": "动画同好会",
+      "weekday": "周日",
+      "play_time": "22:30",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["校园", "社团", "日常", "宅文化"]
+    },
+    {
+      "anime_name": "如果有妹妹就好了",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["喜剧", "恋爱", "小说家", "丧病妹控"]
+    },
+    {
+      "anime_name": "干物妹！小埋 第二季",
+      "weekday": "周日",
+      "play_time": "23:30",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["日常", "反差", "兄妹", "国欠哥"]
+    },
+    {
+      "anime_name": "泥鲸之子们在沙地上歌唱",
+      "weekday": "周日",
+      "play_time": "23:30",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["奇幻", "废土", "战斗", "致郁"]
+    }
+  ]
+}

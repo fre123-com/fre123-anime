@@ -1,30 +1,20 @@
-# Python Project Template
+# Fre123 动漫新番列表
 
-The purpose of this project is to maintain my personal **`Python project templates`** that I commonly use.
+数据来源：
 
-Main functions are as follows:
+- https://xf.hmacg.cn/：主要来源
+- https://yuc.wiki/
 
-- Automatically creates and manages a virtualenv for your projects by [pipenv](https://github.com/pypa/pipenv)
-- Python code formatter [black](https://github.com/psf/black)
-- Sort your python project imports by [isort](https://github.com/PyCQA/isort)
-- Static code analysis by [pylint](https://github.com/PyCQA/pylint)
+数据格式：
 
-> It's recommended that you use [vscode](https://code.visualstudio.com/) to develop your projects.
-
-Execute the following command in the terminal to get started quickly:
-
-```shell
-# Assuming you are already using conda to manage your python environment
-conda create -n python3.10 python=3.10
-# Clone repository
-git clone https://github.com/howie6879/py_project_template your_project_name
-cd your_project_name
-# Remove .git
-rm -Rf .git
-
-# Install python env for your project
-pipenv install --python ~/anaconda3/envs/python38/bin/python3.10 --skip-lock --dev
-# Start coding
+```json
+{
+    "anime_name": "葬送的芙莉莲",
+    "cover": "",
+    "weekday": "周五",
+    "play_time": "20:00",
+    "play_date": "连载中",
+    "play_nums": "28",
+    "tags": ["奇幻", "冒险", "公路片", "师徒", "后日谈"]
+}
 ```
-
-BTW, For my insights on python project development management you can read this article: [浅谈Python项目开发&管理](https://www.howie6879.cn/post/2021/14_about_python_env/).

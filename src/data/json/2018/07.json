@@ -1,0 +1,552 @@
+{
+  "周一": [
+    {
+      "anime_name": "轻羽飞扬",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "7.2",
+      "play_nums": "13",
+      "tags": ["运动", "羽毛球", "热血"]
+    },
+    {
+      "anime_name": "新 刃牙",
+      "weekday": "周一",
+      "play_time": "01:00",
+      "play_date": "7.2",
+      "play_nums": "26",
+      "tags": ["热血", "格斗", "文艺复兴"]
+    },
+    {
+      "anime_name": "付丧神出租中",
+      "weekday": "周一",
+      "play_time": "01:10",
+      "play_date": "7.23",
+      "play_nums": "季",
+      "tags": ["鬼怪", "治愈"]
+    },
+    {
+      "anime_name": "银魂. 银之魂篇 第二季",
+      "weekday": "周一",
+      "play_time": "01:35",
+      "play_date": "7.9",
+      "play_nums": "",
+      "tags": ["科幻", "热血", "无厘头", "无节操", "完结篇"]
+    },
+    {
+      "anime_name": "进击的巨人 第三季",
+      "weekday": "周一",
+      "play_time": "02:05",
+      "play_date": "7.23",
+      "play_nums": "24",
+      "tags": ["热血", "战斗", "奇幻", "猎奇"]
+    },
+    {
+      "anime_name": "没有给我哥吃的药！2（快把我哥带走2）",
+      "weekday": "周一",
+      "play_time": "12:00",
+      "play_date": "7.2",
+      "play_nums": "24",
+      "tags": ["搞笑", "日常", "无厘头"]
+    },
+    {
+      "anime_name": "妖怪旅馆营业中",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["美食", "旅馆", "妖怪", "神魔"]
+    },
+    {
+      "anime_name": "邪神与厨二病少女",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "7.9",
+      "play_nums": "12",
+      "tags": ["百合", "搞笑", "人外", "魔幻", "大蛇丸"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "鲁邦三世 第五季",
+      "weekday": "周三",
+      "play_time": "00:29",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["怪盗", "冒险", "悬疑", "法国"]
+    },
+    {
+      "anime_name": "后街女孩",
+      "weekday": "周三",
+      "play_time": "00:30",
+      "play_date": "7.4",
+      "play_nums": "10",
+      "tags": ["搞笑", "神经", "性转", "偶像"]
+    },
+    {
+      "anime_name": "Angolmois 元寇合战记",
+      "weekday": "周三",
+      "play_time": "01:30",
+      "play_date": "7.11",
+      "play_nums": "季",
+      "tags": ["战争", "历史", "元朝"]
+    },
+    {
+      "anime_name": "深夜！天才傻鹏",
+      "weekday": "周三",
+      "play_time": "01:35",
+      "play_date": "7.11",
+      "play_nums": "12",
+      "tags": ["文艺复兴", "元祖", "真实深夜番"]
+    },
+    {
+      "anime_name": "中间管理录利根川",
+      "weekday": "周三",
+      "play_time": "04:30",
+      "play_date": "7.4",
+      "play_nums": "24",
+      "tags": ["赌博", "搞笑", "前传"]
+    },
+    {
+      "anime_name": "重神机潘多拉",
+      "weekday": "周三",
+      "play_time": "23:00",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["科幻", "机战", "重庆", "超级生物"]
+    },
+    {
+      "anime_name": "Free! 第三季",
+      "weekday": "周三",
+      "play_time": "23:30",
+      "play_date": "7.11",
+      "play_nums": "12",
+      "tags": ["青春", "运动", "游泳", "基情"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "One Room 第二季",
+      "weekday": "周二",
+      "play_time": "00:35",
+      "play_date": "7.3",
+      "play_nums": "1+12",
+      "tags": ["恋爱", "第一人称视角", "新老婆"]
+    },
+    {
+      "anime_name": "队长小翼（足球小将）",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "52",
+      "tags": ["重置", "运动", "足球", "热血", "文艺复兴"]
+    },
+    {
+      "anime_name": "京都寺町三条商店街的福尔摩斯",
+      "weekday": "周二",
+      "play_time": "02:05",
+      "play_date": "7.9",
+      "play_nums": "12",
+      "tags": ["推理", "恋爱"]
+    },
+    {
+      "anime_name": "前进吧！登山少女 第三季（向山进发）",
+      "weekday": "周二",
+      "play_time": "02:55",
+      "play_date": "7.3",
+      "play_nums": "13",
+      "tags": ["百合", "治愈", "爬山真开心啊"]
+    },
+    {
+      "anime_name": "高达创形者",
+      "weekday": "周二",
+      "play_time": "18:00",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["科幻", "模型", "机战", "热血"]
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "play_time": "18:25",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": ["奇幻", "魔法", "热血", "打斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "偶像大师 灰姑娘女孩剧场 第三季",
+      "weekday": "周二",
+      "play_time": "22:00",
+      "play_date": "7.3",
+      "play_nums": "13",
+      "tags": ["偶像", "百合", "日常", "搞笑", "Q版"]
+    },
+    {
+      "anime_name": "OVERLORD 第三季",
+      "weekday": "周二",
+      "play_time": "22:30",
+      "play_date": "7.10",
+      "play_nums": "13",
+      "tags": ["装逼", "奇幻", "猎奇", "斗智斗勇", "骨傲天"]
+    },
+    {
+      "anime_name": "千枪士（千铳士）",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "7.3",
+      "play_nums": "12",
+      "tags": ["乙女向", "日常", "战斗", "拟人", "枪男人"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "战栗杀机（BANANA FISH）",
+      "weekday": "周五",
+      "play_time": "01:30",
+      "play_date": "7.6",
+      "play_nums": "24",
+      "tags": ["悬疑", "黑道", "乙女向"]
+    },
+    {
+      "anime_name": "天才玩偶",
+      "weekday": "周五",
+      "play_time": "10:00",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["中日合作", "战斗"]
+    },
+    {
+      "anime_name": "异世界居酒屋",
+      "weekday": "周五",
+      "play_time": "11:00",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["日常", "美食", "和风", "逆穿越"]
+    },
+    {
+      "anime_name": "昴宿七星（七星的昴星团）",
+      "weekday": "周五",
+      "play_time": "14:30",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["网游", "战斗", "约束", "友情"]
+    },
+    {
+      "anime_name": "少女☆歌剧 Revue·Starlight",
+      "weekday": "周五",
+      "play_time": "14:30",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["歌剧", "百合", "校园"]
+    },
+    {
+      "anime_name": "魔法律事务所",
+      "weekday": "周五",
+      "play_time": "20:30",
+      "play_date": "8.3",
+      "play_nums": "12",
+      "tags": ["奇幻", "悬疑", "战斗"]
+    },
+    {
+      "anime_name": "打工小哥！ 第二季",
+      "weekday": "周五",
+      "play_time": "20:54",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["吸猫", "可爱", "日常"]
+    },
+    {
+      "anime_name": "杀戮天使（Angels of Death）",
+      "weekday": "周五",
+      "play_time": "21:00",
+      "play_date": "7.6",
+      "play_nums": "12+4",
+      "tags": ["恐怖", "悬疑", "狗粮"]
+    },
+    {
+      "anime_name": "千绪的上学路（千绪的通学路）",
+      "weekday": "周五",
+      "play_time": "21:00",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["搞笑", "无厘头"]
+    },
+    {
+      "anime_name": "遥的接球",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["芳文社", "百合", "沙滩排球", "“球”"]
+    },
+    {
+      "anime_name": "敦君与女朋友",
+      "weekday": "周五",
+      "play_time": "22:30",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["恋爱", "狗粮"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "Happy Sugar Life",
+      "weekday": "周六",
+      "play_time": "00:55",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["百合", "病娇", "粉切黑", "网盘见"]
+    },
+    {
+      "anime_name": "碧蓝之海",
+      "weekday": "周六",
+      "play_time": "01:25",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["搞笑", "无厘头", "硬核潜水(迫真)"]
+    },
+    {
+      "anime_name": "信长的忍者 第三季",
+      "weekday": "周六",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["战国", "忍者", "搞笑", "可爱"]
+    },
+    {
+      "anime_name": "红莲之王",
+      "weekday": "周六",
+      "play_time": "01:35",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["悬疑", "战斗"]
+    },
+    {
+      "anime_name": "高分少女",
+      "weekday": "周六",
+      "play_time": "02:30",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["街机游戏", "恋爱"]
+    },
+    {
+      "anime_name": "暗芝居 第六季",
+      "weekday": "周六",
+      "play_time": "03:55",
+      "play_date": "7.7",
+      "play_nums": "13",
+      "tags": ["猎奇", "恐怖", "惊悚"]
+    },
+    {
+      "anime_name": "我的英雄学院 第三季",
+      "weekday": "周六",
+      "play_time": "17:30",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["校园", "动作", "异能", "热血"]
+    },
+    {
+      "anime_name": "棒球大联盟 2nd",
+      "weekday": "周六",
+      "play_time": "19:00",
+      "play_date": "在播",
+      "play_nums": "半年",
+      "tags": ["运动", "棒球", "励志", "父子"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "命运石之门 0",
+      "weekday": "周四",
+      "play_time": "02:00",
+      "play_date": "在播",
+      "play_nums": "23+1",
+      "tags": ["科幻", "悬疑", "穿越", "妄想科学"]
+    },
+    {
+      "anime_name": "暮光幻影",
+      "weekday": "周四",
+      "play_time": "12:00",
+      "play_date": "7.5",
+      "play_nums": "12",
+      "tags": ["乙女向", "乐元素", "中日合作", "丸户老贼"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周四",
+      "play_time": "19:25",
+      "play_date": "在播",
+      "play_nums": "",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "偶活学园Friends!",
+      "weekday": "周四",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": ["偶像", "百合"]
+    },
+    {
+      "anime_name": "春原庄的管理人小姐",
+      "weekday": "周四",
+      "play_time": "20:00",
+      "play_date": "7.5",
+      "play_nums": "12",
+      "tags": ["正太×御姐", "搞笑", "蒙蔽双眼"]
+    },
+    {
+      "anime_name": "梦王国与沉睡的100名王子",
+      "weekday": "周四",
+      "play_time": "21:30",
+      "play_date": "7.5",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "异世界魔王与召唤少女的奴隶魔术",
+      "weekday": "周四",
+      "play_time": "22:00",
+      "play_date": "7.5",
+      "play_nums": "12",
+      "tags": ["后宫", "战斗", "装逼", "异世界", "福利"]
+    },
+    {
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO",
+      "weekday": "周四",
+      "play_time": "22:30",
+      "play_date": "7.5",
+      "play_nums": "季",
+      "tags": ["Q版", "乐队"]
+    },
+    {
+      "anime_name": "天狼 Sirius the Jaeger",
+      "weekday": "周四",
+      "play_time": "23:30",
+      "play_date": "7.12",
+      "play_nums": "12",
+      "tags": ["战斗", "悬疑", "吸血鬼", "奇幻"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "摇曳庄的幽奈小姐（汤摇庄的幽奈同学）",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "7.15",
+      "play_nums": "12",
+      "tags": ["搞笑", "后宫", "肉"]
+    },
+    {
+      "anime_name": "工作细胞",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "7.8",
+      "play_nums": "13",
+      "tags": ["拟人", "医学（生物）", "战斗", "科普"]
+    },
+    {
+      "anime_name": "百炼霸王与圣约女武神",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "7.8",
+      "play_nums": "12",
+      "tags": ["后宫", "战斗", "装逼", "异世界", "手机侠"]
+    },
+    {
+      "anime_name": "女神异闻录5",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["都市", "异能", "怪盗", "偷心"]
+    },
+    {
+      "anime_name": "音乐少女",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "7.8",
+      "play_nums": "12",
+      "tags": ["百合", "偶像", "音乐"]
+    },
+    {
+      "anime_name": "温泉屋小女管家",
+      "weekday": "周日",
+      "play_time": "07:14",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": []
+    },
+    {
+      "anime_name": "雷顿神秘侦探社 卡托莉的解谜档案",
+      "weekday": "周日",
+      "play_time": "07:30",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": []
+    },
+    {
+      "anime_name": "甜甜私房猫 第四季",
+      "weekday": "周日",
+      "play_time": "09:00",
+      "play_date": "7.1",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "美妙频道",
+      "weekday": "周日",
+      "play_time": "10:00",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": []
+    },
+    {
+      "anime_name": "咯咯咯鬼太郎 第六季",
+      "weekday": "周日",
+      "play_time": "11:00",
+      "play_date": "在播",
+      "play_nums": "年",
+      "tags": ["妖怪", "冒险", "悬疑", "经典"]
+    },
+    {
+      "anime_name": "拥抱！光之美少女",
+      "weekday": "周日",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "ISLAND",
+      "weekday": "周日",
+      "play_time": "21:00",
+      "play_date": "7.1",
+      "play_nums": "12",
+      "tags": ["恋爱", "悬疑", "科幻", "“岛学”"]
+    },
+    {
+      "anime_name": "游戏3人娘（来玩游戏吧）",
+      "weekday": "周日",
+      "play_time": "21:30",
+      "play_date": "7.8",
+      "play_nums": "12",
+      "tags": ["颜艺", "搞笑", "校园", "日常"]
+    },
+    {
+      "anime_name": "行星与共（Planet With）",
+      "weekday": "周日",
+      "play_time": "22:00",
+      "play_date": "7.8",
+      "play_nums": "12",
+      "tags": ["科幻", "燃"]
+    },
+    {
+      "anime_name": "天降少女!~从2层落下了少女!?~（天降女子）",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "7.1",
+      "play_nums": "季",
+      "tags": ["福利", "鼓掌", "网盘见"]
+    }
+  ]
+}

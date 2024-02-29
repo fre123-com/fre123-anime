@@ -1,0 +1,424 @@
+{
+  "周一": [
+    {
+      "anime_name": "怪怪守护神",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "4.3",
+      "play_nums": "12",
+      "tags": ["神魔", "战斗", "后宫", "福利"]
+    },
+    {
+      "anime_name": "与僧侣交合的色欲之夜（僧侣走肾不走心）",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "4.3",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "ID-0",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "4.10",
+      "play_nums": "季",
+      "tags": ["科幻", "宇宙", "机战", "3DCG"]
+    },
+    {
+      "anime_name": "小魔女学园",
+      "weekday": "周一",
+      "play_time": "01:25",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["魔法", "校园", "喜剧", "TV版"]
+    },
+    {
+      "anime_name": "世界之暗图鉴",
+      "weekday": "周一",
+      "play_time": "03:05",
+      "play_date": "4.3",
+      "play_nums": "13",
+      "tags": []
+    },
+    {
+      "anime_name": "笑面推销员NEW",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "4.3",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "从零开始的魔法书",
+      "weekday": "周一",
+      "play_time": "23:30",
+      "play_date": "4.10",
+      "play_nums": "12",
+      "tags": ["魔法", "战斗", "冒险", "魔法岛风"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "末日时在做什么？有没有空？可以来拯救吗？",
+      "weekday": "周三",
+      "play_time": "01:00",
+      "play_date": "4.12",
+      "play_nums": "12",
+      "tags": ["末世", "奇幻", "治愈", "致郁"]
+    },
+    {
+      "anime_name": "王室教师海涅",
+      "weekday": "周三",
+      "play_time": "02:05",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["喜剧", "王室", "兄弟", "师生"]
+    },
+    {
+      "anime_name": "夏目友人帐 陆",
+      "weekday": "周三",
+      "play_time": "03:00",
+      "play_date": "4.12",
+      "play_nums": "11",
+      "tags": ["清新", "治愈", "妖怪", "有生之年"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影新世代",
+      "weekday": "周三",
+      "play_time": "17:55",
+      "play_date": "4.5",
+      "play_nums": "",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "Room Mate",
+      "weekday": "周三",
+      "play_time": "21:40",
+      "play_date": "4.12",
+      "play_nums": "季",
+      "tags": ["第一人称", "女性向"]
+    },
+    {
+      "anime_name": "不要输！！恶之军团！",
+      "weekday": "周三",
+      "play_time": "21:45",
+      "play_date": "4.5",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "爱米-WE LOVE RICE-",
+      "weekday": "周三",
+      "play_time": "22:50",
+      "play_date": "4.5",
+      "play_nums": "季",
+      "tags": []
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "高校星歌剧 第二季",
+      "weekday": "周二",
+      "play_time": "00:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["音乐", "歌剧", "校园", "羞耻Play"]
+    },
+    {
+      "anime_name": "机甲少女 FRAME ARMS GIRL",
+      "weekday": "周二",
+      "play_time": "01:30",
+      "play_date": "4.4",
+      "play_nums": "季",
+      "tags": ["科幻", "军武", "机娘", "模型", "“广告”"]
+    },
+    {
+      "anime_name": "飙速宅男 第三季",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["运动", "自行车", "社团", "励志"]
+    },
+    {
+      "anime_name": "快把我哥带走（中+日）",
+      "weekday": "周二",
+      "play_time": "10:00",
+      "play_date": "3.28",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "美妙天堂 偶像时间",
+      "weekday": "周二",
+      "play_time": "17:55",
+      "play_date": "4.4",
+      "play_nums": "半年",
+      "tags": []
+    },
+    {
+      "anime_name": "不正经的魔术讲师与禁忌教典",
+      "weekday": "周二",
+      "play_time": "21:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["校园", "魔法", "战斗", "师生"]
+    },
+    {
+      "anime_name": "覆面系NOISE",
+      "weekday": "周二",
+      "play_time": "23:30",
+      "play_date": "4.11",
+      "play_nums": "12",
+      "tags": ["校园", "音乐", "恋爱", "少女漫", "白学(?)"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "路人女主的养成方法 第二季",
+      "weekday": "周五",
+      "play_time": "01:30",
+      "play_date": "4.14",
+      "play_nums": "12",
+      "tags": ["恋爱", "社团", "喜剧", "倒A档"]
+    },
+    {
+      "anime_name": "青春歌舞伎",
+      "weekday": "周五",
+      "play_time": "02:28",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["校园", "社团", "青春", "歌舞伎"]
+    },
+    {
+      "anime_name": "恋爱暴君",
+      "weekday": "周五",
+      "play_time": "02:35",
+      "play_date": "4.7",
+      "play_nums": "季",
+      "tags": ["校园", "恋爱", "喜剧", "神魔"]
+    },
+    {
+      "anime_name": "银之守墓人（中+日）",
+      "weekday": "周五",
+      "play_time": "10:00",
+      "play_date": "3.31",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "时钟机关之星",
+      "weekday": "周五",
+      "play_time": "12:00",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["科幻", "机械", "冒险", "天降"]
+    },
+    {
+      "anime_name": "双天使 BREAK",
+      "weekday": "周五",
+      "play_time": "21:00",
+      "play_date": "4.7",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "雏子的笔记",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["校园", "社团", "萌日常", "轻百合"]
+    },
+    {
+      "anime_name": "正确的KADO",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "4.7",
+      "play_nums": "13",
+      "tags": ["科幻", "悬疑", "解谜", "3DCG"]
+    },
+    {
+      "anime_name": "剑风传奇 次篇",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "4.7",
+      "play_nums": "季",
+      "tags": ["战斗", "奇幻", "黑暗", "硬派"]
+    },
+    {
+      "anime_name": "sin 七大罪",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "4.14",
+      "play_nums": "12",
+      "tags": ["神魔", "卖肉", "福利", "网盘见"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "巴哈姆特之怒 VIRGIN SOUL",
+      "weekday": "周六",
+      "play_time": "00:55",
+      "play_date": "4.8",
+      "play_nums": "24",
+      "tags": ["奇幻", "战斗", "有钱任性"]
+    },
+    {
+      "anime_name": "剑姬神圣谭",
+      "weekday": "周六",
+      "play_time": "01:00",
+      "play_date": "4.15",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "外传"]
+    },
+    {
+      "anime_name": "信长的忍者 第二季（忍者少女千鸟2）",
+      "weekday": "周六",
+      "play_time": "01:35",
+      "play_date": "4.8",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "我的英雄学院 第二季",
+      "weekday": "周六",
+      "play_time": "18:00",
+      "play_date": "3.25",
+      "play_nums": "25",
+      "tags": ["校园", "动作", "热血", "异能"]
+    },
+    {
+      "anime_name": "境界之轮回 第三季",
+      "weekday": "周六",
+      "play_time": "19:00",
+      "play_date": "4.8",
+      "play_nums": "25",
+      "tags": ["神魔", "幽灵", "校园"]
+    },
+    {
+      "anime_name": "进击的巨人 第二季（自由之翼 第二季）",
+      "weekday": "周六",
+      "play_time": "21:00",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["战斗", "热血", "冒险", "悬疑", "网盘见"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "最强番长是少女（中+日）",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "4.13",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "重启咲良田",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "4.6",
+      "play_nums": "24",
+      "tags": ["青春", "悬疑", "致郁", "超能力"]
+    },
+    {
+      "anime_name": "樱花任务",
+      "weekday": "周四",
+      "play_time": "00:30",
+      "play_date": "4.6",
+      "play_nums": "25",
+      "tags": ["职场", "青春", "旅游宣传", "工作少女系列"]
+    },
+    {
+      "anime_name": "武装少女 Machiavellism",
+      "weekday": "周四",
+      "play_time": "00:30",
+      "play_date": "4.6",
+      "play_nums": "季",
+      "tags": ["校园", "打斗", "恋爱", "后宫"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "play_time": "19:30",
+      "play_date": "4.6",
+      "play_nums": "半年",
+      "tags": []
+    },
+    {
+      "anime_name": "月色真美",
+      "weekday": "周四",
+      "play_time": "23:00",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["恋爱", "校园", "青春", "日常"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "Re:CREATORS",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "4.9",
+      "play_nums": "22",
+      "tags": ["穿越", "战斗", "奇幻", "机战"]
+    },
+    {
+      "anime_name": "碧蓝幻想",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "4.2",
+      "play_nums": "48",
+      "tags": ["奇幻", "冒险", "战斗", "手游"]
+    },
+    {
+      "anime_name": "阿童木起源",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "4.16",
+      "play_nums": "12",
+      "tags": ["科幻", "人工智能", "机器人", "前传"]
+    },
+    {
+      "anime_name": "埃罗芒阿老师（我的妹妹是黄漫老师）",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "4.9",
+      "play_nums": "季",
+      "tags": ["兄妹", "喜剧", "小说家", "插画家"]
+    },
+    {
+      "anime_name": "怪物猎人物语 RIDE ON",
+      "weekday": "周日",
+      "play_time": "11:00",
+      "play_date": "在播",
+      "play_nums": "48",
+      "tags": []
+    },
+    {
+      "anime_name": "光之美少女 食尚甜心",
+      "weekday": "周日",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "年",
+      "tags": []
+    },
+    {
+      "anime_name": "有顶天家族 第二季",
+      "weekday": "周日",
+      "play_time": "21:30",
+      "play_date": "4.9",
+      "play_nums": "12",
+      "tags": ["群像", "狸猫", "兄弟", "喜剧"]
+    },
+    {
+      "anime_name": "爱丽丝与藏六",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "4.2",
+      "play_nums": "12",
+      "tags": ["萝莉", "亲情", "治愈", "异能"]
+    }
+  ]
+}

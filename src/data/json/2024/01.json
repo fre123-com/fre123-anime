@@ -1,0 +1,560 @@
+{
+  "周一": [
+    {
+      "anime_name": "休假的坏人先生",
+      "weekday": "周一",
+      "play_time": "01:35",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["日常", "搞笑", "反差", "治愈"]
+    },
+    {
+      "anime_name": "暗芝居 第十二季",
+      "weekday": "周一",
+      "play_time": "01:35",
+      "play_date": "1.15",
+      "play_nums": "13",
+      "tags": ["都市传说", "怪谈", "惊悚", "猎奇"]
+    },
+    {
+      "anime_name": "爱犬讯号（DOG SIGNAL）",
+      "weekday": "周一",
+      "play_time": "20:00",
+      "play_date": "连载中",
+      "play_nums": "20",
+      "tags": ["宠物狗", "日常", "训犬师"]
+    },
+    {
+      "anime_name": "至高之牌 第二季",
+      "weekday": "周一",
+      "play_time": "20:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["奇幻", "卡牌", "战斗", "超能力", "特工"]
+    },
+    {
+      "anime_name": "为了在异世界也能抚摸毛茸茸而努力",
+      "weekday": "周一",
+      "play_time": "21:30",
+      "play_date": "1.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "兽王", "日常", "转生异世界"]
+    },
+    {
+      "anime_name": "奇异贤伴 黑色天使 第二部分",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "AI"]
+    },
+    {
+      "anime_name": "月光下的异世界之旅 第二季",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "1.8",
+      "play_nums": "25",
+      "tags": ["奇幻", "战斗", "冒险", "搞笑", "穿越", "龙傲天"]
+    },
+    {
+      "anime_name": "北海道辣妹贼拉可爱",
+      "weekday": "周一",
+      "play_time": "23:30",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "整活", "极限拉扯"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "弱势角色友崎君 第二季（弱角友崎同学）",
+      "weekday": "周三",
+      "play_time": "20:30",
+      "play_date": "1.3",
+      "play_nums": "13",
+      "tags": ["校园", "恋爱", "日常", "青春", "人际关系"]
+    },
+    {
+      "anime_name": "欢迎来到实力至上主义的教室 第三季",
+      "weekday": "周三",
+      "play_time": "21:30",
+      "play_date": "1.3",
+      "play_nums": "13",
+      "tags": ["校园", "智斗", "群像", "装逼", "情感"]
+    },
+    {
+      "anime_name": "外科医生爱丽丝（女王的手术刀）",
+      "weekday": "周三",
+      "play_time": "21:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "医学", "套路", "转生", "逆天改命"]
+    },
+    {
+      "anime_name": "异修罗",
+      "weekday": "周三",
+      "play_time": "22:00",
+      "play_date": "1.3",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "群像", "大乱斗"]
+    },
+    {
+      "anime_name": "战国妖狐",
+      "weekday": "周三",
+      "play_time": "23:00",
+      "play_date": "1.10",
+      "play_nums": "37",
+      "tags": ["妖魔", "冒险", "成长", "喜剧", "群像", "和风"]
+    },
+    {
+      "anime_name": "梦想成为魔法少女（憧憬成为魔法少女）",
+      "weekday": "周三",
+      "play_time": "23:30",
+      "play_date": "1.3",
+      "play_nums": "13",
+      "tags": ["奇幻", "魔法少女", "战斗", "姛", "涩涩"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "公主大人“拷问”的时间到了",
+      "weekday": "周二",
+      "play_time": "00:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "美食", "沙雕", "情景喜剧"]
+    },
+    {
+      "anime_name": "愚蠢天使与恶魔共舞",
+      "weekday": "周二",
+      "play_time": "00:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "搞笑", "校园", "整活", "狗粮"]
+    },
+    {
+      "anime_name": "通灵王 FLOWERS",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "1.9",
+      "play_nums": "13",
+      "tags": ["奇幻", "战斗", "热血", "成长", "重制"]
+    },
+    {
+      "anime_name": "反派千金等级99 我是隐藏头目但不是魔王",
+      "weekday": "周二",
+      "play_time": "23:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "校园", "搞笑", "转生", "三无", "凤傲天"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "名汤「异世界温泉」开拓记",
+      "weekday": "周五",
+      "play_time": "00:00",
+      "play_date": "1.12",
+      "play_nums": "",
+      "tags": ["穿越异世界", "温泉", "泡澡", "后宫", "涩涩"]
+    },
+    {
+      "anime_name": "秒杀外挂太强了 异世界的家伙们根本就不是对手",
+      "weekday": "周五",
+      "play_time": "00:30",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "搞笑", "穿越异世界", "龙傲天"]
+    },
+    {
+      "anime_name": "月刊妄想科学",
+      "weekday": "周五",
+      "play_time": "00:30",
+      "play_date": "1.12",
+      "play_nums": "12",
+      "tags": ["超自然", "无厘头", "异能", "编辑部"]
+    },
+    {
+      "anime_name": "魔女与野兽",
+      "weekday": "周五",
+      "play_time": "01:28",
+      "play_date": "1.12",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "冒险", "人情世故", "西式魔幻"]
+    },
+    {
+      "anime_name": "福星小子 第二季（她来自烦星）",
+      "weekday": "周五",
+      "play_time": "01:30",
+      "play_date": "1.12",
+      "play_nums": "23",
+      "tags": ["奇幻", "恋爱", "搞笑", "日常", "校园", "重制"]
+    },
+    {
+      "anime_name": "宝可梦 地平线",
+      "weekday": "周五",
+      "play_time": "17:55",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["奇幻", "冒险", "竞技", "精灵宝可梦"]
+    },
+    {
+      "anime_name": "葬送的芙莉莲",
+      "weekday": "周五",
+      "play_time": "20:00",
+      "play_date": "连载中",
+      "play_nums": "28",
+      "tags": ["奇幻", "冒险", "公路片", "师徒", "后日谈"]
+    },
+    {
+      "anime_name": "佐佐木与文鸟小哔",
+      "weekday": "周五",
+      "play_time": "20:30",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "日常", "异能", "穿越", "要素过多"]
+    },
+    {
+      "anime_name": "超普通县千叶传说",
+      "weekday": "周五",
+      "play_time": "20:54",
+      "play_date": "1.5",
+      "play_nums": "13",
+      "tags": ["恶搞", "地方"]
+    },
+    {
+      "anime_name": "事与愿违的不死冒险者（非自愿的不死冒险者）",
+      "weekday": "周五",
+      "play_time": "21:00",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "成长"]
+    },
+    {
+      "anime_name": "最弱魔物使开始了捡垃圾之旅",
+      "weekday": "周五",
+      "play_time": "22:30",
+      "play_date": "1.12",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "温馨舒缓", "云养女儿"]
+    },
+    {
+      "anime_name": "治愈魔法的错误使用方法",
+      "weekday": "周五",
+      "play_time": "23:30",
+      "play_date": "1.5",
+      "play_nums": "13",
+      "tags": ["奇幻", "冒险", "战斗", "成长", "穿越异世界"]
+    },
+    {
+      "anime_name": "大欺诈师 razbliuto",
+      "weekday": "周五",
+      "play_time": "",
+      "play_date": "2.23",
+      "play_nums": "",
+      "tags": ["悬疑", "智斗", "犯罪", "搞笑"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "百千家的妖怪王子",
+      "weekday": "周六",
+      "play_time": "00:30",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "逆后宫"]
+    },
+    {
+      "anime_name": "小酒馆 Basue",
+      "weekday": "周六",
+      "play_time": "01:05",
+      "play_date": "1.13",
+      "play_nums": "13",
+      "tags": ["酒馆", "日常", "搞笑", "地方"]
+    },
+    {
+      "anime_name": "不死不运（不死不幸）",
+      "weekday": "周六",
+      "play_time": "01:30",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "战斗", "热血", "异能"]
+    },
+    {
+      "anime_name": "碰之道",
+      "weekday": "周六",
+      "play_time": "01:53",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["日麻", "日常", "搞笑", "玩梗", "地方", "雀魂"]
+    },
+    {
+      "anime_name": "特搜组大吾 救国的橘色部队",
+      "weekday": "周六",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["消防", "救援", "热血", "职场"]
+    },
+    {
+      "anime_name": "卡片战斗先导者 DivineZ",
+      "weekday": "周六",
+      "play_time": "18:00",
+      "play_date": "1.13",
+      "play_nums": "",
+      "tags": ["卡牌", "竞技"]
+    },
+    {
+      "anime_name": "名侦探柯南",
+      "weekday": "周六",
+      "play_time": "19:30",
+      "play_date": "连载中",
+      "play_nums": "1201",
+      "tags": ["推理", "悬疑", "智斗"]
+    },
+    {
+      "anime_name": "我独自升级",
+      "weekday": "周六",
+      "play_time": "20:30",
+      "play_date": "2.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "热血", "成长"]
+    },
+    {
+      "anime_name": "婚戒物语",
+      "weekday": "周六",
+      "play_time": "21:00",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "异世界", "后宫", "涩涩"]
+    },
+    {
+      "anime_name": "指尖相触 恋恋不舍",
+      "weekday": "周六",
+      "play_time": "21:30",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "日常", "甜蜜浪漫", "乙女向"]
+    },
+    {
+      "anime_name": "绽裂?!（天方本气谭 / BUCCHIGIRI?!）",
+      "weekday": "周六",
+      "play_time": "22:00",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["不良", "战斗", "搞笑", "友情"]
+    },
+    {
+      "anime_name": "王者天下 第五季",
+      "weekday": "周六",
+      "play_time": "23:00",
+      "play_date": "1.6",
+      "play_nums": "",
+      "tags": ["古中国", "战争", "热血", "历史", "成长"]
+    },
+    {
+      "anime_name": "物理魔法使-马修- 神觉者候选人选拔考试篇",
+      "weekday": "周六",
+      "play_time": "23:00",
+      "play_date": "2.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "校园", "战斗", "魔法"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "如果30岁还是处男 似乎就能成为魔法师",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["职场", "喜剧", "日常", "耽美"]
+    },
+    {
+      "anime_name": "金属口红（METALLIC ROUGE）",
+      "weekday": "周四",
+      "play_time": "00:55",
+      "play_date": "1.11",
+      "play_nums": "13",
+      "tags": ["科幻", "人造人", "机战", "贴贴"]
+    },
+    {
+      "anime_name": "迷宫饭",
+      "weekday": "周四",
+      "play_time": "21:30",
+      "play_date": "1.4",
+      "play_nums": "24",
+      "tags": ["美食", "奇幻", "冒险", "搞笑", "地下城生态学"]
+    },
+    {
+      "anime_name": "魔都精兵的奴隶",
+      "weekday": "周四",
+      "play_time": "23:00",
+      "play_date": "1.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "后宫", "涩涩"]
+    },
+    {
+      "anime_name": "勇气爆发 BANG BRAVERN",
+      "weekday": "周四",
+      "play_time": "23:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "热血"]
+    },
+    {
+      "anime_name": "金属口红（METALLIC ROUGE）",
+      "weekday": "周四",
+      "play_time": "00:55",
+      "play_date": "1.11",
+      "play_nums": "13",
+      "tags": ["科幻", "人造人", "机战", "贴贴"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "狩龙人拉格纳",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["冒险", "战斗", "黑暗奇幻"]
+    },
+    {
+      "anime_name": "物理魔法使-马修- （港澳台）",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "校园", "战斗", "魔法"]
+    },
+    {
+      "anime_name": "药屋少女的呢喃",
+      "weekday": "周日",
+      "play_time": "00:05",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["推理", "日常", "宫廷", "中国古风"]
+    },
+    {
+      "anime_name": "青之驱魔师 第三季（岛根启明结社篇）",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "热血", "战斗", "校园", "神魔"]
+    },
+    {
+      "anime_name": "最强肉盾的迷宫攻略",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "退队"]
+    },
+    {
+      "anime_name": "我心里危险的东西 第二季",
+      "weekday": "周日",
+      "play_time": "02:00",
+      "play_date": "1.7",
+      "play_nums": "13",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "青春", "狗粮"]
+    },
+    {
+      "anime_name": "Wonderful 光之美少女！",
+      "weekday": "周日",
+      "play_time": "07:30",
+      "play_date": "2.4",
+      "play_nums": "年",
+      "tags": ["奇幻", "美少女", "战斗", "贴贴"]
+    },
+    {
+      "anime_name": "逃走中 GREAT MISSION",
+      "weekday": "周日",
+      "play_time": "08:00",
+      "play_date": "连载中",
+      "play_nums": "49",
+      "tags": ["科幻", "生存游戏", "跑酷"]
+    },
+    {
+      "anime_name": "航海王（海贼王）",
+      "weekday": "周日",
+      "play_time": "上午",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["热血", "战斗", "冒险", "搞笑", "梦想"]
+    },
+    {
+      "anime_name": "七大罪 默示录的四骑士",
+      "weekday": "周日",
+      "play_time": "15:30",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "冒险", "战斗", "热血", "后传"]
+    },
+    {
+      "anime_name": "队长小翼 世少篇（足球小将 第二季）",
+      "weekday": "周日",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "39",
+      "tags": ["运动", "体育竞技", "热血", "足球"]
+    },
+    {
+      "anime_name": "香格里拉边境",
+      "weekday": "周日",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "冒险", "战斗", "热血", "网游", "王道"]
+    },
+    {
+      "anime_name": "明治击剑－1874－",
+      "weekday": "周日",
+      "play_time": "22:00",
+      "play_date": "1.14",
+      "play_nums": "",
+      "tags": ["奇幻", "冒险", "历史"]
+    },
+    {
+      "anime_name": "狩火之王 第二季",
+      "weekday": "周日",
+      "play_time": "22:00",
+      "play_date": "1.14",
+      "play_nums": "10",
+      "tags": ["奇幻", "战斗", "冒险", "架空未来"]
+    },
+    {
+      "anime_name": "我被逐出队伍后过上慢生活 第二季",
+      "weekday": "周日",
+      "play_time": "22:30",
+      "play_date": "2.18",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "狗粮", "冒险", "战斗", "日常"]
+    },
+    {
+      "anime_name": "挣扎吧 亚当君",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "1.7",
+      "play_nums": "8",
+      "tags": ["校园", "巨R", "涩涩"]
+    },
+    {
+      "anime_name": "怪物 一百三情飞龙侍极",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "1.21",
+      "play_nums": "1",
+      "tags": ["奇幻", "热血", "英雄", "动作"]
+    },
+    {
+      "anime_name": "我被逐出队伍后过上慢生活 第二季",
+      "weekday": "周日",
+      "play_time": "22:30",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "狗粮", "冒险", "战斗", "日常"]
+    }
+  ]
+}

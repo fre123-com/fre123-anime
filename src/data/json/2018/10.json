@@ -1,0 +1,552 @@
+{
+  "周一": [
+    {
+      "anime_name": "Anima Yell!",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["日常", "萌豚", "治愈", "百合", "芳文社"]
+    },
+    {
+      "anime_name": "书店里的骷髅店员本田",
+      "weekday": "周一",
+      "play_time": "00:45",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["喜剧", "日常"]
+    },
+    {
+      "anime_name": "新 刃牙",
+      "weekday": "周一",
+      "play_time": "01:00",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["热血", "格斗", "文艺复兴"]
+    },
+    {
+      "anime_name": "弦音 -风舞高中弓道部-",
+      "weekday": "周一",
+      "play_time": "01:10",
+      "play_date": "10.22",
+      "play_nums": "",
+      "tags": ["青春", "友情", "竞技", "京阿尼"]
+    },
+    {
+      "anime_name": "没有给我哥吃的药！2（快把我哥带走2）",
+      "weekday": "周一",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["搞笑", "日常", "无厘头"]
+    },
+    {
+      "anime_name": "茜色少女",
+      "weekday": "周一",
+      "play_time": "19:30",
+      "play_date": "10.1",
+      "play_nums": "12",
+      "tags": ["青春", "社团", "穿越", "战斗"]
+    },
+    {
+      "anime_name": "麟&犀×AI韵律 第二季",
+      "weekday": "周一",
+      "play_time": "20:00",
+      "play_date": "10.8",
+      "play_nums": "",
+      "tags": ["中日合作", "偶像", "直播"]
+    },
+    {
+      "anime_name": "大人的防具店",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "黄金神威 第二季",
+      "weekday": "周一",
+      "play_time": "23:30",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["冒险", "美食", "战斗"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "嫁给非人类",
+      "weekday": "周三",
+      "play_time": "00:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["治愈", "人外"]
+    },
+    {
+      "anime_name": "为我而生 CONCEPTION",
+      "weekday": "周三",
+      "play_time": "00:30",
+      "play_date": "10.10",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "后宫", "怀孕"]
+    },
+    {
+      "anime_name": "强风吹拂",
+      "weekday": "周三",
+      "play_time": "01:29",
+      "play_date": "10.3",
+      "play_nums": "23",
+      "tags": ["青春", "体育", "竞技"]
+    },
+    {
+      "anime_name": "中间管理录利根川（一日外出录班长）",
+      "weekday": "周三",
+      "play_time": "04:30",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["赌博", "搞笑", "前传"]
+    },
+    {
+      "anime_name": "RErideD -跨越时空的德里达-",
+      "weekday": "周三",
+      "play_time": "22:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["科幻", "冒险", "穿越"]
+    },
+    {
+      "anime_name": "我喜欢的是小说里的你",
+      "weekday": "周三",
+      "play_time": "22:30",
+      "play_date": "10.10",
+      "play_nums": "10",
+      "tags": ["恋爱", "喜剧", "妹控", "兄控"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "关于我转生变成史莱姆这档事",
+      "weekday": "周二",
+      "play_time": "00:30",
+      "play_date": "10.2",
+      "play_nums": "26",
+      "tags": ["穿越", "奇幻", "萌王", "后宫", "战斗"]
+    },
+    {
+      "anime_name": "宇宙战舰提拉米斯 第二季",
+      "weekday": "周二",
+      "play_time": "01:00",
+      "play_date": "10.2",
+      "play_nums": "13",
+      "tags": ["科幻", "机战", "搞笑", "无厘头"]
+    },
+    {
+      "anime_name": "苍天之拳 REGENESIS 第二季",
+      "weekday": "周二",
+      "play_time": "01:00",
+      "play_date": "10.9",
+      "play_nums": "12",
+      "tags": ["热血", "战斗", "3D", "北斗神拳"]
+    },
+    {
+      "anime_name": "轩辕剑 苍之曜",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "10.2",
+      "play_nums": "13",
+      "tags": ["中日合作", "武侠", "奇幻"]
+    },
+    {
+      "anime_name": "队长小翼（足球小将）",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "52",
+      "tags": ["重置", "运动", "足球", "热血", "文艺复兴"]
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "play_time": "18:25",
+      "play_date": "在播",
+      "play_nums": "",
+      "tags": ["奇幻", "魔法", "热血", "打斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "偶像大师 SideM 事出有因Mini!",
+      "weekday": "周二",
+      "play_time": "21:54",
+      "play_date": "10.9",
+      "play_nums": "12",
+      "tags": ["偶像", "Q版"]
+    },
+    {
+      "anime_name": "东京食尸鬼:re 第二季",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "10.9",
+      "play_nums": "12",
+      "tags": ["战斗", "奇幻", "猎奇"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "Devidol!",
+      "weekday": "周五",
+      "play_time": "00:05",
+      "play_date": "10.5",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "佐贺偶像是传奇（僵尸之地传奇）",
+      "weekday": "周五",
+      "play_time": "00:30",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["僵尸", "偶像", "猎奇", "搞笑", "沙雕"]
+    },
+    {
+      "anime_name": "BAKUMATSU 恋爱幕末男友",
+      "weekday": "周五",
+      "play_time": "00:58",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["乙女向", "战国"]
+    },
+    {
+      "anime_name": "战栗杀机（BANANA FISH）",
+      "weekday": "周五",
+      "play_time": "01:30",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["悬疑", "黑道", "乙女向"]
+    },
+    {
+      "anime_name": "学园BASARA",
+      "weekday": "周五",
+      "play_time": "02:15",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["战国", "校园", "恶搞"]
+    },
+    {
+      "anime_name": "狐狸之声",
+      "weekday": "周五",
+      "play_time": "08:00",
+      "play_date": "10.19",
+      "play_nums": "12",
+      "tags": ["中日合作", "偶像"]
+    },
+    {
+      "anime_name": "邻家索菲（邻家的吸血鬼小妹）",
+      "weekday": "周五",
+      "play_time": "21:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["搞笑", "百合", "吸血鬼"]
+    },
+    {
+      "anime_name": "终将成为你",
+      "weekday": "周五",
+      "play_time": "22:00",
+      "play_date": "10.5",
+      "play_nums": "13",
+      "tags": ["百合", "恋爱", "扭曲", "药"]
+    },
+    {
+      "anime_name": "魔法禁书目录 第三季",
+      "weekday": "周五",
+      "play_time": "22:30",
+      "play_date": "10.5",
+      "play_nums": "26",
+      "tags": ["科幻", "魔法", "热血", "战斗", "有生之年"]
+    },
+    {
+      "anime_name": "钱进球场 第二季",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["棒球", "职场", "搞笑", "硬核"]
+    },
+    {
+      "anime_name": "火之丸相扑",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "10.5",
+      "play_nums": "24",
+      "tags": ["热血", "竞技", "校园", "相扑"]
+    },
+    {
+      "anime_name": "我让最想被拥抱的男人给威胁了",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "10.5",
+      "play_nums": "13",
+      "tags": ["基腐", "耽美", "演员", "拉灯"]
+    },
+    {
+      "anime_name": "闪乱神乐 SHINOVI MASTER -东京妖魔篇-",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "10.12",
+      "play_nums": "12",
+      "tags": ["神魔", "打斗", "百合", "肉"]
+    },
+    {
+      "anime_name": "我家的女仆有够烦！",
+      "weekday": "周五",
+      "play_time": "23:30",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["幼女", "女仆", "日常", "百合"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "宇宙战舰大和号2202 爱的战士们",
+      "weekday": "周六",
+      "play_time": "00:23",
+      "play_date": "10.6",
+      "play_nums": "半年",
+      "tags": ["科幻", "机战", "战争", "SF"]
+    },
+    {
+      "anime_name": "欢迎光临千岁酱",
+      "weekday": "周六",
+      "play_time": "00:35",
+      "play_date": "10.6",
+      "play_nums": "",
+      "tags": ["喜剧", "萌宠", "治愈"]
+    },
+    {
+      "anime_name": "来自多彩世界的明天",
+      "weekday": "周六",
+      "play_time": "01:25",
+      "play_date": "10.6",
+      "play_nums": "13",
+      "tags": ["奇幻", "青春", "恋爱"]
+    },
+    {
+      "anime_name": "JOJO的奇妙冒险 黄金之风",
+      "weekday": "周六",
+      "play_time": "01:35",
+      "play_date": "10.6",
+      "play_nums": "39",
+      "tags": ["热血", "战斗", "学姿势"]
+    },
+    {
+      "anime_name": "寄宿学校的朱丽叶",
+      "weekday": "周六",
+      "play_time": "02:30",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "狗粮", "搞笑"]
+    },
+    {
+      "anime_name": "狐狸之声",
+      "weekday": "周六",
+      "play_time": "08:00",
+      "play_date": "10.19",
+      "play_nums": "12",
+      "tags": ["中日合作", "偶像"]
+    },
+    {
+      "anime_name": "逆转裁判 第二季",
+      "weekday": "周六",
+      "play_time": "18:00",
+      "play_date": "10.6",
+      "play_nums": "24",
+      "tags": ["推理", "悬疑"]
+    },
+    {
+      "anime_name": "虚空魔境（RADIANT）",
+      "weekday": "周六",
+      "play_time": "18:30",
+      "play_date": "10.6",
+      "play_nums": "21",
+      "tags": ["冒险", "热血", "魔法", "日法合作"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "天空与海洋之间",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["少女", "励志", "宇宙钓鱼", "科幻"]
+    },
+    {
+      "anime_name": "青春猪头少年不会梦到兔女郎学姐",
+      "weekday": "周四",
+      "play_time": "02:50",
+      "play_date": "10.4",
+      "play_nums": "13",
+      "tags": ["青春", "恋爱", "校园", "奇幻"]
+    },
+    {
+      "anime_name": "只要贝尔哲布布大小姐喜欢就好",
+      "weekday": "周四",
+      "play_time": "02:50",
+      "play_date": "10.11",
+      "play_nums": "12",
+      "tags": ["日常", "搞笑", "萌系", "恋爱"]
+    },
+    {
+      "anime_name": "偶活学园Friends!",
+      "weekday": "周四",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": ["偶像", "百合"]
+    },
+    {
+      "anime_name": "叛逆性百万亚瑟王",
+      "weekday": "周四",
+      "play_time": "21:00",
+      "play_date": "10.25",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "奇幻"]
+    },
+    {
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO",
+      "weekday": "周四",
+      "play_time": "22:00",
+      "play_date": "在播",
+      "play_nums": "半年",
+      "tags": ["Q版", "萌系", "乐队", "偶像"]
+    },
+    {
+      "anime_name": "魔偶马戏团",
+      "weekday": "周四",
+      "play_time": "22:30",
+      "play_date": "10.10",
+      "play_nums": "36",
+      "tags": ["冒险", "热血", "打斗"]
+    },
+    {
+      "anime_name": "梅露可物语 -无精打采的少年与瓶中少女-",
+      "weekday": "周四",
+      "play_time": "22:30",
+      "play_date": "10.11",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "奇幻"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "刀剑神域 第三季（Alicization篇）",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "10.7",
+      "play_nums": "24",
+      "tags": ["后宫", "战斗", "科幻", "网游"]
+    },
+    {
+      "anime_name": "彼时彼女（那时，那个女孩）",
+      "weekday": "周日",
+      "play_time": "00:35",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "哥布林猎人（哥布林杀手）",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["冒险", "打斗", "暴力", "奇幻"]
+    },
+    {
+      "anime_name": "SSSS.古立特",
+      "weekday": "周日",
+      "play_time": "02:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "战斗"]
+    },
+    {
+      "anime_name": "月影特工（RELEASE THE SPYCE）",
+      "weekday": "周日",
+      "play_time": "02:40",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["百合", "战斗", "间谍", "忍者阿卡林"]
+    },
+    {
+      "anime_name": "妖精的尾巴 最终季",
+      "weekday": "周日",
+      "play_time": "07:30",
+      "play_date": "10.7",
+      "play_nums": "25",
+      "tags": ["热血", "打斗", "奇幻", "开挂", "完结篇"]
+    },
+    {
+      "anime_name": "美妙频道",
+      "weekday": "周日",
+      "play_time": "10:00",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": []
+    },
+    {
+      "anime_name": "咯咯咯鬼太郎 第六季",
+      "weekday": "周日",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "",
+      "tags": ["妖怪", "冒险", "悬疑", "经典"]
+    },
+    {
+      "anime_name": "拥抱！光之美少女",
+      "weekday": "周日",
+      "play_time": "12:00",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周日",
+      "play_time": "17:30",
+      "play_date": "在播",
+      "play_nums": "",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "DOUBLE DECKER! 道格&基里尔",
+      "weekday": "周日",
+      "play_time": "22:00",
+      "play_date": "9.30",
+      "play_nums": "",
+      "tags": ["科幻", "犯罪", "虎兔"]
+    },
+    {
+      "anime_name": "尤利西斯 贞德与炼金的骑士",
+      "weekday": "周日",
+      "play_time": "22:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "后宫"]
+    },
+    {
+      "anime_name": "末班车后，在胶囊旅馆向上司传递微热的夜晚",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["福利", "鼓掌", "网盘见"]
+    },
+    {
+      "anime_name": "不受欢迎之家",
+      "weekday": "周日",
+      "play_time": "23:45",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["日常", "百合", "搞笑"]
+    }
+  ]
+}

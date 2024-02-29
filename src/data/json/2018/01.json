@@ -1,0 +1,448 @@
+{
+  "周一": [
+    {
+      "anime_name": "刻刻",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "1.8",
+      "play_nums": "12.0",
+      "tags": ["悬疑", "异能", "战斗", "宗教"]
+    },
+    {
+      "anime_name": "续 刀剑乱舞-花丸-",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "1.8",
+      "play_nums": "12.0",
+      "tags": ["日常", "拟人", "刀男人", "女性向"]
+    },
+    {
+      "anime_name": "25岁的女高中生",
+      "weekday": "周一",
+      "play_time": "00:00",
+      "play_date": "1.8",
+      "play_nums": "12.0",
+      "tags": ["校园", "福利", "鼓掌", "网盘见"]
+    },
+    {
+      "anime_name": "银魂 银之魂篇",
+      "weekday": "周一",
+      "play_time": "01:35",
+      "play_date": "1.8",
+      "play_nums": "",
+      "tags": ["科幻", "打斗", "无厘头", "无节操"]
+    },
+    {
+      "anime_name": "龙王的工作！",
+      "weekday": "周一",
+      "play_time": "22:30",
+      "play_date": "1.8",
+      "play_nums": "12.0",
+      "tags": ["将棋", "师徒", "萝莉", "后宫"]
+    },
+    {
+      "anime_name": "擅长捉弄的高木同学",
+      "weekday": "周一",
+      "play_time": "23:00",
+      "play_date": "1.8",
+      "play_nums": "12.0",
+      "tags": ["校园", "恋爱", "喜剧", "狗粮"]
+    },
+    {
+      "anime_name": "樱花忍法帖",
+      "weekday": "周一",
+      "play_time": "23:30",
+      "play_date": "1.8",
+      "play_nums": "24.0",
+      "tags": ["忍者", "异能", "厮杀", "悲恋"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "齐木楠雄的灾难 第二季",
+      "weekday": "周三",
+      "play_time": "01:35",
+      "play_date": "1.17",
+      "play_nums": "24.0",
+      "tags": ["校园", "喜剧", "异能", "另类日常"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周三",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51.0",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "废柴王子",
+      "weekday": "周三",
+      "play_time": "22:30",
+      "play_date": "1.10",
+      "play_nums": "12.0",
+      "tags": ["恋爱", "喜剧", "养成", "乙女向"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "阿松 第二季",
+      "weekday": "周二",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "25.0",
+      "tags": ["日常", "搞笑", "无厘头", "六胞胎"]
+    },
+    {
+      "anime_name": "飙速宅男 第四季",
+      "weekday": "周二",
+      "play_time": "02:05",
+      "play_date": "1.9",
+      "play_nums": "25.0",
+      "tags": ["运动", "自行车", "励志", "社团"]
+    },
+    {
+      "anime_name": "美妙天堂 偶像时间",
+      "weekday": "周二",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51.0",
+      "tags": []
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "play_time": "18:25",
+      "play_date": "在播",
+      "play_nums": "51.0",
+      "tags": ["奇幻", "魔法", "热血", "打斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "比宇宙更远的地方",
+      "weekday": "周二",
+      "play_time": "21:00",
+      "play_date": "1.2",
+      "play_nums": "13.0",
+      "tags": ["青春", "冒险", "旅行", "南极"]
+    },
+    {
+      "anime_name": "怪兽娘~奥特怪兽拟人化计划~ 第二季",
+      "weekday": "周二",
+      "play_time": "22:00",
+      "play_date": "1.9",
+      "play_nums": "12.0",
+      "tags": []
+    },
+    {
+      "anime_name": "OVERLORD 第二季",
+      "weekday": "周二",
+      "play_time": "23:00",
+      "play_date": "1.9",
+      "play_nums": "13.0",
+      "tags": ["奇幻", "穿越", "骨傲天", "反派视角"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "爆肝工程师的异世界狂想曲",
+      "weekday": "周五",
+      "play_time": "00:30",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["穿越", "旅游", "美食", "后宫", "龙傲天"]
+    },
+    {
+      "anime_name": "恋如雨止",
+      "weekday": "周五",
+      "play_time": "03:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["青春", "恋爱", "忘年恋", "倒A档"]
+    },
+    {
+      "anime_name": "一人之下 第二季（日语版）",
+      "weekday": "周五",
+      "play_time": "10:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": []
+    },
+    {
+      "anime_name": "小木乃伊到我家",
+      "weekday": "周五",
+      "play_time": "15:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["日常", "喜剧", "宠物", "神秘生物"]
+    },
+    {
+      "anime_name": "粗点心战争 第二季",
+      "weekday": "周五",
+      "play_time": "15:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["日常", "喜剧", "零食", "粗点心"]
+    },
+    {
+      "anime_name": "宅饮",
+      "weekday": "周五",
+      "play_time": "15:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["品酒", "日常", "公寓", "轻百合"]
+    },
+    {
+      "anime_name": "刀使巫女",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "1.5",
+      "play_nums": "24.0",
+      "tags": ["奇幻", "战斗", "轻百合", "刀女人"]
+    },
+    {
+      "anime_name": "妖精森林的小不点",
+      "weekday": "周五",
+      "play_time": "21:30",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["治愈", "小人族", "童话风", "别样日常"]
+    },
+    {
+      "anime_name": "霸穹 封神演义",
+      "weekday": "周五",
+      "play_time": "22:00",
+      "play_date": "1.12",
+      "play_nums": "24.0",
+      "tags": ["神话", "再创作", "神仙打架", "有生之年系列"]
+    },
+    {
+      "anime_name": "伊藤润二 惊选集",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "1.5",
+      "play_nums": "12.0",
+      "tags": ["恐怖", "惊悚", "猎奇", "慎入"]
+    },
+    {
+      "anime_name": "博多豚骨拉面团",
+      "weekday": "周五",
+      "play_time": "23:00",
+      "play_date": "1.12",
+      "play_nums": "12.0",
+      "tags": ["都市", "群像", "杀手", "“标题党”"]
+    },
+    {
+      "anime_name": "七美德",
+      "weekday": "周五",
+      "play_time": "23:25",
+      "play_date": "1.26",
+      "play_nums": "10.0",
+      "tags": ["神魔", "天使", "肉", "福利"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "牙狼 VANISHING LINE",
+      "weekday": "周六",
+      "play_time": "00:23",
+      "play_date": "在播",
+      "play_nums": "24.0",
+      "tags": ["科幻", "都市", "悬疑", "动作"]
+    },
+    {
+      "anime_name": "皇帝圣印战记",
+      "weekday": "周六",
+      "play_time": "00:30",
+      "play_date": "1.6",
+      "play_nums": "24.0",
+      "tags": ["奇幻", "战斗", "养成", "剑与魔法"]
+    },
+    {
+      "anime_name": "BEATLESS",
+      "weekday": "周六",
+      "play_time": "01:40",
+      "play_date": "1.13",
+      "play_nums": "24.0",
+      "tags": ["科幻", "战斗", "人工智能", "人形机器人"]
+    },
+    {
+      "anime_name": "牙斗兽娘",
+      "weekday": "周六",
+      "play_time": "02:10",
+      "play_date": "1.13",
+      "play_nums": "12.0",
+      "tags": ["格斗", "兽化", "肉", "动物世界"]
+    },
+    {
+      "anime_name": "七大罪 戒律的复活（七人传奇）",
+      "weekday": "周六",
+      "play_time": "06:00",
+      "play_date": "1.13",
+      "play_nums": "24.0",
+      "tags": ["奇幻", "战斗", "冒险", "热血"]
+    },
+    {
+      "anime_name": "Classicaloid 第二季",
+      "weekday": "周六",
+      "play_time": "19:00",
+      "play_date": "在播",
+      "play_nums": "25.0",
+      "tags": ["科幻", "音乐", "魔性", "搞笑"]
+    },
+    {
+      "anime_name": "银之守墓人 第二季",
+      "weekday": "周六",
+      "play_time": "20:00",
+      "play_date": "1.13",
+      "play_nums": "6.0",
+      "tags": []
+    },
+    {
+      "anime_name": "三丽鸥男子",
+      "weekday": "周六",
+      "play_time": "22:30",
+      "play_date": "1.6",
+      "play_nums": "12.0",
+      "tags": ["日常", "校园", "硬广", "女性向"]
+    },
+    {
+      "anime_name": "citrus～柑橘味香气～",
+      "weekday": "周六",
+      "play_time": "22:30",
+      "play_date": "1.6",
+      "play_nums": "12.0",
+      "tags": ["真·百合", "姐妹", "女校", "反差"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "紫罗兰永恒花园",
+      "weekday": "周四",
+      "play_time": "00:00",
+      "play_date": "1.11",
+      "play_nums": "14.0",
+      "tags": ["成长", "爱情", "凄美", "战争回忆"]
+    },
+    {
+      "anime_name": "爱吃拉面的小泉同学",
+      "weekday": "周四",
+      "play_time": "19:00",
+      "play_date": "1.4",
+      "play_nums": "12.0",
+      "tags": ["日常", "美食", "反差", "轻百合"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50.0",
+      "tags": []
+    },
+    {
+      "anime_name": "原书·原书使",
+      "weekday": "周四",
+      "play_time": "22:30",
+      "play_date": "1.11",
+      "play_nums": "12.0",
+      "tags": ["童话", "校园", "轻百合", "魔法少女"]
+    },
+    {
+      "anime_name": "摇曳露营△",
+      "weekday": "周四",
+      "play_time": "23:30",
+      "play_date": "1.4",
+      "play_nums": "12.0",
+      "tags": ["日常", "治愈", "户外系", "轻百合", "芳文社"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "DARLING in the FRANXX",
+      "weekday": "周日",
+      "play_time": "00:00",
+      "play_date": "1.14",
+      "play_nums": "24.0",
+      "tags": ["科幻", "机战", "双人驾驶", "巨型机器人", "“国家队”"]
+    },
+    {
+      "anime_name": "3月的狮子 第二季",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "在播",
+      "play_nums": "22.0",
+      "tags": ["将棋", "励志", "治愈", "感情"]
+    },
+    {
+      "anime_name": "Fate/EXTRA Last Encore",
+      "weekday": "周日",
+      "play_time": "00:30",
+      "play_date": "1.28",
+      "play_nums": "14.0",
+      "tags": ["奇幻", "战斗", "虚拟世界", "平行世界"]
+    },
+    {
+      "anime_name": "Slow Start",
+      "weekday": "周日",
+      "play_time": "01:00",
+      "play_date": "1.7",
+      "play_nums": "12.0",
+      "tags": ["日常", "校园", "萌系", "轻百合", "芳文社"]
+    },
+    {
+      "anime_name": "魔法使的新娘",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "在播",
+      "play_nums": "24.0",
+      "tags": ["奇幻", "魔法", "恋爱", "异形"]
+    },
+    {
+      "anime_name": "pop子和pipi美的日常",
+      "weekday": "周日",
+      "play_time": "01:30",
+      "play_date": "1.7",
+      "play_nums": "12.0",
+      "tags": ["搞笑", "魔性", "深井冰", "恶搞"]
+    },
+    {
+      "anime_name": "拥抱！光之美少女",
+      "weekday": "周日",
+      "play_time": "07:30",
+      "play_date": "2.4",
+      "play_nums": "50.0",
+      "tags": []
+    },
+    {
+      "anime_name": "魔卡少女樱 透明牌篇",
+      "weekday": "周日",
+      "play_time": "09:00",
+      "play_date": "1.7",
+      "play_nums": "22.0",
+      "tags": ["魔法", "恋爱", "少女漫", "有生之年系列"]
+    },
+    {
+      "anime_name": "三颗星彩色冒险",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "1.7",
+      "play_nums": "12.0",
+      "tags": ["日常", "喜剧", "萝莉", "熊孩子"]
+    },
+    {
+      "anime_name": "IDOLiSH7-偶像星愿-",
+      "weekday": "周日",
+      "play_time": "23:00",
+      "play_date": "1.7",
+      "play_nums": "17.0",
+      "tags": ["音乐", "偶像", "男团", "女性向"]
+    },
+    {
+      "anime_name": "学园奶爸",
+      "weekday": "周日",
+      "play_time": "23:30",
+      "play_date": "1.7",
+      "play_nums": "12.0",
+      "tags": ["校园", "日常", "喜剧", "育儿"]
+    }
+  ]
+}
