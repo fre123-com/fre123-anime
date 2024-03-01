@@ -5,7 +5,8 @@
 数据来源：
 
 - https://xf.hmacg.cn/：主要来源
-- https://yuc.wiki/
+- https://bgm.tv/：查漏补缺
+- https://yuc.wiki/：查漏补缺
 
 数据格式：
 

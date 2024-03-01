@@ -71,68 +71,6 @@
       "tags": ["冒险", "寻宝", "战斗", "人文", "美食"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "熊熊勇闯异世界",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20200171.jpg",
-      "cover_url_git": "img/2020/10/熊熊勇闯异世界.jpg",
-      "play_time": "21:30",
-      "play_date": "10.7",
-      "play_nums": "12",
-      "tags": ["冒险", "穿越", "奇幻", "龙傲天", "轻百合"]
-    },
-    {
-      "anime_name": "月歌 第二季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20200215.jpg",
-      "cover_url_git": "img/2020/10/月歌 第二季.jpg",
-      "play_time": "21:30",
-      "play_date": "10.7",
-      "play_nums": "13",
-      "tags": ["偶像", "音乐", "男团"]
-    },
-    {
-      "anime_name": "大贵族",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/8d1054d93de051d9f457d147b0b3c2ed.jpeg",
-      "cover_url_git": "img/2020/10/大贵族.jpeg",
-      "play_time": "22:00",
-      "play_date": "10.7",
-      "play_nums": "13",
-      "tags": ["奇幻", "校园", "战斗", "吸血鬼"]
-    },
-    {
-      "anime_name": "试着用土下座来拜托她们吧",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/35161143.jpg",
-      "cover_url_git": "img/2020/10/试着用土下座来拜托她们吧.jpg",
-      "play_time": "22:05",
-      "play_date": "10.14",
-      "play_nums": "13",
-      "tags": ["搞笑", "校园", "牙白", "土下座", "肉"]
-    },
-    {
-      "anime_name": "尽量加油吧！魔法少女胡桃 第三季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201121-1/189f7916465cf43291869c2b32a39635.jpg",
-      "cover_url_git": "img/2020/10/尽量加油吧！魔法少女胡桃 第三季.jpg",
-      "play_time": "22:54",
-      "play_date": "10.7",
-      "play_nums": "",
-      "tags": ["奇幻", "搞笑", "魔法少女", "吐槽系"]
-    },
-    {
-      "anime_name": "你与我最后的战场，亦或是世界起始的圣战",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/6ccfea961dbe55041869e114896d2fba.jpeg",
-      "cover_url_git": "img/2020/10/你与我最后的战场，亦或是世界起始的圣战.jpeg",
-      "play_time": "23:30",
-      "play_date": "10.7",
-      "play_nums": "12",
-      "tags": ["奇幻", "战争", "恋爱"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "One Room 第三季",
@@ -223,6 +161,110 @@
       "play_date": "10.13",
       "play_nums": "季",
       "tags": ["奇幻", "悬疑", "架空", "战斗"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "熊熊勇闯异世界",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20200171.jpg",
+      "cover_url_git": "img/2020/10/熊熊勇闯异世界.jpg",
+      "play_time": "21:30",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["冒险", "穿越", "奇幻", "龙傲天", "轻百合"]
+    },
+    {
+      "anime_name": "月歌 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20200215.jpg",
+      "cover_url_git": "img/2020/10/月歌 第二季.jpg",
+      "play_time": "21:30",
+      "play_date": "10.7",
+      "play_nums": "13",
+      "tags": ["偶像", "音乐", "男团"]
+    },
+    {
+      "anime_name": "大贵族",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/8d1054d93de051d9f457d147b0b3c2ed.jpeg",
+      "cover_url_git": "img/2020/10/大贵族.jpeg",
+      "play_time": "22:00",
+      "play_date": "10.7",
+      "play_nums": "13",
+      "tags": ["奇幻", "校园", "战斗", "吸血鬼"]
+    },
+    {
+      "anime_name": "试着用土下座来拜托她们吧",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35161143.jpg",
+      "cover_url_git": "img/2020/10/试着用土下座来拜托她们吧.jpg",
+      "play_time": "22:05",
+      "play_date": "10.14",
+      "play_nums": "13",
+      "tags": ["搞笑", "校园", "牙白", "土下座", "肉"]
+    },
+    {
+      "anime_name": "尽量加油吧！魔法少女胡桃 第三季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201121-1/189f7916465cf43291869c2b32a39635.jpg",
+      "cover_url_git": "img/2020/10/尽量加油吧！魔法少女胡桃 第三季.jpg",
+      "play_time": "22:54",
+      "play_date": "10.7",
+      "play_nums": "",
+      "tags": ["奇幻", "搞笑", "魔法少女", "吐槽系"]
+    },
+    {
+      "anime_name": "你与我最后的战场，亦或是世界起始的圣战",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/6ccfea961dbe55041869e114896d2fba.jpeg",
+      "cover_url_git": "img/2020/10/你与我最后的战场，亦或是世界起始的圣战.jpeg",
+      "play_time": "23:30",
+      "play_date": "10.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "战争", "恋爱"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "强袭魔女 第三季（通往柏林之路）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/8771e3fc982ce4d3f75f6f7116355138.jpg",
+      "cover_url_git": "img/2020/10/强袭魔女 第三季（通往柏林之路）.jpg",
+      "play_time": "01:05",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["科幻", "空战", "魔法科技", "轻百合"]
+    },
+    {
+      "anime_name": "小碧蓝幻想！",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693794046726_118769964.jpg",
+      "cover_url_git": "img/2020/10/小碧蓝幻想！.jpg",
+      "play_time": "20:54",
+      "play_date": "10.8",
+      "play_nums": "",
+      "tags": ["外传", "奇幻", "搞笑", "沙雕"]
+    },
+    {
+      "anime_name": "全员恶玉（恶棍DRIVE）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35000588.jpg",
+      "cover_url_git": "img/2020/10/全员恶玉（恶棍DRIVE）.jpg",
+      "play_time": "21:00",
+      "play_date": "10.8",
+      "play_nums": "12",
+      "tags": ["都市", "群像", "犯罪", "架空未来"]
+    },
+    {
+      "anime_name": "寒蝉鸣泣之时 业",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0772583a68ad37112726d762b8700861.jpeg",
+      "cover_url_git": "img/2020/10/寒蝉鸣泣之时 业.jpeg",
+      "play_time": "22:30",
+      "play_date": "10.1",
+      "play_nums": "24",
+      "tags": ["悬疑", "惊悚", "猎奇", "柴刀"]
     }
   ],
   "周五": [
@@ -437,48 +479,6 @@
       "play_date": "10.3",
       "play_nums": "季",
       "tags": ["科幻", "战斗", "校园", "骨科", "龙傲天"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "强袭魔女 第三季（通往柏林之路）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/8771e3fc982ce4d3f75f6f7116355138.jpg",
-      "cover_url_git": "img/2020/10/强袭魔女 第三季（通往柏林之路）.jpg",
-      "play_time": "01:05",
-      "play_date": "10.8",
-      "play_nums": "12",
-      "tags": ["科幻", "空战", "魔法科技", "轻百合"]
-    },
-    {
-      "anime_name": "小碧蓝幻想！",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1693794046726_118769964.jpg",
-      "cover_url_git": "img/2020/10/小碧蓝幻想！.jpg",
-      "play_time": "20:54",
-      "play_date": "10.8",
-      "play_nums": "",
-      "tags": ["外传", "奇幻", "搞笑", "沙雕"]
-    },
-    {
-      "anime_name": "全员恶玉（恶棍DRIVE）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35000588.jpg",
-      "cover_url_git": "img/2020/10/全员恶玉（恶棍DRIVE）.jpg",
-      "play_time": "21:00",
-      "play_date": "10.8",
-      "play_nums": "12",
-      "tags": ["都市", "群像", "犯罪", "架空未来"]
-    },
-    {
-      "anime_name": "寒蝉鸣泣之时 业",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0772583a68ad37112726d762b8700861.jpeg",
-      "cover_url_git": "img/2020/10/寒蝉鸣泣之时 业.jpeg",
-      "play_time": "22:30",
-      "play_date": "10.1",
-      "play_nums": "24",
-      "tags": ["悬疑", "惊悚", "猎奇", "柴刀"]
     }
   ],
   "周日": [

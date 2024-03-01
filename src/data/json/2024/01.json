@@ -81,6 +81,48 @@
       "tags": ["校园", "恋爱", "搞笑", "整活", "极限拉扯"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "公主大人“拷问”的时间到了",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/user/c468e0555b7363839c003568a619beed4348.jpeg",
+      "cover_url_git": "img/2024/01/公主大人“拷问”的时间到了.jpeg",
+      "play_time": "00:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "美食", "沙雕", "情景喜剧"]
+    },
+    {
+      "anime_name": "愚蠢天使与恶魔共舞",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hkli9jipqhj31jk26846n.jpg",
+      "cover_url_git": "img/2024/01/愚蠢天使与恶魔共舞.jpg",
+      "play_time": "00:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "搞笑", "校园", "整活", "狗粮"]
+    },
+    {
+      "anime_name": "通灵王 FLOWERS",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hc0pm5633pj30ts15owy3.jpg",
+      "cover_url_git": "img/2024/01/通灵王 FLOWERS.jpg",
+      "play_time": "23:00",
+      "play_date": "1.9",
+      "play_nums": "13",
+      "tags": ["奇幻", "战斗", "热血", "成长", "重制"]
+    },
+    {
+      "anime_name": "反派千金等级99 我是隐藏头目但不是魔王",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/user/faa22fe50952eb4cf140c1b23eb49c3d7207.jpeg",
+      "cover_url_git": "img/2024/01/反派千金等级99 我是隐藏头目但不是魔王.jpeg",
+      "play_time": "23:30",
+      "play_date": "1.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "校园", "搞笑", "转生", "三无", "凤傲天"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "弱势角色友崎君 第二季（弱角友崎同学）",
@@ -143,46 +185,66 @@
       "tags": ["奇幻", "魔法少女", "战斗", "姛", "涩涩"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "公主大人“拷问”的时间到了",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/user/c468e0555b7363839c003568a619beed4348.jpeg",
-      "cover_url_git": "img/2024/01/公主大人“拷问”的时间到了.jpeg",
-      "play_time": "00:30",
-      "play_date": "1.9",
+      "anime_name": "如果30岁还是处男 似乎就能成为魔法师",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw690/006wcRw4gy1hfxipwc161j30jl0rs0vy.jpg",
+      "cover_url_git": "img/2024/01/如果30岁还是处男 似乎就能成为魔法师.jpg",
+      "play_time": "00:00",
+      "play_date": "1.11",
       "play_nums": "12",
-      "tags": ["搞笑", "日常", "美食", "沙雕", "情景喜剧"]
+      "tags": ["职场", "喜剧", "日常", "耽美"]
     },
     {
-      "anime_name": "愚蠢天使与恶魔共舞",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hkli9jipqhj31jk26846n.jpg",
-      "cover_url_git": "img/2024/01/愚蠢天使与恶魔共舞.jpg",
-      "play_time": "00:30",
-      "play_date": "1.9",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "搞笑", "校园", "整活", "狗粮"]
-    },
-    {
-      "anime_name": "通灵王 FLOWERS",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hc0pm5633pj30ts15owy3.jpg",
-      "cover_url_git": "img/2024/01/通灵王 FLOWERS.jpg",
-      "play_time": "23:00",
-      "play_date": "1.9",
+      "anime_name": "金属口红（METALLIC ROUGE）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36327991.jpg",
+      "cover_url_git": "img/2024/01/金属口红（METALLIC ROUGE）.jpg",
+      "play_time": "00:55",
+      "play_date": "1.11",
       "play_nums": "13",
-      "tags": ["奇幻", "战斗", "热血", "成长", "重制"]
+      "tags": ["科幻", "人造人", "机战", "贴贴"]
     },
     {
-      "anime_name": "反派千金等级99 我是隐藏头目但不是魔王",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/user/faa22fe50952eb4cf140c1b23eb49c3d7207.jpeg",
-      "cover_url_git": "img/2024/01/反派千金等级99 我是隐藏头目但不是魔王.jpeg",
-      "play_time": "23:30",
-      "play_date": "1.9",
+      "anime_name": "迷宫饭",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hijkkvvfqmj32bc35he82.jpg",
+      "cover_url_git": "img/2024/01/迷宫饭.jpg",
+      "play_time": "21:30",
+      "play_date": "1.4",
+      "play_nums": "24",
+      "tags": ["美食", "奇幻", "冒险", "搞笑", "地下城生态学"]
+    },
+    {
+      "anime_name": "魔都精兵的奴隶",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gwjkzsn7kej317d1wgjzj.jpg",
+      "cover_url_git": "img/2024/01/魔都精兵的奴隶.jpg",
+      "play_time": "23:00",
+      "play_date": "1.4",
       "play_nums": "12",
-      "tags": ["奇幻", "校园", "搞笑", "转生", "三无", "凤傲天"]
+      "tags": ["奇幻", "冒险", "战斗", "后宫", "涩涩"]
+    },
+    {
+      "anime_name": "勇气爆发 BANG BRAVERN",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw690/7ad49a13gy1hkptfdrlgej20rt13btf5.jpg",
+      "cover_url_git": "img/2024/01/勇气爆发 BANG BRAVERN.jpg",
+      "play_time": "23:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "热血"]
+    },
+    {
+      "anime_name": "金属口红（METALLIC ROUGE）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36327991.jpg",
+      "cover_url_git": "img/2024/01/金属口红（METALLIC ROUGE）.jpg",
+      "play_time": "00:55",
+      "play_date": "1.11",
+      "play_nums": "13",
+      "tags": ["科幻", "人造人", "机战", "贴贴"]
     }
   ],
   "周五": [
@@ -193,7 +255,7 @@
       "cover_url_git": "img/2024/01/名汤「异世界温泉」开拓记.jpg",
       "play_time": "00:00",
       "play_date": "1.12",
-      "play_nums": "",
+      "play_nums": "12",
       "tags": ["穿越异世界", "温泉", "泡澡", "后宫", "涩涩"]
     },
     {
@@ -313,7 +375,7 @@
       "cover_url_git": "img/2024/01/大欺诈师 razbliuto.jpeg",
       "play_time": "",
       "play_date": "2.23",
-      "play_nums": "",
+      "play_nums": "1",
       "tags": ["悬疑", "智斗", "犯罪", "搞笑"]
     }
   ],
@@ -375,7 +437,7 @@
       "cover_url_git": "img/2024/01/卡片战斗先导者 DivineZ.jpg",
       "play_time": "18:00",
       "play_date": "1.13",
-      "play_nums": "",
+      "play_nums": "12",
       "tags": ["卡牌", "竞技"]
     },
     {
@@ -435,7 +497,7 @@
       "cover_url_git": "img/2024/01/王者天下 第五季.jpg",
       "play_time": "23:00",
       "play_date": "1.6",
-      "play_nums": "",
+      "play_nums": "12",
       "tags": ["古中国", "战争", "热血", "历史", "成长"]
     },
     {
@@ -447,68 +509,6 @@
       "play_date": "2.10",
       "play_nums": "12",
       "tags": ["奇幻", "搞笑", "校园", "战斗", "魔法"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "如果30岁还是处男 似乎就能成为魔法师",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw690/006wcRw4gy1hfxipwc161j30jl0rs0vy.jpg",
-      "cover_url_git": "img/2024/01/如果30岁还是处男 似乎就能成为魔法师.jpg",
-      "play_time": "00:00",
-      "play_date": "1.11",
-      "play_nums": "12",
-      "tags": ["职场", "喜剧", "日常", "耽美"]
-    },
-    {
-      "anime_name": "金属口红（METALLIC ROUGE）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36327991.jpg",
-      "cover_url_git": "img/2024/01/金属口红（METALLIC ROUGE）.jpg",
-      "play_time": "00:55",
-      "play_date": "1.11",
-      "play_nums": "13",
-      "tags": ["科幻", "人造人", "机战", "贴贴"]
-    },
-    {
-      "anime_name": "迷宫饭",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hijkkvvfqmj32bc35he82.jpg",
-      "cover_url_git": "img/2024/01/迷宫饭.jpg",
-      "play_time": "21:30",
-      "play_date": "1.4",
-      "play_nums": "24",
-      "tags": ["美食", "奇幻", "冒险", "搞笑", "地下城生态学"]
-    },
-    {
-      "anime_name": "魔都精兵的奴隶",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gwjkzsn7kej317d1wgjzj.jpg",
-      "cover_url_git": "img/2024/01/魔都精兵的奴隶.jpg",
-      "play_time": "23:00",
-      "play_date": "1.4",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "后宫", "涩涩"]
-    },
-    {
-      "anime_name": "勇气爆发 BANG BRAVERN",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw690/7ad49a13gy1hkptfdrlgej20rt13btf5.jpg",
-      "cover_url_git": "img/2024/01/勇气爆发 BANG BRAVERN.jpg",
-      "play_time": "23:30",
-      "play_date": "1.11",
-      "play_nums": "12",
-      "tags": ["科幻", "机战", "热血"]
-    },
-    {
-      "anime_name": "金属口红（METALLIC ROUGE）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36327991.jpg",
-      "cover_url_git": "img/2024/01/金属口红（METALLIC ROUGE）.jpg",
-      "play_time": "00:55",
-      "play_date": "1.11",
-      "play_nums": "13",
-      "tags": ["科幻", "人造人", "机战", "贴贴"]
     }
   ],
   "周日": [
@@ -639,7 +639,7 @@
       "cover_url_git": "img/2024/01/明治击剑－1874－.jpg",
       "play_time": "22:00",
       "play_date": "1.14",
-      "play_nums": "",
+      "play_nums": "12",
       "tags": ["奇幻", "冒险", "历史"]
     },
     {

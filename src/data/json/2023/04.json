@@ -81,6 +81,68 @@
       "tags": ["奇幻", "异世界", "穿越", "后宫", "龙傲天"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "在异世界获得超强能力的我 在现实世界照样无敌",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h88fe40qllj30u016egve.jpg",
+      "cover_url_git": "img/2023/04/在异世界获得超强能力的我 在现实世界照样无敌.jpg",
+      "play_time": "00:00",
+      "play_date": "4.4",
+      "play_nums": "13",
+      "tags": ["奇幻", "冒险", "战斗", "穿越", "后宫", "龙傲天"]
+    },
+    {
+      "anime_name": "放学后失眠的你",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h315aoojdnj30jm0rsdnc.jpg",
+      "cover_url_git": "img/2023/04/放学后失眠的你.jpg",
+      "play_time": "00:00",
+      "play_date": "4.11",
+      "play_nums": "13",
+      "tags": ["校园", "恋爱", "日常", "青春", "天文", "摄影"]
+    },
+    {
+      "anime_name": "亡骸游戏（尸体如山的死亡游戏）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/36156756.jpg",
+      "cover_url_git": "img/2023/04/亡骸游戏（尸体如山的死亡游戏）.jpg",
+      "play_time": "00:00",
+      "play_date": "4.11",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "群像", "逆穿越"]
+    },
+    {
+      "anime_name": "绊之Allele",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h8ppgmdaptj31d31xg1kx.jpg",
+      "cover_url_git": "img/2023/04/绊之Allele.jpg",
+      "play_time": "01:30",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["虚拟偶像", "校园"]
+    },
+    {
+      "anime_name": "跃动青春",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35679677.jpg",
+      "cover_url_git": "img/2023/04/跃动青春.jpg",
+      "play_time": "23:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "日常", "青春", "治愈"]
+    },
+    {
+      "anime_name": "久保同学不放过我",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8ws7o9vrbj30rs13adsc.jpg",
+      "cover_url_git": "img/2023/04/久保同学不放过我.jpg",
+      "play_time": "23:30",
+      "play_date": "连载中",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "狗粮"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "新 东京猫猫 后半篇",
@@ -143,66 +205,96 @@
       "tags": ["网游", "搞笑", "战斗", "冒险", "凤傲天"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "在异世界获得超强能力的我 在现实世界照样无敌",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h88fe40qllj30u016egve.jpg",
-      "cover_url_git": "img/2023/04/在异世界获得超强能力的我 在现实世界照样无敌.jpg",
+      "anime_name": "为美好的世界献上爆炎！",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omly1gmnm73r8vvj30jg0qzn77.jpg",
+      "cover_url_git": "img/2023/04/为美好的世界献上爆炎！.jpg",
       "play_time": "00:00",
-      "play_date": "4.4",
-      "play_nums": "13",
-      "tags": ["奇幻", "冒险", "战斗", "穿越", "后宫", "龙傲天"]
-    },
-    {
-      "anime_name": "放学后失眠的你",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h315aoojdnj30jm0rsdnc.jpg",
-      "cover_url_git": "img/2023/04/放学后失眠的你.jpg",
-      "play_time": "00:00",
-      "play_date": "4.11",
-      "play_nums": "13",
-      "tags": ["校园", "恋爱", "日常", "青春", "天文", "摄影"]
-    },
-    {
-      "anime_name": "亡骸游戏（尸体如山的死亡游戏）",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/36156756.jpg",
-      "cover_url_git": "img/2023/04/亡骸游戏（尸体如山的死亡游戏）.jpg",
-      "play_time": "00:00",
-      "play_date": "4.11",
+      "play_date": "4.6",
       "play_nums": "12",
-      "tags": ["奇幻", "战斗", "群像", "逆穿越"]
+      "tags": ["奇幻", "搞笑", "日常", "异世界", "外传"]
     },
     {
-      "anime_name": "绊之Allele",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h8ppgmdaptj31d31xg1kx.jpg",
-      "cover_url_git": "img/2023/04/绊之Allele.jpg",
-      "play_time": "01:30",
-      "play_date": "4.4",
+      "anime_name": "祭品公主与兽之王",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691548333576_584932896.jpg",
+      "cover_url_git": "img/2023/04/祭品公主与兽之王.jpg",
+      "play_time": "00:00",
+      "play_date": "4.20",
+      "play_nums": "24",
+      "tags": ["奇幻", "恋爱", "成长", "人外", "少女"]
+    },
+    {
+      "anime_name": "无神世界中的神明活动",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hc9vzcansuj30y619htuw.jpg",
+      "cover_url_git": "img/2023/04/无神世界中的神明活动.jpg",
+      "play_time": "00:30",
+      "play_date": "4.6",
       "play_nums": "12",
-      "tags": ["虚拟偶像", "校园"]
+      "tags": ["奇幻", "搞笑", "神魔", "日常", "穿越"]
     },
     {
-      "anime_name": "跃动青春",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35679677.jpg",
-      "cover_url_git": "img/2023/04/跃动青春.jpg",
+      "anime_name": "魔法使的新娘 第二季",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
+      "cover_url_git": "img/2023/04/魔法使的新娘 第二季.jpg",
+      "play_time": "22:00",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
+    },
+    {
+      "anime_name": "Dr.STONE 石纪元 第三季",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691489926353_879060613.jpg",
+      "cover_url_git": "img/2023/04/Dr.STONE 石纪元 第三季.jpg",
+      "play_time": "22:30",
+      "play_date": "4.6",
+      "play_nums": "11",
+      "tags": ["科学", "冒险", "热血", "搞笑"]
+    },
+    {
+      "anime_name": "我的百合乃工作是也！",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h288zjwazqj31jk26kwtb.jpg",
+      "cover_url_git": "img/2023/04/我的百合乃工作是也！.jpg",
+      "play_time": "22:30",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["搞笑", "百合营业", "工作日常", "扭曲", "贴贴"]
+    },
+    {
+      "anime_name": "关于我转生变成史莱姆这档事 红莲之绊篇",
+      "weekday": "周四",
+      "cover_url": "http://lz.sinaimg.cn/large/006yt1Omgy1gzx02sfiuej30ku0tgtes.jpg",
+      "cover_url_git": "img/2023/04/关于我转生变成史莱姆这档事 红莲之绊篇.jpg",
       "play_time": "23:00",
-      "play_date": "4.4",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "日常", "青春", "治愈"]
+      "play_date": "3.23",
+      "play_nums": "1",
+      "tags": ["奇幻", "战斗", "热血", "搞笑", "异世界"]
     },
     {
-      "anime_name": "久保同学不放过我",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8ws7o9vrbj30rs13adsc.jpg",
-      "cover_url_git": "img/2023/04/久保同学不放过我.jpg",
-      "play_time": "23:30",
-      "play_date": "连载中",
+      "anime_name": "机动奥特曼 最终季",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691489759982_180155350.jpg",
+      "cover_url_git": "img/2023/04/机动奥特曼 最终季.jpg",
+      "play_time": "",
+      "play_date": "5.11",
       "play_nums": "12",
-      "tags": ["校园", "恋爱", "搞笑", "日常", "狗粮"]
+      "tags": ["特摄", "科幻", "战斗", "英雄剧", "奥特曼"]
+    },
+    {
+      "anime_name": "YAKITORI：行星轨道敢死队",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hef5b43rg3j305i07ndg7.jpg",
+      "cover_url_git": "img/2023/04/YAKITORI：行星轨道敢死队.jpg",
+      "play_time": "",
+      "play_date": "5.18",
+      "play_nums": "6",
+      "tags": ["科幻", "战斗", "太空"]
     }
   ],
   "周五": [
@@ -437,98 +529,6 @@
       "play_date": "4.1",
       "play_nums": "4",
       "tags": ["恋爱", "搞笑", "校园", "日常", "青春"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "为美好的世界献上爆炎！",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omly1gmnm73r8vvj30jg0qzn77.jpg",
-      "cover_url_git": "img/2023/04/为美好的世界献上爆炎！.jpg",
-      "play_time": "00:00",
-      "play_date": "4.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "日常", "异世界", "外传"]
-    },
-    {
-      "anime_name": "祭品公主与兽之王",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691548333576_584932896.jpg",
-      "cover_url_git": "img/2023/04/祭品公主与兽之王.jpg",
-      "play_time": "00:00",
-      "play_date": "4.20",
-      "play_nums": "24",
-      "tags": ["奇幻", "恋爱", "成长", "人外", "少女"]
-    },
-    {
-      "anime_name": "无神世界中的神明活动",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hc9vzcansuj30y619htuw.jpg",
-      "cover_url_git": "img/2023/04/无神世界中的神明活动.jpg",
-      "play_time": "00:30",
-      "play_date": "4.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "神魔", "日常", "穿越"]
-    },
-    {
-      "anime_name": "魔法使的新娘 第二季",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
-      "cover_url_git": "img/2023/04/魔法使的新娘 第二季.jpg",
-      "play_time": "22:00",
-      "play_date": "4.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
-    },
-    {
-      "anime_name": "Dr.STONE 石纪元 第三季",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691489926353_879060613.jpg",
-      "cover_url_git": "img/2023/04/Dr.STONE 石纪元 第三季.jpg",
-      "play_time": "22:30",
-      "play_date": "4.6",
-      "play_nums": "11",
-      "tags": ["科学", "冒险", "热血", "搞笑"]
-    },
-    {
-      "anime_name": "我的百合乃工作是也！",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h288zjwazqj31jk26kwtb.jpg",
-      "cover_url_git": "img/2023/04/我的百合乃工作是也！.jpg",
-      "play_time": "22:30",
-      "play_date": "4.6",
-      "play_nums": "12",
-      "tags": ["搞笑", "百合营业", "工作日常", "扭曲", "贴贴"]
-    },
-    {
-      "anime_name": "关于我转生变成史莱姆这档事 红莲之绊篇",
-      "weekday": "周四",
-      "cover_url": "http://lz.sinaimg.cn/large/006yt1Omgy1gzx02sfiuej30ku0tgtes.jpg",
-      "cover_url_git": "img/2023/04/关于我转生变成史莱姆这档事 红莲之绊篇.jpg",
-      "play_time": "23:00",
-      "play_date": "3.23",
-      "play_nums": "1",
-      "tags": ["奇幻", "战斗", "热血", "搞笑", "异世界"]
-    },
-    {
-      "anime_name": "机动奥特曼 最终季",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691489759982_180155350.jpg",
-      "cover_url_git": "img/2023/04/机动奥特曼 最终季.jpg",
-      "play_time": "",
-      "play_date": "5.11",
-      "play_nums": "12",
-      "tags": ["特摄", "科幻", "战斗", "英雄剧", "奥特曼"]
-    },
-    {
-      "anime_name": "YAKITORI：行星轨道敢死队",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hef5b43rg3j305i07ndg7.jpg",
-      "cover_url_git": "img/2023/04/YAKITORI：行星轨道敢死队.jpg",
-      "play_time": "",
-      "play_date": "5.18",
-      "play_nums": "6",
-      "tags": ["科幻", "战斗", "太空"]
     }
   ],
   "周日": [

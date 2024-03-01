@@ -81,6 +81,58 @@
       "tags": ["卡牌", "竞技", "伪娘", "搞基日常"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "进化之实 踏上胜利的人生",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35346248.jpg",
+      "cover_url_git": "img/2021/10/进化之实 踏上胜利的人生.jpg",
+      "play_time": "01:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "冒险", "后宫", "异世界"]
+    },
+    {
+      "anime_name": "境界战机",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/47d6639950de7369f8e34528556c1ea2.jpeg",
+      "cover_url_git": "img/2021/10/境界战机.jpeg",
+      "play_time": "01:30",
+      "play_date": "10.5",
+      "play_nums": "24",
+      "tags": ["机战", "科幻", "AI", "热血", "战斗"]
+    },
+    {
+      "anime_name": "宿命回响：命运节拍（takt op.Destiny）",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1grx191wfsqj315o1mxnaj.jpg",
+      "cover_url_git": "img/2021/10/宿命回响：命运节拍（takt op.Destiny）.jpg",
+      "play_time": "19:00",
+      "play_date": "11.3",
+      "play_nums": "12",
+      "tags": ["奇幻", "音乐", "战斗"]
+    },
+    {
+      "anime_name": "高达破坏者 对战记录",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gtnjmkgx0ej30rs130dnd.jpg",
+      "cover_url_git": "img/2021/10/高达破坏者 对战记录.jpg",
+      "play_time": "20:30",
+      "play_date": "10.19",
+      "play_nums": "6",
+      "tags": ["科幻", "高达", "机战"]
+    },
+    {
+      "anime_name": "狂热深渊-迷失的孩子",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35510775.jpg",
+      "cover_url_git": "img/2021/10/狂热深渊-迷失的孩子.jpg",
+      "play_time": "23:30",
+      "play_date": "10.12",
+      "play_nums": "12",
+      "tags": ["科幻", "冒险", "异型"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "键等学园（键的嘉年华）",
@@ -173,56 +225,76 @@
       "tags": ["机战", "战争", "致郁", "外星生物"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "进化之实 踏上胜利的人生",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35346248.jpg",
-      "cover_url_git": "img/2021/10/进化之实 踏上胜利的人生.jpg",
-      "play_time": "01:00",
-      "play_date": "10.5",
+      "anime_name": "极主夫道（后半篇）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692775516502_781766359.jpg",
+      "cover_url_git": "img/2021/10/极主夫道（后半篇）.jpg",
+      "play_time": "15:00",
+      "play_date": "10.7",
+      "play_nums": "5",
+      "tags": ["搞笑", "美食", "黑道", "家庭煮夫", "PPT"]
+    },
+    {
+      "anime_name": "通灵王（新作）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
+      "cover_url_git": "img/2021/10/通灵王（新作）.jpeg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "52",
+      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "绯红结系（SCARLET NEXUS）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35406661.jpg",
+      "cover_url_git": "img/2021/10/绯红结系（SCARLET NEXUS）.jpg",
+      "play_time": "21:30",
+      "play_date": "连载中",
+      "play_nums": "26",
+      "tags": ["科幻", "战斗", "异能"]
+    },
+    {
+      "anime_name": "迷宫标记者（SAKUGAN）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/c7f284c36a1d1e9f33ad01f00ee8a4d9.jpeg",
+      "cover_url_git": "img/2021/10/迷宫标记者（SAKUGAN）.jpeg",
+      "play_time": "22:30",
+      "play_date": "10.7",
       "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "冒险", "后宫", "异世界"]
+      "tags": ["科幻", "机甲", "亲情", "冒险"]
     },
     {
-      "anime_name": "境界战机",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/47d6639950de7369f8e34528556c1ea2.jpeg",
-      "cover_url_git": "img/2021/10/境界战机.jpeg",
-      "play_time": "01:30",
-      "play_date": "10.5",
-      "play_nums": "24",
-      "tags": ["机战", "科幻", "AI", "热血", "战斗"]
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gun5bsacpjj607409wmy102.jpg",
+      "cover_url_git": "img/2021/10/BanG Dream! 少女乐团派对！☆PICO Fever!.jpg",
+      "play_time": "23:00",
+      "play_date": "10.7",
+      "play_nums": "",
+      "tags": ["Q版", "搞笑", "乐队", "日常"]
     },
     {
-      "anime_name": "宿命回响：命运节拍（takt op.Destiny）",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1grx191wfsqj315o1mxnaj.jpg",
-      "cover_url_git": "img/2021/10/宿命回响：命运节拍（takt op.Destiny）.jpg",
-      "play_time": "19:00",
-      "play_date": "11.3",
+      "anime_name": "范马刃牙",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/a3aae4e6d8686f366e9f212863e193d7.jpeg",
+      "cover_url_git": "img/2021/10/范马刃牙.jpeg",
+      "play_time": "",
+      "play_date": "9.30",
       "play_nums": "12",
-      "tags": ["奇幻", "音乐", "战斗"]
+      "tags": ["格斗", "热血", "搞笑", "夸张"]
     },
     {
-      "anime_name": "高达破坏者 对战记录",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gtnjmkgx0ej30rs130dnd.jpg",
-      "cover_url_git": "img/2021/10/高达破坏者 对战记录.jpg",
-      "play_time": "20:30",
-      "play_date": "10.19",
-      "play_nums": "6",
-      "tags": ["科幻", "高达", "机战"]
-    },
-    {
-      "anime_name": "狂热深渊-迷失的孩子",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35510775.jpg",
-      "cover_url_git": "img/2021/10/狂热深渊-迷失的孩子.jpg",
-      "play_time": "23:30",
-      "play_date": "10.12",
-      "play_nums": "12",
-      "tags": ["科幻", "冒险", "异型"]
+      "anime_name": "超级骗子（超级小偷）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gwrmmj2h0ij307409wjs0.jpg",
+      "cover_url_git": "img/2021/10/超级骗子（超级小偷）.jpg",
+      "play_time": "",
+      "play_date": "11.25",
+      "play_nums": "13",
+      "tags": ["超能力", "犯罪"]
     }
   ],
   "周五": [
@@ -417,78 +489,6 @@
       "play_date": "10.9",
       "play_nums": "12",
       "tags": ["奇幻", "冒险", "转生", "异世界", "王道"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "极主夫道（后半篇）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692775516502_781766359.jpg",
-      "cover_url_git": "img/2021/10/极主夫道（后半篇）.jpg",
-      "play_time": "15:00",
-      "play_date": "10.7",
-      "play_nums": "5",
-      "tags": ["搞笑", "美食", "黑道", "家庭煮夫", "PPT"]
-    },
-    {
-      "anime_name": "通灵王（新作）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
-      "cover_url_git": "img/2021/10/通灵王（新作）.jpeg",
-      "play_time": "18:00",
-      "play_date": "连载中",
-      "play_nums": "52",
-      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
-    },
-    {
-      "anime_name": "绯红结系（SCARLET NEXUS）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35406661.jpg",
-      "cover_url_git": "img/2021/10/绯红结系（SCARLET NEXUS）.jpg",
-      "play_time": "21:30",
-      "play_date": "连载中",
-      "play_nums": "26",
-      "tags": ["科幻", "战斗", "异能"]
-    },
-    {
-      "anime_name": "迷宫标记者（SAKUGAN）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/c7f284c36a1d1e9f33ad01f00ee8a4d9.jpeg",
-      "cover_url_git": "img/2021/10/迷宫标记者（SAKUGAN）.jpeg",
-      "play_time": "22:30",
-      "play_date": "10.7",
-      "play_nums": "12",
-      "tags": ["科幻", "机甲", "亲情", "冒险"]
-    },
-    {
-      "anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gun5bsacpjj607409wmy102.jpg",
-      "cover_url_git": "img/2021/10/BanG Dream! 少女乐团派对！☆PICO Fever!.jpg",
-      "play_time": "23:00",
-      "play_date": "10.7",
-      "play_nums": "",
-      "tags": ["Q版", "搞笑", "乐队", "日常"]
-    },
-    {
-      "anime_name": "范马刃牙",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/a3aae4e6d8686f366e9f212863e193d7.jpeg",
-      "cover_url_git": "img/2021/10/范马刃牙.jpeg",
-      "play_time": "",
-      "play_date": "9.30",
-      "play_nums": "12",
-      "tags": ["格斗", "热血", "搞笑", "夸张"]
-    },
-    {
-      "anime_name": "超级骗子（超级小偷）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gwrmmj2h0ij307409wjs0.jpg",
-      "cover_url_git": "img/2021/10/超级骗子（超级小偷）.jpg",
-      "play_time": "",
-      "play_date": "11.25",
-      "play_nums": "13",
-      "tags": ["超能力", "犯罪"]
     }
   ],
   "周日": [

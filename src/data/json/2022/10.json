@@ -81,6 +81,78 @@
       "tags": ["卡牌", "竞技"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "死神 千年血战篇",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35001432.jpg",
+      "cover_url_git": "img/2022/10/死神 千年血战篇.jpg",
+      "play_time": "00:30",
+      "play_date": "10.11",
+      "play_nums": "季",
+      "tags": ["热血", "奇幻", "战斗", "有生之年"]
+    },
+    {
+      "anime_name": "名侦探柯南 犯人犯泽先生",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/57573c3dd86c71bceb785a1326c083a1.jpeg",
+      "cover_url_git": "img/2022/10/名侦探柯南 犯人犯泽先生.jpeg",
+      "play_time": "00:05",
+      "play_date": "10.4",
+      "play_nums": "",
+      "tags": ["搞笑", "日常", "外传"]
+    },
+    {
+      "anime_name": "永久少年",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691738675616_1980869967.jpg",
+      "cover_url_git": "img/2022/10/永久少年.jpg",
+      "play_time": "01:20",
+      "play_date": "9.25",
+      "play_nums": "24",
+      "tags": ["偶像", "男团", "大叔", "励志"]
+    },
+    {
+      "anime_name": "呆萌酷男孩",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5ycaj197rj30u016a76d.jpg",
+      "cover_url_git": "img/2022/10/呆萌酷男孩.jpg",
+      "play_time": "01:30",
+      "play_date": "10.11",
+      "play_nums": "24",
+      "tags": ["校园", "日常", "搞笑"]
+    },
+    {
+      "anime_name": "世界末日与柴犬同行",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
+      "cover_url_git": "img/2022/10/世界末日与柴犬同行.jpg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "72",
+      "tags": ["日常", "架空", "末世", "有声漫画"]
+    },
+    {
+      "anime_name": "忍者一时（忍之一时）",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692167208044_1075492338.jpg",
+      "cover_url_git": "img/2022/10/忍者一时（忍之一时）.jpg",
+      "play_time": "20:00",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "忍者", "战斗", "校园"]
+    },
+    {
+      "anime_name": "赛博浪客（赛博朋克：边缘行者）",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/374e51bed3f33dde2ea025f18fc77df1.jpeg",
+      "cover_url_git": "img/2022/10/赛博浪客（赛博朋克：边缘行者）.jpeg",
+      "play_time": "",
+      "play_date": "9.13",
+      "play_nums": "10",
+      "tags": ["科幻", "战斗", "外传", "赛博朋克2077"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "前进吧！登山少女 第四季（向山进发）",
@@ -183,50 +255,80 @@
       "tags": ["奇幻", "冒险", "转生", "战斗", "猫娘", "养女儿"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "死神 千年血战篇",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35001432.jpg",
-      "cover_url_git": "img/2022/10/死神 千年血战篇.jpg",
-      "play_time": "00:30",
-      "play_date": "10.11",
-      "play_nums": "季",
-      "tags": ["热血", "奇幻", "战斗", "有生之年"]
+      "anime_name": "路人超能100 第三季（灵能百分百）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/38682bdd9ec0269f8fc223efe9c7a3a4.jpg",
+      "cover_url_git": "img/2022/10/路人超能100 第三季（灵能百分百）.jpg",
+      "play_time": "00:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "热血", "战斗", "异能", "成长"]
     },
     {
-      "anime_name": "名侦探柯南 犯人犯泽先生",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/57573c3dd86c71bceb785a1326c083a1.jpeg",
-      "cover_url_git": "img/2022/10/名侦探柯南 犯人犯泽先生.jpeg",
+      "anime_name": "无良公会（不道德公会）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/099119b2de4f1c261400fdf09043b804.jpeg",
+      "cover_url_git": "img/2022/10/无良公会（不道德公会）.jpeg",
+      "play_time": "00:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["搞笑", "奇幻", "冒险", "涩涩"]
+    },
+    {
+      "anime_name": "某天早上变成人头麦克风的我君的人生",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h45m8aaoazj30ku0sfq7g.jpg",
+      "cover_url_git": "img/2022/10/某天早上变成人头麦克风的我君的人生.jpg",
+      "play_time": "00:00",
+      "play_date": "10.13",
+      "play_nums": "12",
+      "tags": ["ASMR", "贴贴"]
+    },
+    {
+      "anime_name": "恋爱FLOPS",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h0md1sj6ctj30ku0ththf.jpg",
+      "cover_url_git": "img/2022/10/恋爱FLOPS.jpg",
       "play_time": "00:05",
-      "play_date": "10.4",
-      "play_nums": "",
-      "tags": ["搞笑", "日常", "外传"]
+      "play_date": "10.13",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "后宫", "要素过多"]
     },
     {
-      "anime_name": "永久少年",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691738675616_1980869967.jpg",
-      "cover_url_git": "img/2022/10/永久少年.jpg",
-      "play_time": "01:20",
-      "play_date": "9.25",
-      "play_nums": "24",
-      "tags": ["偶像", "男团", "大叔", "励志"]
+      "anime_name": "关于养猫我一直是新手（夜夜猫歌）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35882524.jpg",
+      "cover_url_git": "img/2022/10/关于养猫我一直是新手（夜夜猫歌）.jpg",
+      "play_time": "01:00",
+      "play_date": "连载中",
+      "play_nums": "30",
+      "tags": ["猫片", "日常", "治愈"]
     },
     {
-      "anime_name": "呆萌酷男孩",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5ycaj197rj30u016a76d.jpg",
-      "cover_url_git": "img/2022/10/呆萌酷男孩.jpg",
-      "play_time": "01:30",
-      "play_date": "10.11",
-      "play_nums": "24",
-      "tags": ["校园", "日常", "搞笑"]
+      "anime_name": "Muv-Luv Alternative 第二季",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5hxhgtop5j30jn0rs138.jpg",
+      "cover_url_git": "img/2022/10/Muv-Luv Alternative 第二季.jpg",
+      "play_time": "01:25",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "外星生物", "平行世界"]
+    },
+    {
+      "anime_name": "夏日重现",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35351365.jpg",
+      "cover_url_git": "img/2022/10/夏日重现.jpg",
+      "play_time": "12:00",
+      "play_date": "即将完结",
+      "play_nums": "25",
+      "tags": ["悬疑", "轮回", "智斗", "青梅竹马"]
     },
     {
       "anime_name": "世界末日与柴犬同行",
-      "weekday": "周二",
+      "weekday": "周四",
       "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
       "cover_url_git": "img/2022/10/世界末日与柴犬同行.jpg",
       "play_time": "18:00",
@@ -235,24 +337,74 @@
       "tags": ["日常", "架空", "末世", "有声漫画"]
     },
     {
-      "anime_name": "忍者一时（忍之一时）",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692167208044_1075492338.jpg",
-      "cover_url_git": "img/2022/10/忍者一时（忍之一时）.jpg",
-      "play_time": "20:00",
-      "play_date": "10.4",
+      "anime_name": "书虫公主",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35755095.jpg",
+      "cover_url_git": "img/2022/10/书虫公主.jpg",
+      "play_time": "22:30",
+      "play_date": "10.6",
       "play_nums": "12",
-      "tags": ["奇幻", "忍者", "战斗", "校园"]
+      "tags": ["恋爱", "少女", "狗粮"]
     },
     {
-      "anime_name": "赛博浪客（赛博朋克：边缘行者）",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/374e51bed3f33dde2ea025f18fc77df1.jpeg",
-      "cover_url_git": "img/2022/10/赛博浪客（赛博朋克：边缘行者）.jpeg",
+      "anime_name": "秋叶原冥途战争",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691738856082_558661697.jpg",
+      "cover_url_git": "img/2022/10/秋叶原冥途战争.jpg",
+      "play_time": "23:00",
+      "play_date": "10.6",
+      "play_nums": "12",
+      "tags": ["女仆", "搞笑", "黑帮", "血腥", "杀戮"]
+    },
+    {
+      "anime_name": "舰队Collection 第二季",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h0n7vgbibrj30hs0p50xw.jpg",
+      "cover_url_git": "img/2022/10/舰队Collection 第二季.jpg",
+      "play_time": "23:30",
+      "play_date": "11.3",
+      "play_nums": "8",
+      "tags": ["舰娘", "海战", "贴贴"]
+    },
+    {
+      "anime_name": "JOJO的奇妙冒险 石之海（13~24）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/34605404.jpg",
+      "cover_url_git": "img/2022/10/JOJO的奇妙冒险 石之海（13~24）.jpg",
+      "play_time": "16:00",
+      "play_date": "9.1",
+      "play_nums": "12",
+      "tags": ["热血", "奇斗", "异能", "冒险", "奇幻"]
+    },
+    {
+      "anime_name": "暗黑破坏神（后半篇）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692254829473_760080660.jpg",
+      "cover_url_git": "img/2022/10/暗黑破坏神（后半篇）.jpg",
       "play_time": "",
-      "play_date": "9.13",
-      "play_nums": "10",
-      "tags": ["科幻", "战斗", "外传", "赛博朋克2077"]
+      "play_date": "9.15",
+      "play_nums": "11",
+      "tags": ["奇幻", "战斗", "神魔", "黄暴"]
+    },
+    {
+      "anime_name": "例外（EXCEPTION）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h6onzws01bj30e50dw754.jpg",
+      "cover_url_git": "img/2022/10/例外（EXCEPTION）.jpg",
+      "play_time": "",
+      "play_date": "10.13",
+      "play_nums": "8",
+      "tags": ["科幻", "宇宙", "惊悚", "悬疑"]
+    },
+    {
+      "anime_name": "浪漫杀手",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691738376792_1175960701.jpg",
+      "cover_url_git": "img/2022/10/浪漫杀手.jpg",
+      "play_time": "",
+      "play_date": "10.27",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "恋爱"]
     }
   ],
   "周五": [
@@ -517,158 +669,6 @@
       "play_date": "10.1",
       "play_nums": "13",
       "tags": ["搞笑", "日常", "奇妙家庭", "战斗", "颜艺"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "路人超能100 第三季（灵能百分百）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/38682bdd9ec0269f8fc223efe9c7a3a4.jpg",
-      "cover_url_git": "img/2022/10/路人超能100 第三季（灵能百分百）.jpg",
-      "play_time": "00:00",
-      "play_date": "10.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "热血", "战斗", "异能", "成长"]
-    },
-    {
-      "anime_name": "无良公会（不道德公会）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/099119b2de4f1c261400fdf09043b804.jpeg",
-      "cover_url_git": "img/2022/10/无良公会（不道德公会）.jpeg",
-      "play_time": "00:00",
-      "play_date": "10.6",
-      "play_nums": "12",
-      "tags": ["搞笑", "奇幻", "冒险", "涩涩"]
-    },
-    {
-      "anime_name": "某天早上变成人头麦克风的我君的人生",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h45m8aaoazj30ku0sfq7g.jpg",
-      "cover_url_git": "img/2022/10/某天早上变成人头麦克风的我君的人生.jpg",
-      "play_time": "00:00",
-      "play_date": "10.13",
-      "play_nums": "12",
-      "tags": ["ASMR", "贴贴"]
-    },
-    {
-      "anime_name": "恋爱FLOPS",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h0md1sj6ctj30ku0ththf.jpg",
-      "cover_url_git": "img/2022/10/恋爱FLOPS.jpg",
-      "play_time": "00:05",
-      "play_date": "10.13",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "搞笑", "后宫", "要素过多"]
-    },
-    {
-      "anime_name": "关于养猫我一直是新手（夜夜猫歌）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35882524.jpg",
-      "cover_url_git": "img/2022/10/关于养猫我一直是新手（夜夜猫歌）.jpg",
-      "play_time": "01:00",
-      "play_date": "连载中",
-      "play_nums": "30",
-      "tags": ["猫片", "日常", "治愈"]
-    },
-    {
-      "anime_name": "Muv-Luv Alternative 第二季",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5hxhgtop5j30jn0rs138.jpg",
-      "cover_url_git": "img/2022/10/Muv-Luv Alternative 第二季.jpg",
-      "play_time": "01:25",
-      "play_date": "10.6",
-      "play_nums": "12",
-      "tags": ["科幻", "机战", "外星生物", "平行世界"]
-    },
-    {
-      "anime_name": "夏日重现",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35351365.jpg",
-      "cover_url_git": "img/2022/10/夏日重现.jpg",
-      "play_time": "12:00",
-      "play_date": "即将完结",
-      "play_nums": "25",
-      "tags": ["悬疑", "轮回", "智斗", "青梅竹马"]
-    },
-    {
-      "anime_name": "世界末日与柴犬同行",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
-      "cover_url_git": "img/2022/10/世界末日与柴犬同行.jpg",
-      "play_time": "18:00",
-      "play_date": "连载中",
-      "play_nums": "72",
-      "tags": ["日常", "架空", "末世", "有声漫画"]
-    },
-    {
-      "anime_name": "书虫公主",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35755095.jpg",
-      "cover_url_git": "img/2022/10/书虫公主.jpg",
-      "play_time": "22:30",
-      "play_date": "10.6",
-      "play_nums": "12",
-      "tags": ["恋爱", "少女", "狗粮"]
-    },
-    {
-      "anime_name": "秋叶原冥途战争",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691738856082_558661697.jpg",
-      "cover_url_git": "img/2022/10/秋叶原冥途战争.jpg",
-      "play_time": "23:00",
-      "play_date": "10.6",
-      "play_nums": "12",
-      "tags": ["女仆", "搞笑", "黑帮", "血腥", "杀戮"]
-    },
-    {
-      "anime_name": "舰队Collection 第二季",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h0n7vgbibrj30hs0p50xw.jpg",
-      "cover_url_git": "img/2022/10/舰队Collection 第二季.jpg",
-      "play_time": "23:30",
-      "play_date": "11.3",
-      "play_nums": "8",
-      "tags": ["舰娘", "海战", "贴贴"]
-    },
-    {
-      "anime_name": "JOJO的奇妙冒险 石之海（13~24）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/34605404.jpg",
-      "cover_url_git": "img/2022/10/JOJO的奇妙冒险 石之海（13~24）.jpg",
-      "play_time": "16:00",
-      "play_date": "9.1",
-      "play_nums": "12",
-      "tags": ["热血", "奇斗", "异能", "冒险", "奇幻"]
-    },
-    {
-      "anime_name": "暗黑破坏神（后半篇）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692254829473_760080660.jpg",
-      "cover_url_git": "img/2022/10/暗黑破坏神（后半篇）.jpg",
-      "play_time": "",
-      "play_date": "9.15",
-      "play_nums": "11",
-      "tags": ["奇幻", "战斗", "神魔", "黄暴"]
-    },
-    {
-      "anime_name": "例外（EXCEPTION）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h6onzws01bj30e50dw754.jpg",
-      "cover_url_git": "img/2022/10/例外（EXCEPTION）.jpg",
-      "play_time": "",
-      "play_date": "10.13",
-      "play_nums": "8",
-      "tags": ["科幻", "宇宙", "惊悚", "悬疑"]
-    },
-    {
-      "anime_name": "浪漫杀手",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691738376792_1175960701.jpg",
-      "cover_url_git": "img/2022/10/浪漫杀手.jpg",
-      "play_time": "",
-      "play_date": "10.27",
-      "play_nums": "12",
-      "tags": ["搞笑", "日常", "恋爱"]
     }
   ],
   "周日": [

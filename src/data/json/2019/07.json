@@ -81,48 +81,6 @@
       "tags": ["异世界", "穿越", "奇幻", "后宫", "龙傲天"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "TRY KNIGHTS",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/acdb5f3f1a55b7b8096c2b91932f2d9a.jpg",
-      "cover_url_git": "img/2019/07/TRY KNIGHTS.jpg",
-      "play_time": "01:30",
-      "play_date": "7.31",
-      "play_nums": "12",
-      "tags": ["运动", "竞技", "青春", "橄榄球"]
-    },
-    {
-      "anime_name": "彼方的阿斯特拉",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1696052217654_1134225737.jpg",
-      "cover_url_git": "img/2019/07/彼方的阿斯特拉.jpg",
-      "play_time": "21:00",
-      "play_date": "7.3",
-      "play_nums": "12",
-      "tags": ["科幻", "搞笑", "太空", "求生"]
-    },
-    {
-      "anime_name": "异世界超能魔术师",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/b522fcb672d28b5001baf0c80f224910.jpeg",
-      "cover_url_git": "img/2019/07/异世界超能魔术师.jpeg",
-      "play_time": "21:30",
-      "play_date": "7.10",
-      "play_nums": "12",
-      "tags": ["异世界", "穿越", "奇幻", "装逼"]
-    },
-    {
-      "anime_name": "流汗吧！健身少女",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/62d98c4581142e5bd718987f83872fc4.jpg",
-      "cover_url_git": "img/2019/07/流汗吧！健身少女.jpg",
-      "play_time": "22:30",
-      "play_date": "7.3",
-      "play_nums": "12",
-      "tags": ["搞笑", "硬核科普", "锻炼", "“肉”"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "COP CRAFT（全缉毒狂潮）",
@@ -183,6 +141,80 @@
       "play_date": "7.2",
       "play_nums": "12",
       "tags": ["生存", "搞笑", "硬核科普", "女贝爷"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "TRY KNIGHTS",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/acdb5f3f1a55b7b8096c2b91932f2d9a.jpg",
+      "cover_url_git": "img/2019/07/TRY KNIGHTS.jpg",
+      "play_time": "01:30",
+      "play_date": "7.31",
+      "play_nums": "12",
+      "tags": ["运动", "竞技", "青春", "橄榄球"]
+    },
+    {
+      "anime_name": "彼方的阿斯特拉",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1696052217654_1134225737.jpg",
+      "cover_url_git": "img/2019/07/彼方的阿斯特拉.jpg",
+      "play_time": "21:00",
+      "play_date": "7.3",
+      "play_nums": "12",
+      "tags": ["科幻", "搞笑", "太空", "求生"]
+    },
+    {
+      "anime_name": "异世界超能魔术师",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/b522fcb672d28b5001baf0c80f224910.jpeg",
+      "cover_url_git": "img/2019/07/异世界超能魔术师.jpeg",
+      "play_time": "21:30",
+      "play_date": "7.10",
+      "play_nums": "12",
+      "tags": ["异世界", "穿越", "奇幻", "装逼"]
+    },
+    {
+      "anime_name": "流汗吧！健身少女",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/62d98c4581142e5bd718987f83872fc4.jpg",
+      "cover_url_git": "img/2019/07/流汗吧！健身少女.jpg",
+      "play_time": "22:30",
+      "play_date": "7.3",
+      "play_nums": "12",
+      "tags": ["搞笑", "硬核科普", "锻炼", "“肉”"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "重来吧、魔王大人！",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/1dc04bf3b8e522ff36e22c90525491aa.jpg",
+      "cover_url_git": "img/2019/07/重来吧、魔王大人！.jpg",
+      "play_time": "00:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["异世界", "穿越", "奇幻", "搞笑", "爽片"]
+    },
+    {
+      "anime_name": "卡罗尔与星期二（CAROLE & TUESDAY）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21263.jpg",
+      "cover_url_git": "img/2019/07/卡罗尔与星期二（CAROLE & TUESDAY）.jpg",
+      "play_time": "04:30",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["音乐", "励志", "科幻", "歌舞"]
+    },
+    {
+      "anime_name": "偶像活动Friends～闪耀的宝石～",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/67e4169f3ab163eef2c378521d298522.jpg",
+      "cover_url_git": "img/2019/07/偶像活动Friends～闪耀的宝石～.jpg",
+      "play_time": "18:30",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["偶像", "轻百合"]
     }
   ],
   "周五": [
@@ -317,38 +349,6 @@
       "play_date": "在播",
       "play_nums": "24",
       "tags": ["棒球", "运动", "恋爱", "社团", "校园"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "重来吧、魔王大人！",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/1dc04bf3b8e522ff36e22c90525491aa.jpg",
-      "cover_url_git": "img/2019/07/重来吧、魔王大人！.jpg",
-      "play_time": "00:00",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["异世界", "穿越", "奇幻", "搞笑", "爽片"]
-    },
-    {
-      "anime_name": "卡罗尔与星期二（CAROLE & TUESDAY）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21263.jpg",
-      "cover_url_git": "img/2019/07/卡罗尔与星期二（CAROLE & TUESDAY）.jpg",
-      "play_time": "04:30",
-      "play_date": "在播",
-      "play_nums": "24",
-      "tags": ["音乐", "励志", "科幻", "歌舞"]
-    },
-    {
-      "anime_name": "偶像活动Friends～闪耀的宝石～",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/67e4169f3ab163eef2c378521d298522.jpg",
-      "cover_url_git": "img/2019/07/偶像活动Friends～闪耀的宝石～.jpg",
-      "play_time": "18:30",
-      "play_date": "在播",
-      "play_nums": "26",
-      "tags": ["偶像", "轻百合"]
     }
   ],
   "周日": [

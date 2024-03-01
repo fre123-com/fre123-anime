@@ -41,88 +41,6 @@
       "tags": ["日常", "妖怪", "神魔", "儿童文学"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "品酒要在成为夫妻后",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/df1d2921be4290517ffe133a0766870b.jpg",
-      "cover_url_git": "img/2017/10/品酒要在成为夫妻后.jpg",
-      "play_time": "00:05",
-      "play_date": "10.4",
-      "play_nums": "13",
-      "tags": []
-    },
-    {
-      "anime_name": "食戟之灵 第三季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170087.jpg",
-      "cover_url_git": "img/2017/10/食戟之灵 第三季.jpg",
-      "play_time": "00:30",
-      "play_date": "10.4",
-      "play_nums": "24",
-      "tags": ["校园", "美食", "“肉”", "春药之灵"]
-    },
-    {
-      "anime_name": "Infini-T Force",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/776b99c347e3f50bc7c46e92acd1ca4e.jpg",
-      "cover_url_git": "img/2017/10/Infini-T Force.jpg",
-      "play_time": "01:35",
-      "play_date": "10.4",
-      "play_nums": "12",
-      "tags": ["科幻", "动作", "超级英雄", "3DCG"]
-    },
-    {
-      "anime_name": "火影忍者 博人传之火影次世代",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017043929309474.jpg",
-      "cover_url_git": "img/2017/10/火影忍者 博人传之火影次世代.jpg",
-      "play_time": "17:55",
-      "play_date": "在播",
-      "play_nums": "51",
-      "tags": ["热血", "战斗", "冒险", "忍者世界"]
-    },
-    {
-      "anime_name": "URAHARA",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/8c5c08cc4e22cd0a57b20cfe76785aae.jpg",
-      "cover_url_git": "img/2017/10/URAHARA.jpg",
-      "play_time": "19:00",
-      "play_date": "10.4",
-      "play_nums": "季",
-      "tags": ["科幻", "文化", "脑洞", "外星人"]
-    },
-    {
-      "anime_name": "梦之祭 第二季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170269.jpg",
-      "cover_url_git": "img/2017/10/梦之祭 第二季.jpg",
-      "play_time": "20:00",
-      "play_date": "在播",
-      "play_nums": "季",
-      "tags": ["青春", "偶像", "音乐", "男团"]
-    },
-    {
-      "anime_name": "TSUKIPRO",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gs44njdj6aj30go0ku47j.jpg",
-      "cover_url_git": "img/2017/10/TSUKIPRO.jpg",
-      "play_time": "22:30",
-      "play_date": "10.4",
-      "play_nums": "季",
-      "tags": ["偶像", "日常", "音乐", "男团"]
-    },
-    {
-      "anime_name": "雨色可可 第四季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/e479bee7a802ec61497299d3d2d4df93.jpg",
-      "cover_url_git": "img/2017/10/雨色可可 第四季.jpg",
-      "play_time": "23:30",
-      "play_date": "10.4",
-      "play_nums": "季",
-      "tags": []
-    }
-  ],
   "周二": [
     {
       "anime_name": "Dia Horizon",
@@ -223,6 +141,130 @@
       "play_date": "10.3",
       "play_nums": "12",
       "tags": ["穿越", "战国", "奇幻", "乙女向"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "品酒要在成为夫妻后",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/df1d2921be4290517ffe133a0766870b.jpg",
+      "cover_url_git": "img/2017/10/品酒要在成为夫妻后.jpg",
+      "play_time": "00:05",
+      "play_date": "10.4",
+      "play_nums": "13",
+      "tags": []
+    },
+    {
+      "anime_name": "食戟之灵 第三季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170087.jpg",
+      "cover_url_git": "img/2017/10/食戟之灵 第三季.jpg",
+      "play_time": "00:30",
+      "play_date": "10.4",
+      "play_nums": "24",
+      "tags": ["校园", "美食", "“肉”", "春药之灵"]
+    },
+    {
+      "anime_name": "Infini-T Force",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/776b99c347e3f50bc7c46e92acd1ca4e.jpg",
+      "cover_url_git": "img/2017/10/Infini-T Force.jpg",
+      "play_time": "01:35",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["科幻", "动作", "超级英雄", "3DCG"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017043929309474.jpg",
+      "cover_url_git": "img/2017/10/火影忍者 博人传之火影次世代.jpg",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "URAHARA",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/8c5c08cc4e22cd0a57b20cfe76785aae.jpg",
+      "cover_url_git": "img/2017/10/URAHARA.jpg",
+      "play_time": "19:00",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": ["科幻", "文化", "脑洞", "外星人"]
+    },
+    {
+      "anime_name": "梦之祭 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170269.jpg",
+      "cover_url_git": "img/2017/10/梦之祭 第二季.jpg",
+      "play_time": "20:00",
+      "play_date": "在播",
+      "play_nums": "季",
+      "tags": ["青春", "偶像", "音乐", "男团"]
+    },
+    {
+      "anime_name": "TSUKIPRO",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gs44njdj6aj30go0ku47j.jpg",
+      "cover_url_git": "img/2017/10/TSUKIPRO.jpg",
+      "play_time": "22:30",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": ["偶像", "日常", "音乐", "男团"]
+    },
+    {
+      "anime_name": "雨色可可 第四季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/e479bee7a802ec61497299d3d2d4df93.jpg",
+      "cover_url_git": "img/2017/10/雨色可可 第四季.jpg",
+      "play_time": "23:30",
+      "play_date": "10.4",
+      "play_nums": "季",
+      "tags": []
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "此花亭奇谭（此花奇谭）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170089.jpg",
+      "cover_url_git": "img/2017/10/此花亭奇谭（此花奇谭）.jpg",
+      "play_time": "00:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["轻百合", "神魔", "萌日常", "兽耳萝莉"]
+    },
+    {
+      "anime_name": "关于我女友是个一本正经的碧池这件事",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/5af5894dd52655e95048882399f3baa1.jpg",
+      "cover_url_git": "img/2017/10/关于我女友是个一本正经的碧池这件事.jpg",
+      "play_time": "01:00",
+      "play_date": "10.12",
+      "play_nums": "10",
+      "tags": ["校园", "恋爱", "喜剧", "逆性骚扰", "“关我碧事”"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
+      "cover_url_git": "img/2017/10/偶像活动Stars 第二季.jpg",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "国王游戏",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/7cb7459bbd9d25813b6191f9757c0af0.jpeg",
+      "cover_url_git": "img/2017/10/国王游戏.jpeg",
+      "play_time": "22:30",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["校园", "悬疑", "惊悚", "NTR"]
     }
   ],
   "周五": [
@@ -427,48 +469,6 @@
       "play_date": "10.7",
       "play_nums": "13",
       "tags": ["偶像", "女团", "校园", "轻百合"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "此花亭奇谭（此花奇谭）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170089.jpg",
-      "cover_url_git": "img/2017/10/此花亭奇谭（此花奇谭）.jpg",
-      "play_time": "00:00",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["轻百合", "神魔", "萌日常", "兽耳萝莉"]
-    },
-    {
-      "anime_name": "关于我女友是个一本正经的碧池这件事",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/5af5894dd52655e95048882399f3baa1.jpg",
-      "cover_url_git": "img/2017/10/关于我女友是个一本正经的碧池这件事.jpg",
-      "play_time": "01:00",
-      "play_date": "10.12",
-      "play_nums": "10",
-      "tags": ["校园", "恋爱", "喜剧", "逆性骚扰", "“关我碧事”"]
-    },
-    {
-      "anime_name": "偶像活动Stars 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
-      "cover_url_git": "img/2017/10/偶像活动Stars 第二季.jpg",
-      "play_time": "19:30",
-      "play_date": "在播",
-      "play_nums": "50",
-      "tags": []
-    },
-    {
-      "anime_name": "国王游戏",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/7cb7459bbd9d25813b6191f9757c0af0.jpeg",
-      "cover_url_git": "img/2017/10/国王游戏.jpeg",
-      "play_time": "22:30",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["校园", "悬疑", "惊悚", "NTR"]
     }
   ],
   "周日": [

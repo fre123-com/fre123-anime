@@ -131,88 +131,6 @@
       "tags": ["校园", "丧尸", "剧中剧"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "文豪野犬 汪！",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/4ec4774def3a0af1601138c4ca0abdc7.jpeg",
-      "cover_url_git": "img/2021/01/文豪野犬 汪！.jpeg",
-      "play_time": "00:30",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["Q版", "搞笑", "日常", "奇幻", "番外"]
-    },
-    {
-      "anime_name": "世界魔女出发！",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210113-1/5893f127db8ee76d0fcadc9adf1984a6.jpg",
-      "cover_url_git": "img/2021/01/世界魔女出发！.jpg",
-      "play_time": "00:45",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["日常", "科幻", "搞笑", "军事", "轻百合"]
-    },
-    {
-      "anime_name": "七大罪 愤怒的审判",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210113-1/4a106756067f5fef8854b4218707e4ac.jpg",
-      "cover_url_git": "img/2021/01/七大罪 愤怒的审判.jpg",
-      "play_time": "17:35",
-      "play_date": "1.13",
-      "play_nums": "24",
-      "tags": ["热血", "奇幻", "战斗", "神魔"]
-    },
-    {
-      "anime_name": "记录的地平线 第三季（圆桌崩坏）",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/34959193.jpg",
-      "cover_url_git": "img/2021/01/记录的地平线 第三季（圆桌崩坏）.jpg",
-      "play_time": "18:25",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "网游"]
-    },
-    {
-      "anime_name": "魔术士欧菲流浪之旅 基姆拉克篇",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210106-1/e6d84206acfa798dd407c229034c00c6.jpg",
-      "cover_url_git": "img/2021/01/魔术士欧菲流浪之旅 基姆拉克篇.jpg",
-      "play_time": "21:00",
-      "play_date": "1.20",
-      "play_nums": "11",
-      "tags": ["奇幻", "冒险", "战斗"]
-    },
-    {
-      "anime_name": "I★CHU 偶像进行曲",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1693547604481_127871358.jpg",
-      "cover_url_git": "img/2021/01/I★CHU 偶像进行曲.jpg",
-      "play_time": "22:00",
-      "play_date": "1.6",
-      "play_nums": "",
-      "tags": ["偶像", "音乐", "演艺圈"]
-    },
-    {
-      "anime_name": "回复术士的重启人生",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/14f2ed2d37b9f2740a4299944bfaa28e.jpeg",
-      "cover_url_git": "img/2021/01/回复术士的重启人生.jpeg",
-      "play_time": "22:30",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "复仇", "爽片", "肉", "里番"]
-    },
-    {
-      "anime_name": "Re:从零开始的异世界生活 第二季（后半篇）",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692255035356_2084293664.jpg",
-      "cover_url_git": "img/2021/01/Re:从零开始的异世界生活 第二季（后半篇）.jpg",
-      "play_time": "23:00",
-      "play_date": "1.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "异世界", "轮回", "战斗", "后宫"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "厨神小当家 第二季",
@@ -303,6 +221,170 @@
       "play_date": "1.5",
       "play_nums": "12",
       "tags": ["奇幻", "异世界", "搞笑", "战斗", "萌王", "后宫"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "文豪野犬 汪！",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/4ec4774def3a0af1601138c4ca0abdc7.jpeg",
+      "cover_url_git": "img/2021/01/文豪野犬 汪！.jpeg",
+      "play_time": "00:30",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["Q版", "搞笑", "日常", "奇幻", "番外"]
+    },
+    {
+      "anime_name": "世界魔女出发！",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210113-1/5893f127db8ee76d0fcadc9adf1984a6.jpg",
+      "cover_url_git": "img/2021/01/世界魔女出发！.jpg",
+      "play_time": "00:45",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["日常", "科幻", "搞笑", "军事", "轻百合"]
+    },
+    {
+      "anime_name": "七大罪 愤怒的审判",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210113-1/4a106756067f5fef8854b4218707e4ac.jpg",
+      "cover_url_git": "img/2021/01/七大罪 愤怒的审判.jpg",
+      "play_time": "17:35",
+      "play_date": "1.13",
+      "play_nums": "24",
+      "tags": ["热血", "奇幻", "战斗", "神魔"]
+    },
+    {
+      "anime_name": "记录的地平线 第三季（圆桌崩坏）",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/34959193.jpg",
+      "cover_url_git": "img/2021/01/记录的地平线 第三季（圆桌崩坏）.jpg",
+      "play_time": "18:25",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "网游"]
+    },
+    {
+      "anime_name": "魔术士欧菲流浪之旅 基姆拉克篇",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210106-1/e6d84206acfa798dd407c229034c00c6.jpg",
+      "cover_url_git": "img/2021/01/魔术士欧菲流浪之旅 基姆拉克篇.jpg",
+      "play_time": "21:00",
+      "play_date": "1.20",
+      "play_nums": "11",
+      "tags": ["奇幻", "冒险", "战斗"]
+    },
+    {
+      "anime_name": "I★CHU 偶像进行曲",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693547604481_127871358.jpg",
+      "cover_url_git": "img/2021/01/I★CHU 偶像进行曲.jpg",
+      "play_time": "22:00",
+      "play_date": "1.6",
+      "play_nums": "",
+      "tags": ["偶像", "音乐", "演艺圈"]
+    },
+    {
+      "anime_name": "回复术士的重启人生",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/14f2ed2d37b9f2740a4299944bfaa28e.jpeg",
+      "cover_url_git": "img/2021/01/回复术士的重启人生.jpeg",
+      "play_time": "22:30",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "复仇", "爽片", "肉", "里番"]
+    },
+    {
+      "anime_name": "Re:从零开始的异世界生活 第二季（后半篇）",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692255035356_2084293664.jpg",
+      "cover_url_git": "img/2021/01/Re:从零开始的异世界生活 第二季（后半篇）.jpg",
+      "play_time": "23:00",
+      "play_date": "1.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "异世界", "轮回", "战斗", "后宫"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "装甲娘战机",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/33377720.jpg",
+      "cover_url_git": "img/2021/01/装甲娘战机.jpg",
+      "play_time": "00:30",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["科幻", "机娘", "战斗", "轻百合"]
+    },
+    {
+      "anime_name": "苍之骑士团",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21723.jpg",
+      "cover_url_git": "img/2021/01/苍之骑士团.jpg",
+      "play_time": "01:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "战争", "架空"]
+    },
+    {
+      "anime_name": "动物狂想曲 第二季（BEASTARS 第二季）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/34937800.jpg",
+      "cover_url_git": "img/2021/01/动物狂想曲 第二季（BEASTARS 第二季）.jpg",
+      "play_time": "04:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["动物", "校园", "恋爱", "争斗"]
+    },
+    {
+      "anime_name": "摇滚少女!!STARS!!",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/613a3f06dd3a5147ec4507058b1647f7.jpg",
+      "cover_url_git": "img/2021/01/摇滚少女!!STARS!!.jpg",
+      "play_time": "22:00",
+      "play_date": "1.7",
+      "play_nums": "12",
+      "tags": ["音乐", "摇滚", "兽耳", "萌系", "轻百合"]
+    },
+    {
+      "anime_name": "寒蝉鸣泣之时 业",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0772583a68ad37112726d762b8700861.jpeg",
+      "cover_url_git": "img/2021/01/寒蝉鸣泣之时 业.jpeg",
+      "play_time": "22:30",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["悬疑", "惊悚", "猎奇", "柴刀"]
+    },
+    {
+      "anime_name": "Dr.STONE 石纪元 第二季",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692239873960_1879996682.jpg",
+      "cover_url_git": "img/2021/01/Dr.STONE 石纪元 第二季.jpg",
+      "play_time": "22:30",
+      "play_date": "1.14",
+      "play_nums": "11",
+      "tags": ["科学", "冒险", "战斗", "热血"]
+    },
+    {
+      "anime_name": "摇曳露营△ 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210114-1/3483d11ae036fe35f474ac3111d30c91.jpg",
+      "cover_url_git": "img/2021/01/摇曳露营△ 第二季.jpg",
+      "play_time": "23:00",
+      "play_date": "1.7",
+      "play_nums": "13",
+      "tags": ["日常", "治愈", "户外", "轻百合", "芳文社"]
+    },
+    {
+      "anime_name": "天空侵犯",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210115-1/e03ca054cfde1fe7c3ae568dcf802ecd.jpg",
+      "cover_url_git": "img/2021/01/天空侵犯.jpg",
+      "play_time": "",
+      "play_date": "2.25",
+      "play_nums": "",
+      "tags": ["恐怖", "猎奇", "生存"]
     }
   ],
   "周五": [
@@ -507,88 +589,6 @@
       "play_date": "1.9",
       "play_nums": "13",
       "tags": ["恋爱", "校园", "青春", "狗粮"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "装甲娘战机",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/33377720.jpg",
-      "cover_url_git": "img/2021/01/装甲娘战机.jpg",
-      "play_time": "00:30",
-      "play_date": "1.7",
-      "play_nums": "12",
-      "tags": ["科幻", "机娘", "战斗", "轻百合"]
-    },
-    {
-      "anime_name": "苍之骑士团",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21723.jpg",
-      "cover_url_git": "img/2021/01/苍之骑士团.jpg",
-      "play_time": "01:00",
-      "play_date": "1.7",
-      "play_nums": "12",
-      "tags": ["奇幻", "战争", "架空"]
-    },
-    {
-      "anime_name": "动物狂想曲 第二季（BEASTARS 第二季）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/34937800.jpg",
-      "cover_url_git": "img/2021/01/动物狂想曲 第二季（BEASTARS 第二季）.jpg",
-      "play_time": "04:00",
-      "play_date": "1.7",
-      "play_nums": "12",
-      "tags": ["动物", "校园", "恋爱", "争斗"]
-    },
-    {
-      "anime_name": "摇滚少女!!STARS!!",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/613a3f06dd3a5147ec4507058b1647f7.jpg",
-      "cover_url_git": "img/2021/01/摇滚少女!!STARS!!.jpg",
-      "play_time": "22:00",
-      "play_date": "1.7",
-      "play_nums": "12",
-      "tags": ["音乐", "摇滚", "兽耳", "萌系", "轻百合"]
-    },
-    {
-      "anime_name": "寒蝉鸣泣之时 业",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0772583a68ad37112726d762b8700861.jpeg",
-      "cover_url_git": "img/2021/01/寒蝉鸣泣之时 业.jpeg",
-      "play_time": "22:30",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["悬疑", "惊悚", "猎奇", "柴刀"]
-    },
-    {
-      "anime_name": "Dr.STONE 石纪元 第二季",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692239873960_1879996682.jpg",
-      "cover_url_git": "img/2021/01/Dr.STONE 石纪元 第二季.jpg",
-      "play_time": "22:30",
-      "play_date": "1.14",
-      "play_nums": "11",
-      "tags": ["科学", "冒险", "战斗", "热血"]
-    },
-    {
-      "anime_name": "摇曳露营△ 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210114-1/3483d11ae036fe35f474ac3111d30c91.jpg",
-      "cover_url_git": "img/2021/01/摇曳露营△ 第二季.jpg",
-      "play_time": "23:00",
-      "play_date": "1.7",
-      "play_nums": "13",
-      "tags": ["日常", "治愈", "户外", "轻百合", "芳文社"]
-    },
-    {
-      "anime_name": "天空侵犯",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210115-1/e03ca054cfde1fe7c3ae568dcf802ecd.jpg",
-      "cover_url_git": "img/2021/01/天空侵犯.jpg",
-      "play_time": "",
-      "play_date": "2.25",
-      "play_nums": "",
-      "tags": ["恐怖", "猎奇", "生存"]
     }
   ],
   "周日": [

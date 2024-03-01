@@ -71,6 +71,88 @@
       "tags": ["日常", "妖怪", "神魔", "儿童文学"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "恋爱禁止的世界",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/d2110ca3570fa827b7940ee8a25a43f1.jpg",
+      "cover_url_git": "img/2017/07/恋爱禁止的世界.jpg",
+      "play_time": "00:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "青春", "恋爱", "“股市”风云"]
+    },
+    {
+      "anime_name": "异世界食堂",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/df0ec9fca7a6b0cf78638d8090a8304e.jpg",
+      "cover_url_git": "img/2017/07/异世界食堂.jpg",
+      "play_time": "01:35",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["美食", "奇幻", "单元剧", "逆穿越"]
+    },
+    {
+      "anime_name": "美妙天堂 偶像时间",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20140144.jpg",
+      "cover_url_git": "img/2017/07/美妙天堂 偶像时间.jpg",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51",
+      "tags": []
+    },
+    {
+      "anime_name": "带着智能手机闯荡异世界",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/43b871fdd8481a4a213ac4841c927516.jpg",
+      "cover_url_git": "img/2017/07/带着智能手机闯荡异世界.jpg",
+      "play_time": "20:30",
+      "play_date": "7.11",
+      "play_nums": "12",
+      "tags": ["穿越", "后宫", "奇幻", "爽文向"]
+    },
+    {
+      "anime_name": "无责任银河☆泰勒",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017079109325906.jpg",
+      "cover_url_git": "img/2017/07/无责任银河☆泰勒.jpg",
+      "play_time": "20:55",
+      "play_date": "7.11",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "NEW GAME 第二季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/a57bc2a1485f9de7dfcba9e4d85254f2.jpg",
+      "cover_url_git": "img/2017/07/NEW GAME 第二季.jpg",
+      "play_time": "22:00",
+      "play_date": "7.11",
+      "play_nums": "12",
+      "tags": ["日常", "职场", "萌豚向", "轻百合"]
+    },
+    {
+      "anime_name": "笨女孩",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/20867.jpg",
+      "cover_url_git": "img/2017/07/笨女孩.jpg",
+      "play_time": "22:15",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "搞笑", "MDZZ", "欢乐多"]
+    },
+    {
+      "anime_name": "徒然喜欢你",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/4793b50bf4b540baa261265cb5eaf585.jpg",
+      "cover_url_git": "img/2017/07/徒然喜欢你.jpg",
+      "play_time": "22:30",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "群像", "狗粮"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "猜谜王",
@@ -173,86 +255,86 @@
       "tags": ["校园", "恋爱", "喜剧", "翻车"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "恋爱禁止的世界",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/d2110ca3570fa827b7940ee8a25a43f1.jpg",
-      "cover_url_git": "img/2017/07/恋爱禁止的世界.jpg",
+      "anime_name": "重启咲良田",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/9b24911f8c5374dd2e61213256c9a10d.jpg",
+      "cover_url_git": "img/2017/07/重启咲良田.jpg",
       "play_time": "00:00",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["校园", "青春", "恋爱", "“股市”风云"]
-    },
-    {
-      "anime_name": "异世界食堂",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/df0ec9fca7a6b0cf78638d8090a8304e.jpg",
-      "cover_url_git": "img/2017/07/异世界食堂.jpg",
-      "play_time": "01:35",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["美食", "奇幻", "单元剧", "逆穿越"]
-    },
-    {
-      "anime_name": "美妙天堂 偶像时间",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20140144.jpg",
-      "cover_url_git": "img/2017/07/美妙天堂 偶像时间.jpg",
-      "play_time": "17:55",
       "play_date": "在播",
-      "play_nums": "51",
-      "tags": []
+      "play_nums": "24",
+      "tags": ["青春", "悬疑", "致郁", "超能力"]
     },
     {
-      "anime_name": "带着智能手机闯荡异世界",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/43b871fdd8481a4a213ac4841c927516.jpg",
-      "cover_url_git": "img/2017/07/带着智能手机闯荡异世界.jpg",
-      "play_time": "20:30",
-      "play_date": "7.11",
+      "anime_name": "樱花任务",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201125-1/f56c72a9d1d2be934f52abd29a3189cb.jpg",
+      "cover_url_git": "img/2017/07/樱花任务.jpg",
+      "play_time": "00:30",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["职场", "青春", "旅游宣传", "工作少女系列"]
+    },
+    {
+      "anime_name": "欢迎来到实力至上主义教室",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/91367aae26ebd7e81d50eae4dce641d1.jpg",
+      "cover_url_git": "img/2017/07/欢迎来到实力至上主义教室.jpg",
+      "play_time": "01:00",
+      "play_date": "7.13",
       "play_nums": "12",
-      "tags": ["穿越", "后宫", "奇幻", "爽文向"]
+      "tags": ["校园", "群像", "扮猪吃虎", "“股市”风云"]
     },
     {
-      "anime_name": "无责任银河☆泰勒",
-      "weekday": "周二",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017079109325906.jpg",
-      "cover_url_git": "img/2017/07/无责任银河☆泰勒.jpg",
-      "play_time": "20:55",
-      "play_date": "7.11",
+      "anime_name": "漫威未来复仇者",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201707221980298446.jpg",
+      "cover_url_git": "img/2017/07/漫威未来复仇者.jpg",
+      "play_time": "07:00",
+      "play_date": "7.22",
       "play_nums": "季",
       "tags": []
     },
     {
-      "anime_name": "NEW GAME 第二季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/a57bc2a1485f9de7dfcba9e4d85254f2.jpg",
-      "cover_url_git": "img/2017/07/NEW GAME 第二季.jpg",
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
+      "cover_url_git": "img/2017/07/偶像活动Stars 第二季.jpg",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "GAMERS电玩咖",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170067.jpg",
+      "cover_url_git": "img/2017/07/GAMERS电玩咖.jpg",
+      "play_time": "21:00",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["校园", "喜剧", "贵圈真乱", "“股市”风云", "电学"]
+    },
+    {
+      "anime_name": "反照者",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/281c2f382cbc66dd834b0f0e7d52bee8.jpg",
+      "cover_url_git": "img/2017/07/反照者.jpg",
       "play_time": "22:00",
-      "play_date": "7.11",
+      "play_date": "7.22",
       "play_nums": "12",
-      "tags": ["日常", "职场", "萌豚向", "轻百合"]
+      "tags": ["异能", "动作", "超级英雄", "美日合作"]
     },
     {
-      "anime_name": "笨女孩",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/20867.jpg",
-      "cover_url_git": "img/2017/07/笨女孩.jpg",
-      "play_time": "22:15",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["校园", "搞笑", "MDZZ", "欢乐多"]
-    },
-    {
-      "anime_name": "徒然喜欢你",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/4793b50bf4b540baa261265cb5eaf585.jpg",
-      "cover_url_git": "img/2017/07/徒然喜欢你.jpg",
-      "play_time": "22:30",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "群像", "狗粮"]
+      "anime_name": "麟&犀·AI韵律",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw600/007EGhthgy1h0qm3097u2j30u00u0doa.jpg",
+      "cover_url_git": "img/2017/07/麟&犀·AI韵律.jpg",
+      "play_time": "20:00",
+      "play_date": "8.17",
+      "play_nums": "",
+      "tags": ["中日合作", "直播"]
     }
   ],
   "周五": [
@@ -427,88 +509,6 @@
       "play_date": "8.13",
       "play_nums": "7",
       "tags": ["青春", "怪异", "后宫", "天坑"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "重启咲良田",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/9b24911f8c5374dd2e61213256c9a10d.jpg",
-      "cover_url_git": "img/2017/07/重启咲良田.jpg",
-      "play_time": "00:00",
-      "play_date": "在播",
-      "play_nums": "24",
-      "tags": ["青春", "悬疑", "致郁", "超能力"]
-    },
-    {
-      "anime_name": "樱花任务",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201125-1/f56c72a9d1d2be934f52abd29a3189cb.jpg",
-      "cover_url_git": "img/2017/07/樱花任务.jpg",
-      "play_time": "00:30",
-      "play_date": "在播",
-      "play_nums": "25",
-      "tags": ["职场", "青春", "旅游宣传", "工作少女系列"]
-    },
-    {
-      "anime_name": "欢迎来到实力至上主义教室",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/91367aae26ebd7e81d50eae4dce641d1.jpg",
-      "cover_url_git": "img/2017/07/欢迎来到实力至上主义教室.jpg",
-      "play_time": "01:00",
-      "play_date": "7.13",
-      "play_nums": "12",
-      "tags": ["校园", "群像", "扮猪吃虎", "“股市”风云"]
-    },
-    {
-      "anime_name": "漫威未来复仇者",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201707221980298446.jpg",
-      "cover_url_git": "img/2017/07/漫威未来复仇者.jpg",
-      "play_time": "07:00",
-      "play_date": "7.22",
-      "play_nums": "季",
-      "tags": []
-    },
-    {
-      "anime_name": "偶像活动Stars 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
-      "cover_url_git": "img/2017/07/偶像活动Stars 第二季.jpg",
-      "play_time": "19:30",
-      "play_date": "在播",
-      "play_nums": "50",
-      "tags": []
-    },
-    {
-      "anime_name": "GAMERS电玩咖",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170067.jpg",
-      "cover_url_git": "img/2017/07/GAMERS电玩咖.jpg",
-      "play_time": "21:00",
-      "play_date": "7.13",
-      "play_nums": "12",
-      "tags": ["校园", "喜剧", "贵圈真乱", "“股市”风云", "电学"]
-    },
-    {
-      "anime_name": "反照者",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/281c2f382cbc66dd834b0f0e7d52bee8.jpg",
-      "cover_url_git": "img/2017/07/反照者.jpg",
-      "play_time": "22:00",
-      "play_date": "7.22",
-      "play_nums": "12",
-      "tags": ["异能", "动作", "超级英雄", "美日合作"]
-    },
-    {
-      "anime_name": "麟&犀·AI韵律",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw600/007EGhthgy1h0qm3097u2j30u00u0doa.jpg",
-      "cover_url_git": "img/2017/07/麟&犀·AI韵律.jpg",
-      "play_time": "20:00",
-      "play_date": "8.17",
-      "play_nums": "",
-      "tags": ["中日合作", "直播"]
     }
   ],
   "周日": [

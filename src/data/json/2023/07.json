@@ -81,6 +81,78 @@
       "tags": ["黑暗奇幻", "战斗", "神魔", "肉"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "物之古物奇谭 第二季（物物语）",
+      "weekday": "周二",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfk9vvoi1aj305i07n0t0.jpg",
+      "cover_url_git": "img/2023/07/物之古物奇谭 第二季（物物语）.jpg",
+      "play_time": "00:30",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "怪谈", "恋爱", "妖魔"]
+    },
+    {
+      "anime_name": "甜点转生",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h94jdfch56j30jv0rsgt8.jpg",
+      "cover_url_git": "img/2023/07/甜点转生.jpg",
+      "play_time": "01:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "领地经营", "王道幻想", "转生异世界"]
+    },
+    {
+      "anime_name": "妖幻三重奏",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35700770.jpg",
+      "cover_url_git": "img/2023/07/妖幻三重奏.jpg",
+      "play_time": "01:30",
+      "play_date": "8.22",
+      "play_nums": "12",
+      "tags": ["奇幻", "忍者", "搞笑", "性转", "涩涩"]
+    },
+    {
+      "anime_name": "满怀美梦的少年是现实主义者",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h89j6gi6xhj30jg0qo76j.jpg",
+      "cover_url_git": "img/2023/07/满怀美梦的少年是现实主义者.jpg",
+      "play_time": "02:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "舔狗开窍"]
+    },
+    {
+      "anime_name": "尼尔：自动人形",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691738325697_457390155.jpg",
+      "cover_url_git": "img/2023/07/尼尔：自动人形.jpg",
+      "play_time": "20:00",
+      "play_date": "8.8",
+      "play_nums": "12",
+      "tags": ["科幻", "战斗", "末世"]
+    },
+    {
+      "anime_name": "喜欢的人忘记戴眼镜了",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/36193795.jpg",
+      "cover_url_git": "img/2023/07/喜欢的人忘记戴眼镜了.jpg",
+      "play_time": "23:30",
+      "play_date": "7.4",
+      "play_nums": "13",
+      "tags": ["校园", "恋爱喜剧", "日常", "RTX ON"]
+    },
+    {
+      "anime_name": "物之古物奇谭 第二季（物物语）",
+      "weekday": "周二",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfk9vvoi1aj305i07n0t0.jpg",
+      "cover_url_git": "img/2023/07/物之古物奇谭 第二季（物物语）.jpg",
+      "play_time": "00:30",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "怪谈", "恋爱", "妖魔"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "勇者赫鲁库",
@@ -183,76 +255,136 @@
       "tags": ["奇幻", "战斗", "悬疑", "超能力"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "物之古物奇谭 第二季（物物语）",
-      "weekday": "周二",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfk9vvoi1aj305i07n0t0.jpg",
-      "cover_url_git": "img/2023/07/物之古物奇谭 第二季（物物语）.jpg",
-      "play_time": "00:30",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["奇幻", "战斗", "怪谈", "恋爱", "妖魔"]
+      "anime_name": "祭品公主与兽之王",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691548333576_584932896.jpg",
+      "cover_url_git": "img/2023/07/祭品公主与兽之王.jpg",
+      "play_time": "00:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "恋爱", "成长", "人外", "少女"]
     },
     {
-      "anime_name": "甜点转生",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h94jdfch56j30jv0rsgt8.jpg",
-      "cover_url_git": "img/2023/07/甜点转生.jpg",
-      "play_time": "01:00",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["奇幻", "领地经营", "王道幻想", "转生异世界"]
-    },
-    {
-      "anime_name": "妖幻三重奏",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35700770.jpg",
-      "cover_url_git": "img/2023/07/妖幻三重奏.jpg",
-      "play_time": "01:30",
-      "play_date": "8.22",
-      "play_nums": "12",
-      "tags": ["奇幻", "忍者", "搞笑", "性转", "涩涩"]
-    },
-    {
-      "anime_name": "满怀美梦的少年是现实主义者",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h89j6gi6xhj30jg0qo76j.jpg",
-      "cover_url_git": "img/2023/07/满怀美梦的少年是现实主义者.jpg",
-      "play_time": "02:00",
-      "play_date": "7.4",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "搞笑", "日常", "舔狗开窍"]
-    },
-    {
-      "anime_name": "尼尔：自动人形",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691738325697_457390155.jpg",
-      "cover_url_git": "img/2023/07/尼尔：自动人形.jpg",
-      "play_time": "20:00",
-      "play_date": "8.8",
-      "play_nums": "12",
-      "tags": ["科幻", "战斗", "末世"]
-    },
-    {
-      "anime_name": "喜欢的人忘记戴眼镜了",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/36193795.jpg",
-      "cover_url_git": "img/2023/07/喜欢的人忘记戴眼镜了.jpg",
-      "play_time": "23:30",
-      "play_date": "7.4",
+      "anime_name": "不死少女 杀人笑剧",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmk0t4nunj305i07ndg6.jpg",
+      "cover_url_git": "img/2023/07/不死少女 杀人笑剧.jpg",
+      "play_time": "01:25",
+      "play_date": "7.6",
       "play_nums": "13",
-      "tags": ["校园", "恋爱喜剧", "日常", "RTX ON"]
+      "tags": ["侦探", "推理", "悬疑", "怪异", "19世纪欧洲"]
     },
     {
-      "anime_name": "物之古物奇谭 第二季（物物语）",
-      "weekday": "周二",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfk9vvoi1aj305i07n0t0.jpg",
-      "cover_url_git": "img/2023/07/物之古物奇谭 第二季（物物语）.jpg",
-      "play_time": "00:30",
-      "play_date": "7.4",
+      "anime_name": "境界战机：极钢装鬼",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hgt757x9ofj305i07n3yn.jpg",
+      "cover_url_git": "img/2023/07/境界战机：极钢装鬼.jpg",
+      "play_time": "19:00",
+      "play_date": "8.10",
+      "play_nums": "6",
+      "tags": ["科幻", "机战"]
+    },
+    {
+      "anime_name": "白圣女与黑牧师",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h6huxwpc97j30ku0ti77a.jpg",
+      "cover_url_git": "img/2023/07/白圣女与黑牧师.jpg",
+      "play_time": "20:00",
+      "play_date": "7.27",
       "play_nums": "12",
-      "tags": ["奇幻", "战斗", "怪谈", "恋爱", "妖魔"]
+      "tags": ["奇幻", "恋爱", "日常", "搞笑", "治愈", "表情包"]
+    },
+    {
+      "anime_name": "咒术回战 第二季",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
+      "cover_url_git": "img/2023/07/咒术回战 第二季.jpg",
+      "play_time": "20:00",
+      "play_date": "8.24",
+      "play_nums": "12",
+      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
+    },
+    {
+      "anime_name": "浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691459049382_465109914.jpg",
+      "cover_url_git": "img/2023/07/浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）.jpg",
+      "play_time": "21:00",
+      "play_date": "7.20",
+      "play_nums": "12",
+      "tags": ["热血", "战斗", "武士", "时代剧"]
+    },
+    {
+      "anime_name": "BanG Dream! It's MyGO!!!!!",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hffho33dvuj305i07ndg0.jpg",
+      "cover_url_git": "img/2023/07/BanG Dream! It's MyGO!!!!!.jpg",
+      "play_time": "21:35",
+      "play_date": "6.29",
+      "play_nums": "13",
+      "tags": ["音乐", "乐队", "校园"]
+    },
+    {
+      "anime_name": "间谍教室 后半篇",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/106930b30c30753f0872c5c53d24fce2.jpeg",
+      "cover_url_git": "img/2023/07/间谍教室 后半篇.jpeg",
+      "play_time": "22:30",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["谍战", "智斗", "架空", "群像", "搞笑", "师生"]
+    },
+    {
+      "anime_name": "打工吧！魔王大人 第二季 后半篇",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h6ows5xew9j31h022ve5e.jpg",
+      "cover_url_git": "img/2023/07/打工吧！魔王大人 第二季 后半篇.jpg",
+      "play_time": "22:35",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "日常", "战斗", "逆穿越"]
+    },
+    {
+      "anime_name": "大奥",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hffhgqxs0rj305i07ndg0.jpg",
+      "cover_url_git": "img/2023/07/大奥.jpg",
+      "play_time": "",
+      "play_date": "6.29",
+      "play_nums": "10",
+      "tags": ["架空", "时代剧", "男女对换", "宫斗"]
+    },
+    {
+      "anime_name": "命运-奇异赝品 黎明低语（Fate/strange Fake）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9oob5fw4qj307i0asgmf.jpg",
+      "cover_url_git": "",
+      "play_time": "18:00",
+      "play_date": "8.3",
+      "play_nums": "1",
+      "tags": ["奇幻", "战斗", "Fate"]
+    },
+    {
+      "anime_name": "打工吧！魔王大人 第二季 后半篇",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h6ows5xew9j31h022ve5e.jpg",
+      "cover_url_git": "img/2023/07/打工吧！魔王大人 第二季 后半篇.jpg",
+      "play_time": "22:35",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "日常", "战斗", "逆穿越"]
+    },
+    {
+      "anime_name": "咒术回战 第二季",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
+      "cover_url_git": "img/2023/07/咒术回战 第二季.jpg",
+      "play_time": "23:56",
+      "play_date": "7.6",
+      "play_nums": "23",
+      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
     }
   ],
   "周五": [
@@ -447,138 +579,6 @@
       "play_date": "7.8",
       "play_nums": "15",
       "tags": ["奇幻", "战斗", "校园", "魔法", "群像"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "祭品公主与兽之王",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691548333576_584932896.jpg",
-      "cover_url_git": "img/2023/07/祭品公主与兽之王.jpg",
-      "play_time": "00:00",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["奇幻", "恋爱", "成长", "人外", "少女"]
-    },
-    {
-      "anime_name": "不死少女 杀人笑剧",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmk0t4nunj305i07ndg6.jpg",
-      "cover_url_git": "img/2023/07/不死少女 杀人笑剧.jpg",
-      "play_time": "01:25",
-      "play_date": "7.6",
-      "play_nums": "13",
-      "tags": ["侦探", "推理", "悬疑", "怪异", "19世纪欧洲"]
-    },
-    {
-      "anime_name": "境界战机：极钢装鬼",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hgt757x9ofj305i07n3yn.jpg",
-      "cover_url_git": "img/2023/07/境界战机：极钢装鬼.jpg",
-      "play_time": "19:00",
-      "play_date": "8.10",
-      "play_nums": "6",
-      "tags": ["科幻", "机战"]
-    },
-    {
-      "anime_name": "白圣女与黑牧师",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h6huxwpc97j30ku0ti77a.jpg",
-      "cover_url_git": "img/2023/07/白圣女与黑牧师.jpg",
-      "play_time": "20:00",
-      "play_date": "7.27",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "日常", "搞笑", "治愈", "表情包"]
-    },
-    {
-      "anime_name": "咒术回战 第二季",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
-      "cover_url_git": "img/2023/07/咒术回战 第二季.jpg",
-      "play_time": "20:00",
-      "play_date": "8.24",
-      "play_nums": "12",
-      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
-    },
-    {
-      "anime_name": "浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691459049382_465109914.jpg",
-      "cover_url_git": "img/2023/07/浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）.jpg",
-      "play_time": "21:00",
-      "play_date": "7.20",
-      "play_nums": "12",
-      "tags": ["热血", "战斗", "武士", "时代剧"]
-    },
-    {
-      "anime_name": "BanG Dream! It's MyGO!!!!!",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hffho33dvuj305i07ndg0.jpg",
-      "cover_url_git": "img/2023/07/BanG Dream! It's MyGO!!!!!.jpg",
-      "play_time": "21:35",
-      "play_date": "6.29",
-      "play_nums": "13",
-      "tags": ["音乐", "乐队", "校园"]
-    },
-    {
-      "anime_name": "间谍教室 后半篇",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/106930b30c30753f0872c5c53d24fce2.jpeg",
-      "cover_url_git": "img/2023/07/间谍教室 后半篇.jpeg",
-      "play_time": "22:30",
-      "play_date": "7.13",
-      "play_nums": "12",
-      "tags": ["谍战", "智斗", "架空", "群像", "搞笑", "师生"]
-    },
-    {
-      "anime_name": "打工吧！魔王大人 第二季 后半篇",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h6ows5xew9j31h022ve5e.jpg",
-      "cover_url_git": "img/2023/07/打工吧！魔王大人 第二季 后半篇.jpg",
-      "play_time": "22:35",
-      "play_date": "7.13",
-      "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "日常", "战斗", "逆穿越"]
-    },
-    {
-      "anime_name": "大奥",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hffhgqxs0rj305i07ndg0.jpg",
-      "cover_url_git": "img/2023/07/大奥.jpg",
-      "play_time": "",
-      "play_date": "6.29",
-      "play_nums": "10",
-      "tags": ["架空", "时代剧", "男女对换", "宫斗"]
-    },
-    {
-      "anime_name": "命运-奇异赝品 黎明低语（Fate/strange Fake）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9oob5fw4qj307i0asgmf.jpg",
-      "cover_url_git": "",
-      "play_time": "18:00",
-      "play_date": "8.3",
-      "play_nums": "1",
-      "tags": ["奇幻", "战斗", "Fate"]
-    },
-    {
-      "anime_name": "打工吧！魔王大人 第二季 后半篇",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1h6ows5xew9j31h022ve5e.jpg",
-      "cover_url_git": "img/2023/07/打工吧！魔王大人 第二季 后半篇.jpg",
-      "play_time": "22:35",
-      "play_date": "7.13",
-      "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "日常", "战斗", "逆穿越"]
-    },
-    {
-      "anime_name": "咒术回战 第二季",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
-      "cover_url_git": "img/2023/07/咒术回战 第二季.jpg",
-      "play_time": "23:56",
-      "play_date": "7.6",
-      "play_nums": "23",
-      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
     }
   ],
   "周日": [

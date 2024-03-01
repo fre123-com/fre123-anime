@@ -61,6 +61,48 @@
       "tags": ["战斗", "科幻"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "香蕉喵 不可思议的伙伴们",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/ea5ff230aa516c6dd4c0265d1742158a.jpg",
+      "cover_url_git": "img/2019/10/香蕉喵 不可思议的伙伴们.jpg",
+      "play_time": "07:33",
+      "play_date": "10.1",
+      "play_nums": "13.0",
+      "tags": []
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/6738.jpg",
+      "cover_url_git": "img/2019/10/黑色四叶草（黑色五叶草）.jpg",
+      "play_time": "18:25",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["奇幻", "魔法", "热血", "战斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "钻石王牌 actⅡ",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201904029137598234612.jpg",
+      "cover_url_git": "img/2019/10/钻石王牌 actⅡ.jpg",
+      "play_time": "18:30",
+      "play_date": "连载中",
+      "play_nums": "52.0",
+      "tags": ["热血", "竞技", "棒球", "运动"]
+    },
+    {
+      "anime_name": "异界群敌 代码重组（Z/X Code reunion）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/21659.jpg",
+      "cover_url_git": "",
+      "play_time": "22:30",
+      "play_date": "10.8",
+      "play_nums": "12.0",
+      "tags": ["战斗", "萌系", "百合", "奇幻"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "神田川JET GIRLS",
@@ -143,46 +185,106 @@
       "tags": ["异世界", "搞笑", "沙雕", "龙傲天", "颜艺"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "香蕉喵 不可思议的伙伴们",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/ea5ff230aa516c6dd4c0265d1742158a.jpg",
-      "cover_url_git": "img/2019/10/香蕉喵 不可思议的伙伴们.jpg",
-      "play_time": "07:33",
-      "play_date": "10.1",
-      "play_nums": "13.0",
-      "tags": []
+      "anime_name": "爱书的下克上：为了成为图书管理员不择手段！",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/895da1f071bf04516020e41df9feec29.jpg",
+      "cover_url_git": "img/2019/10/爱书的下克上：为了成为图书管理员不择手段！.jpg",
+      "play_time": "00:30",
+      "play_date": "10.3",
+      "play_nums": "14.0",
+      "tags": ["异世界", "奇幻", "励志", "种田"]
     },
     {
-      "anime_name": "黑色四叶草（黑色五叶草）",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/6738.jpg",
-      "cover_url_git": "img/2019/10/黑色四叶草（黑色五叶草）.jpg",
-      "play_time": "18:25",
-      "play_date": "连载中",
-      "play_nums": "",
-      "tags": ["奇幻", "魔法", "热血", "战斗", "咆哮帝"]
-    },
-    {
-      "anime_name": "钻石王牌 actⅡ",
-      "weekday": "周二",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201904029137598234612.jpg",
-      "cover_url_git": "img/2019/10/钻石王牌 actⅡ.jpg",
-      "play_time": "18:30",
-      "play_date": "连载中",
-      "play_nums": "52.0",
-      "tags": ["热血", "竞技", "棒球", "运动"]
-    },
-    {
-      "anime_name": "异界群敌 代码重组（Z/X Code reunion）",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/21659.jpg",
-      "cover_url_git": "",
-      "play_time": "22:30",
-      "play_date": "10.8",
+      "anime_name": "喜欢本大爷的竟然就你一个？",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695890969594_1192863631.jpg",
+      "cover_url_git": "img/2019/10/喜欢本大爷的竟然就你一个？.jpg",
+      "play_time": "01:00",
+      "play_date": "10.3",
       "play_nums": "12.0",
-      "tags": ["战斗", "萌系", "百合", "奇幻"]
+      "tags": ["校园", "搞笑", "恋爱", "贵乱", "反套路"]
+    },
+    {
+      "anime_name": "放学后桌游俱乐部",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190036.jpg",
+      "cover_url_git": "img/2019/10/放学后桌游俱乐部.jpg",
+      "play_time": "02:11",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["校园", "日常", "青春", "社团", "桌游"]
+    },
+    {
+      "anime_name": "动物狂想曲（BEASTARS）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21639.jpg",
+      "cover_url_git": "img/2019/10/动物狂想曲（BEASTARS）.jpg",
+      "play_time": "03:25",
+      "play_date": "10.10",
+      "play_nums": "",
+      "tags": ["动物", "校园", "恋爱"]
+    },
+    {
+      "anime_name": "高达创形者 再起",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
+      "cover_url_git": "img/2019/10/高达创形者 再起.jpg",
+      "play_time": "19:00",
+      "play_date": "10.10",
+      "play_nums": "",
+      "tags": ["机战", "热血", "卖胶"]
+    },
+    {
+      "anime_name": "超人高中生们即便在异世界也能从容生存！",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/88d44eb41509f501b73b7de7bf7e1527.jpg",
+      "cover_url_git": "img/2019/10/超人高中生们即便在异世界也能从容生存！.jpg",
+      "play_time": "22:00",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["穿越", "异世界", "龙傲天", "奇幻"]
+    },
+    {
+      "anime_name": "碧蓝航线",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/0b29498de44a5ca5094b2017ded0eccc.jpg",
+      "cover_url_git": "img/2019/10/碧蓝航线.jpg",
+      "play_time": "23:00",
+      "play_date": "10.3",
+      "play_nums": "12.0",
+      "tags": ["战斗", "科幻", "肉搏(×)", "萌系", "舰娘"]
+    },
+    {
+      "anime_name": "刺客守则",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891015898_183658674.jpg",
+      "cover_url_git": "img/2019/10/刺客守则.jpg",
+      "play_time": "23:00",
+      "play_date": "10.10",
+      "play_nums": "12.0",
+      "tags": ["后宫", "战斗", "奇幻"]
+    },
+    {
+      "anime_name": "心理测量者 第三季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190180.jpg",
+      "cover_url_git": "img/2019/10/心理测量者 第三季.jpg",
+      "play_time": "23:55",
+      "play_date": "10.24",
+      "play_nums": "8.0",
+      "tags": ["科幻", "犯罪", "刑侦", "悬疑"]
+    },
+    {
+      "anime_name": "无限之住人-IMMORTAL-",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/bb305d3923ea75e11e7aeac80a865ed4.jpeg",
+      "cover_url_git": "img/2019/10/无限之住人-IMMORTAL-.jpeg",
+      "play_time": "",
+      "play_date": "10.10",
+      "play_nums": "24.0",
+      "tags": ["武士", "打斗", "重置"]
     }
   ],
   "周五": [
@@ -347,108 +449,6 @@
       "play_date": "10.5",
       "play_nums": "12.0",
       "tags": ["后宫", "战斗", "奇幻", "恋爱", "肉"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "爱书的下克上：为了成为图书管理员不择手段！",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/895da1f071bf04516020e41df9feec29.jpg",
-      "cover_url_git": "img/2019/10/爱书的下克上：为了成为图书管理员不择手段！.jpg",
-      "play_time": "00:30",
-      "play_date": "10.3",
-      "play_nums": "14.0",
-      "tags": ["异世界", "奇幻", "励志", "种田"]
-    },
-    {
-      "anime_name": "喜欢本大爷的竟然就你一个？",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1695890969594_1192863631.jpg",
-      "cover_url_git": "img/2019/10/喜欢本大爷的竟然就你一个？.jpg",
-      "play_time": "01:00",
-      "play_date": "10.3",
-      "play_nums": "12.0",
-      "tags": ["校园", "搞笑", "恋爱", "贵乱", "反套路"]
-    },
-    {
-      "anime_name": "放学后桌游俱乐部",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20190036.jpg",
-      "cover_url_git": "img/2019/10/放学后桌游俱乐部.jpg",
-      "play_time": "02:11",
-      "play_date": "10.3",
-      "play_nums": "12.0",
-      "tags": ["校园", "日常", "青春", "社团", "桌游"]
-    },
-    {
-      "anime_name": "动物狂想曲（BEASTARS）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21639.jpg",
-      "cover_url_git": "img/2019/10/动物狂想曲（BEASTARS）.jpg",
-      "play_time": "03:25",
-      "play_date": "10.10",
-      "play_nums": "",
-      "tags": ["动物", "校园", "恋爱"]
-    },
-    {
-      "anime_name": "高达创形者 再起",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
-      "cover_url_git": "img/2019/10/高达创形者 再起.jpg",
-      "play_time": "19:00",
-      "play_date": "10.10",
-      "play_nums": "",
-      "tags": ["机战", "热血", "卖胶"]
-    },
-    {
-      "anime_name": "超人高中生们即便在异世界也能从容生存！",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/88d44eb41509f501b73b7de7bf7e1527.jpg",
-      "cover_url_git": "img/2019/10/超人高中生们即便在异世界也能从容生存！.jpg",
-      "play_time": "22:00",
-      "play_date": "10.3",
-      "play_nums": "12.0",
-      "tags": ["穿越", "异世界", "龙傲天", "奇幻"]
-    },
-    {
-      "anime_name": "碧蓝航线",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/0b29498de44a5ca5094b2017ded0eccc.jpg",
-      "cover_url_git": "img/2019/10/碧蓝航线.jpg",
-      "play_time": "23:00",
-      "play_date": "10.3",
-      "play_nums": "12.0",
-      "tags": ["战斗", "科幻", "肉搏(×)", "萌系", "舰娘"]
-    },
-    {
-      "anime_name": "刺客守则",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1695891015898_183658674.jpg",
-      "cover_url_git": "img/2019/10/刺客守则.jpg",
-      "play_time": "23:00",
-      "play_date": "10.10",
-      "play_nums": "12.0",
-      "tags": ["后宫", "战斗", "奇幻"]
-    },
-    {
-      "anime_name": "心理测量者 第三季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20190180.jpg",
-      "cover_url_git": "img/2019/10/心理测量者 第三季.jpg",
-      "play_time": "23:55",
-      "play_date": "10.24",
-      "play_nums": "8.0",
-      "tags": ["科幻", "犯罪", "刑侦", "悬疑"]
-    },
-    {
-      "anime_name": "无限之住人-IMMORTAL-",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/bb305d3923ea75e11e7aeac80a865ed4.jpeg",
-      "cover_url_git": "img/2019/10/无限之住人-IMMORTAL-.jpeg",
-      "play_time": "",
-      "play_date": "10.10",
-      "play_nums": "24.0",
-      "tags": ["武士", "打斗", "重置"]
     }
   ],
   "周日": [

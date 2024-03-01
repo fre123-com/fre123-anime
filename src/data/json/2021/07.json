@@ -21,58 +21,6 @@
       "tags": ["惊悚", "恐怖", "怪谈"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "月野艺能事务所 第二季",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/35422813.jpg",
-      "cover_url_git": "img/2021/07/月野艺能事务所 第二季.jpg",
-      "play_time": "22:00",
-      "play_date": "8.12",
-      "play_nums": "13",
-      "tags": ["偶像", "音乐", "男团"]
-    },
-    {
-      "anime_name": "开挂药师的异世界悠闲生活",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gf4rsunkv3j30u01c4nay.jpg",
-      "cover_url_git": "img/2021/07/开挂药师的异世界悠闲生活.jpg",
-      "play_time": "22:00",
-      "play_date": "7.7",
-      "play_nums": "12",
-      "tags": ["奇幻", "异世界", "穿越", "搞笑", "治愈"]
-    },
-    {
-      "anime_name": "月光下的异世界之旅",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gjw18pou6xj30ku0tlasn.jpg",
-      "cover_url_git": "img/2021/07/月光下的异世界之旅.jpg",
-      "play_time": "23:00",
-      "play_date": "7.7",
-      "play_nums": "12",
-      "tags": ["奇幻", "异世界", "穿越", "冒险"]
-    },
-    {
-      "anime_name": "暗夜第六感 2041",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gkfqqkpi99j30ku0tg7ad.jpg",
-      "cover_url_git": "img/2021/07/暗夜第六感 2041.jpg",
-      "play_time": "23:55",
-      "play_date": "7.14",
-      "play_nums": "季",
-      "tags": ["科幻", "异能", "追逐"]
-    },
-    {
-      "anime_name": "终末的女武神",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/35296030.jpg",
-      "cover_url_git": "img/2021/07/终末的女武神.jpg",
-      "play_time": "",
-      "play_date": "6.17",
-      "play_nums": "12",
-      "tags": ["奇幻", "打斗", "神魔"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "阴晴不定大哥哥",
@@ -133,6 +81,140 @@
       "play_date": "7.20",
       "play_nums": "",
       "tags": ["搞笑", "Q版", "日常", "外传"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "月野艺能事务所 第二季",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35422813.jpg",
+      "cover_url_git": "img/2021/07/月野艺能事务所 第二季.jpg",
+      "play_time": "22:00",
+      "play_date": "8.12",
+      "play_nums": "13",
+      "tags": ["偶像", "音乐", "男团"]
+    },
+    {
+      "anime_name": "开挂药师的异世界悠闲生活",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gf4rsunkv3j30u01c4nay.jpg",
+      "cover_url_git": "img/2021/07/开挂药师的异世界悠闲生活.jpg",
+      "play_time": "22:00",
+      "play_date": "7.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "异世界", "穿越", "搞笑", "治愈"]
+    },
+    {
+      "anime_name": "月光下的异世界之旅",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gjw18pou6xj30ku0tlasn.jpg",
+      "cover_url_git": "img/2021/07/月光下的异世界之旅.jpg",
+      "play_time": "23:00",
+      "play_date": "7.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "异世界", "穿越", "冒险"]
+    },
+    {
+      "anime_name": "暗夜第六感 2041",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gkfqqkpi99j30ku0tg7ad.jpg",
+      "cover_url_git": "img/2021/07/暗夜第六感 2041.jpg",
+      "play_time": "23:55",
+      "play_date": "7.14",
+      "play_nums": "季",
+      "tags": ["科幻", "异能", "追逐"]
+    },
+    {
+      "anime_name": "终末的女武神",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35296030.jpg",
+      "cover_url_git": "img/2021/07/终末的女武神.jpg",
+      "play_time": "",
+      "play_date": "6.17",
+      "play_nums": "12",
+      "tags": ["奇幻", "打斗", "神魔"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "小林家的龙女仆 第二季",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20170134922945.jpg",
+      "cover_url_git": "img/2021/07/小林家的龙女仆 第二季.jpg",
+      "play_time": "00:00",
+      "play_date": "7.8",
+      "play_nums": "12",
+      "tags": ["日常", "搞笑", "萌系", "治愈", "轻百合"]
+    },
+    {
+      "anime_name": "女神宿舍的管理员",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692859775954_222179635.jpg",
+      "cover_url_git": "img/2021/07/女神宿舍的管理员.jpg",
+      "play_time": "00:00",
+      "play_date": "7.15",
+      "play_nums": "10",
+      "tags": ["搞笑", "日常", "后宫", "GHS"]
+    },
+    {
+      "anime_name": "通灵王（新作）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
+      "cover_url_git": "img/2021/07/通灵王（新作）.jpeg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "52",
+      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "绯红结系（SCARLET NEXUS）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35406661.jpg",
+      "cover_url_git": "img/2021/07/绯红结系（SCARLET NEXUS）.jpg",
+      "play_time": "21:30",
+      "play_date": "6.25",
+      "play_nums": "12",
+      "tags": ["科幻", "战斗", "异能"]
+    },
+    {
+      "anime_name": "桃子男孩渡海而来",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gt3zs0a43qj30qo0zktfv.jpg",
+      "cover_url_git": "img/2021/07/桃子男孩渡海而来.jpg",
+      "play_time": "21:40",
+      "play_date": "6.20",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "灭鬼"]
+    },
+    {
+      "anime_name": "寒蝉鸣泣之时 卒",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gqp70pfo5hj30lp0umasc.jpg",
+      "cover_url_git": "img/2021/07/寒蝉鸣泣之时 卒.jpg",
+      "play_time": "23:30",
+      "play_date": "7.2",
+      "play_nums": "15",
+      "tags": ["悬疑", "推理", "惊悚", "猎奇", "柴刀"]
+    },
+    {
+      "anime_name": "平稳世代的韦驮天们",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1ghpidanweqj30ku0tmjvn.jpg",
+      "cover_url_git": "img/2021/07/平稳世代的韦驮天们.jpg",
+      "play_time": "23:55",
+      "play_date": "7.22",
+      "play_nums": "11",
+      "tags": ["奇幻", "神魔", "战斗"]
+    },
+    {
+      "anime_name": "生化危机：无尽黑暗",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gs2g0ukx9dj30kt0u0tc2.jpg",
+      "cover_url_git": "img/2021/07/生化危机：无尽黑暗.jpg",
+      "play_time": "",
+      "play_date": "7.8",
+      "play_nums": "4",
+      "tags": ["科幻", "恐怖", "灾难"]
     }
   ],
   "周五": [
@@ -317,88 +399,6 @@
       "play_date": "7.10",
       "play_nums": "",
       "tags": ["奇幻", "战斗", "异能", "都市"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "小林家的龙女仆 第二季",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20170134922945.jpg",
-      "cover_url_git": "img/2021/07/小林家的龙女仆 第二季.jpg",
-      "play_time": "00:00",
-      "play_date": "7.8",
-      "play_nums": "12",
-      "tags": ["日常", "搞笑", "萌系", "治愈", "轻百合"]
-    },
-    {
-      "anime_name": "女神宿舍的管理员",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692859775954_222179635.jpg",
-      "cover_url_git": "img/2021/07/女神宿舍的管理员.jpg",
-      "play_time": "00:00",
-      "play_date": "7.15",
-      "play_nums": "10",
-      "tags": ["搞笑", "日常", "后宫", "GHS"]
-    },
-    {
-      "anime_name": "通灵王（新作）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
-      "cover_url_git": "img/2021/07/通灵王（新作）.jpeg",
-      "play_time": "18:00",
-      "play_date": "连载中",
-      "play_nums": "52",
-      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
-    },
-    {
-      "anime_name": "绯红结系（SCARLET NEXUS）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35406661.jpg",
-      "cover_url_git": "img/2021/07/绯红结系（SCARLET NEXUS）.jpg",
-      "play_time": "21:30",
-      "play_date": "6.25",
-      "play_nums": "12",
-      "tags": ["科幻", "战斗", "异能"]
-    },
-    {
-      "anime_name": "桃子男孩渡海而来",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gt3zs0a43qj30qo0zktfv.jpg",
-      "cover_url_git": "img/2021/07/桃子男孩渡海而来.jpg",
-      "play_time": "21:40",
-      "play_date": "6.20",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "灭鬼"]
-    },
-    {
-      "anime_name": "寒蝉鸣泣之时 卒",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gqp70pfo5hj30lp0umasc.jpg",
-      "cover_url_git": "img/2021/07/寒蝉鸣泣之时 卒.jpg",
-      "play_time": "23:30",
-      "play_date": "7.2",
-      "play_nums": "15",
-      "tags": ["悬疑", "推理", "惊悚", "猎奇", "柴刀"]
-    },
-    {
-      "anime_name": "平稳世代的韦驮天们",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1ghpidanweqj30ku0tmjvn.jpg",
-      "cover_url_git": "img/2021/07/平稳世代的韦驮天们.jpg",
-      "play_time": "23:55",
-      "play_date": "7.22",
-      "play_nums": "11",
-      "tags": ["奇幻", "神魔", "战斗"]
-    },
-    {
-      "anime_name": "生化危机：无尽黑暗",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gs2g0ukx9dj30kt0u0tc2.jpg",
-      "cover_url_git": "img/2021/07/生化危机：无尽黑暗.jpg",
-      "play_time": "",
-      "play_date": "7.8",
-      "play_nums": "4",
-      "tags": ["科幻", "恐怖", "灾难"]
     }
   ],
   "周日": [

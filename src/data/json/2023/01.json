@@ -91,6 +91,98 @@
       "tags": ["战争", "冒险", "热血", "历史"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "物之古物奇谭（物物语）",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f4ce019d3c87600b19df406798d0f930.jpeg",
+      "cover_url_git": "img/2023/01/物之古物奇谭（物物语）.jpeg",
+      "play_time": "00:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "热血", "鬼怪", "恋爱"]
+    },
+    {
+      "anime_name": "FLAGLIA",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230035.jpg",
+      "cover_url_git": "img/2023/01/FLAGLIA.jpg",
+      "play_time": "00:35",
+      "play_date": "1.17",
+      "play_nums": "6",
+      "tags": ["奇幻", "音乐剧"]
+    },
+    {
+      "anime_name": "英雄王 为了穷尽武道而转生",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20220105.jpg",
+      "cover_url_git": "img/2023/01/英雄王 为了穷尽武道而转生.jpg",
+      "play_time": "01:15",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["搞笑", "战斗", "冒险", "转生", "性转", "凤傲天"]
+    },
+    {
+      "anime_name": "永久少年",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691738675616_1980869967.jpg",
+      "cover_url_git": "img/2023/01/永久少年.jpg",
+      "play_time": "01:20",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["偶像", "男团", "大叔", "励志"]
+    },
+    {
+      "anime_name": "呆萌酷男孩",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5ycaj197rj30u016a76d.jpg",
+      "cover_url_git": "img/2023/01/呆萌酷男孩.jpg",
+      "play_time": "01:30",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["校园", "日常", "搞笑"]
+    },
+    {
+      "anime_name": "妖幻三重奏",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35700770.jpg",
+      "cover_url_git": "img/2023/01/妖幻三重奏.jpg",
+      "play_time": "01:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["奇幻", "忍者", "搞笑", "性转", "涩涩"]
+    },
+    {
+      "anime_name": "冰属性男子和酷酷女同事",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/00b6831cb98b31e4fdcb1d3c04e6d4a8.jpeg",
+      "cover_url_git": "img/2023/01/冰属性男子和酷酷女同事.jpeg",
+      "play_time": "22:30",
+      "play_date": "1.4",
+      "play_nums": "12",
+      "tags": ["职场", "恋爱", "搞笑", "日常"]
+    },
+    {
+      "anime_name": "不相信人类的冒险者们好像要去拯救世界",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9pr8k6vfpj307i0amdh9.jpg",
+      "cover_url_git": "img/2023/01/不相信人类的冒险者们好像要去拯救世界.jpg",
+      "play_time": "22:35",
+      "play_date": "1.3",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "搞笑"]
+    },
+    {
+      "anime_name": "久保同学不放过我",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8ws7o9vrbj30rs13adsc.jpg",
+      "cover_url_git": "img/2023/01/久保同学不放过我.jpg",
+      "play_time": "23:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "狗粮"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "拥有超常技能的异世界流浪美食家",
@@ -183,96 +275,146 @@
       "tags": ["网游", "搞笑", "战斗", "冒险", "凤傲天"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "物之古物奇谭（物物语）",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f4ce019d3c87600b19df406798d0f930.jpeg",
-      "cover_url_git": "img/2023/01/物之古物奇谭（物物语）.jpeg",
-      "play_time": "00:30",
-      "play_date": "1.10",
-      "play_nums": "12",
-      "tags": ["奇幻", "战斗", "热血", "鬼怪", "恋爱"]
+      "anime_name": "弦音 第二季（弦音 -联系的一箭-）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691559987722_1065251876.jpg",
+      "cover_url_git": "img/2023/01/弦音 第二季（弦音 -联系的一箭-）.jpg",
+      "play_time": "00:00",
+      "play_date": "1.5",
+      "play_nums": "13",
+      "tags": ["校园", "运动", "青春", "社团", "弓道"]
     },
     {
-      "anime_name": "FLAGLIA",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20230035.jpg",
-      "cover_url_git": "img/2023/01/FLAGLIA.jpg",
-      "play_time": "00:35",
-      "play_date": "1.17",
-      "play_nums": "6",
-      "tags": ["奇幻", "音乐剧"]
-    },
-    {
-      "anime_name": "英雄王 为了穷尽武道而转生",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20220105.jpg",
-      "cover_url_git": "img/2023/01/英雄王 为了穷尽武道而转生.jpg",
-      "play_time": "01:15",
-      "play_date": "1.10",
-      "play_nums": "12",
-      "tags": ["搞笑", "战斗", "冒险", "转生", "性转", "凤傲天"]
-    },
-    {
-      "anime_name": "永久少年",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691738675616_1980869967.jpg",
-      "cover_url_git": "img/2023/01/永久少年.jpg",
-      "play_time": "01:20",
+      "anime_name": "关于养猫我一直是新手（夜夜猫歌）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35882524.jpg",
+      "cover_url_git": "img/2023/01/关于养猫我一直是新手（夜夜猫歌）.jpg",
+      "play_time": "01:00",
       "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["偶像", "男团", "大叔", "励志"]
+      "play_nums": "30",
+      "tags": ["猫片", "日常", "治愈"]
     },
     {
-      "anime_name": "呆萌酷男孩",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h5ycaj197rj30u016a76d.jpg",
-      "cover_url_git": "img/2023/01/呆萌酷男孩.jpg",
-      "play_time": "01:30",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["校园", "日常", "搞笑"]
+      "anime_name": "智酱是女生！",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9s2o1503oj307i0alabe.jpg",
+      "cover_url_git": "img/2023/01/智酱是女生！.jpg",
+      "play_time": "01:00",
+      "play_date": "1.5",
+      "play_nums": "13",
+      "tags": ["校园", "恋爱", "搞笑", "日常"]
     },
     {
-      "anime_name": "妖幻三重奏",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35700770.jpg",
-      "cover_url_git": "img/2023/01/妖幻三重奏.jpg",
-      "play_time": "01:30",
-      "play_date": "1.10",
+      "anime_name": "大雪海的凯纳",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20220175.jpg",
+      "cover_url_git": "img/2023/01/大雪海的凯纳.jpg",
+      "play_time": "01:25",
+      "play_date": "1.12",
+      "play_nums": "11",
+      "tags": ["科幻", "冒险", "求生", "战斗", "3DCG"]
+    },
+    {
+      "anime_name": "复仇者（REVENGER）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691559850112_1796948723.jpg",
+      "cover_url_git": "img/2023/01/复仇者（REVENGER）.jpg",
+      "play_time": "20:00",
+      "play_date": "1.5",
       "play_nums": "12",
-      "tags": ["奇幻", "忍者", "搞笑", "性转", "涩涩"]
+      "tags": ["杀手", "战斗", "复仇", "架空"]
     },
     {
-      "anime_name": "冰属性男子和酷酷女同事",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/00b6831cb98b31e4fdcb1d3c04e6d4a8.jpeg",
-      "cover_url_git": "img/2023/01/冰属性男子和酷酷女同事.jpeg",
+      "anime_name": "在地下城寻求邂逅是否搞错了什么 第四季 深章",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/871feeacd808299f836a9dd0f2b0f42c.jpg",
+      "cover_url_git": "img/2023/01/在地下城寻求邂逅是否搞错了什么 第四季 深章.jpg",
+      "play_time": "22:05",
+      "play_date": "1.5",
+      "play_nums": "11",
+      "tags": ["奇幻", "冒险", "战斗", "成长"]
+    },
+    {
+      "anime_name": "间谍教室",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/106930b30c30753f0872c5c53d24fce2.jpeg",
+      "cover_url_git": "img/2023/01/间谍教室.jpeg",
       "play_time": "22:30",
+      "play_date": "1.5",
+      "play_nums": "12",
+      "tags": ["间谍", "战斗", "架空", "群像", "师生"]
+    },
+    {
+      "anime_name": "鲁邦 零",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1h96z89g49aj207i0alq42.jpg",
+      "cover_url_git": "img/2023/01/鲁邦 零.jpg",
+      "play_time": "23:00",
+      "play_date": "12.15",
+      "play_nums": "6",
+      "tags": ["搞笑", "冒险", "智斗", "前传"]
+    },
+    {
+      "anime_name": "生而为狗 我很幸福",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/8fd3419f837b0a25dffd99803da0094f.jpeg",
+      "cover_url_git": "img/2023/01/生而为狗 我很幸福.jpeg",
+      "play_time": "23:30",
       "play_date": "1.4",
       "play_nums": "12",
-      "tags": ["职场", "恋爱", "搞笑", "日常"]
+      "tags": ["第一人称", "狗视角", "涩涩"]
     },
     {
-      "anime_name": "不相信人类的冒险者们好像要去拯救世界",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9pr8k6vfpj307i0amdh9.jpg",
-      "cover_url_git": "img/2023/01/不相信人类的冒险者们好像要去拯救世界.jpg",
-      "play_time": "22:35",
-      "play_date": "1.3",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "搞笑"]
-    },
-    {
-      "anime_name": "久保同学不放过我",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8ws7o9vrbj30rs13adsc.jpg",
-      "cover_url_git": "img/2023/01/久保同学不放过我.jpg",
+      "anime_name": "别当欧尼酱了！（不当哥哥了）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8t7gm9toaj31jk26ani3.jpg",
+      "cover_url_git": "img/2023/01/别当欧尼酱了！（不当哥哥了）.jpg",
       "play_time": "23:30",
-      "play_date": "1.10",
+      "play_date": "1.5",
       "play_nums": "12",
-      "tags": ["校园", "恋爱", "搞笑", "日常", "狗粮"]
+      "tags": ["搞笑", "日常", "性转", "贴贴"]
+    },
+    {
+      "anime_name": "JOJO的奇妙冒险 石之海 后篇",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/34605404.jpg",
+      "cover_url_git": "img/2023/01/JOJO的奇妙冒险 石之海 后篇.jpg",
+      "play_time": "17:00",
+      "play_date": "12.1",
+      "play_nums": "14",
+      "tags": ["热血", "战斗", "异能", "冒险", "奇幻"]
+    },
+    {
+      "anime_name": "伊藤润二《狂热集》",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0f3240936cdce51cb01b4a0f02512ff6.jpeg",
+      "cover_url_git": "img/2023/01/伊藤润二《狂热集》.jpeg",
+      "play_time": "",
+      "play_date": "1.19",
+      "play_nums": "12",
+      "tags": ["惊悚", "恐怖", "猎奇", "怪诞"]
+    },
+    {
+      "anime_name": "终末的女武神 第二季 前篇",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36318301.jpg",
+      "cover_url_git": "img/2023/01/终末的女武神 第二季 前篇.jpg",
+      "play_time": "",
+      "play_date": "1.26",
+      "play_nums": "10",
+      "tags": ["热血", "战斗", "搞笑", "人神大战"]
+    },
+    {
+      "anime_name": "冰雪极境（MAKE MY DAY）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691559625766_1070591551.jpg",
+      "cover_url_git": "img/2023/01/冰雪极境（MAKE MY DAY）.jpg",
+      "play_time": "",
+      "play_date": "2.2",
+      "play_nums": "8",
+      "tags": ["科幻", "生存", "外星生物"]
     }
   ],
   "周五": [
@@ -487,148 +629,6 @@
       "play_date": "1.7",
       "play_nums": "12",
       "tags": ["科幻", "冒险", "战斗", "旅途", "文艺复兴"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "弦音 第二季（弦音 -联系的一箭-）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691559987722_1065251876.jpg",
-      "cover_url_git": "img/2023/01/弦音 第二季（弦音 -联系的一箭-）.jpg",
-      "play_time": "00:00",
-      "play_date": "1.5",
-      "play_nums": "13",
-      "tags": ["校园", "运动", "青春", "社团", "弓道"]
-    },
-    {
-      "anime_name": "关于养猫我一直是新手（夜夜猫歌）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35882524.jpg",
-      "cover_url_git": "img/2023/01/关于养猫我一直是新手（夜夜猫歌）.jpg",
-      "play_time": "01:00",
-      "play_date": "连载中",
-      "play_nums": "30",
-      "tags": ["猫片", "日常", "治愈"]
-    },
-    {
-      "anime_name": "智酱是女生！",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1h9s2o1503oj307i0alabe.jpg",
-      "cover_url_git": "img/2023/01/智酱是女生！.jpg",
-      "play_time": "01:00",
-      "play_date": "1.5",
-      "play_nums": "13",
-      "tags": ["校园", "恋爱", "搞笑", "日常"]
-    },
-    {
-      "anime_name": "大雪海的凯纳",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20220175.jpg",
-      "cover_url_git": "img/2023/01/大雪海的凯纳.jpg",
-      "play_time": "01:25",
-      "play_date": "1.12",
-      "play_nums": "11",
-      "tags": ["科幻", "冒险", "求生", "战斗", "3DCG"]
-    },
-    {
-      "anime_name": "复仇者（REVENGER）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691559850112_1796948723.jpg",
-      "cover_url_git": "img/2023/01/复仇者（REVENGER）.jpg",
-      "play_time": "20:00",
-      "play_date": "1.5",
-      "play_nums": "12",
-      "tags": ["杀手", "战斗", "复仇", "架空"]
-    },
-    {
-      "anime_name": "在地下城寻求邂逅是否搞错了什么 第四季 深章",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/871feeacd808299f836a9dd0f2b0f42c.jpg",
-      "cover_url_git": "img/2023/01/在地下城寻求邂逅是否搞错了什么 第四季 深章.jpg",
-      "play_time": "22:05",
-      "play_date": "1.5",
-      "play_nums": "11",
-      "tags": ["奇幻", "冒险", "战斗", "成长"]
-    },
-    {
-      "anime_name": "间谍教室",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/106930b30c30753f0872c5c53d24fce2.jpeg",
-      "cover_url_git": "img/2023/01/间谍教室.jpeg",
-      "play_time": "22:30",
-      "play_date": "1.5",
-      "play_nums": "12",
-      "tags": ["间谍", "战斗", "架空", "群像", "师生"]
-    },
-    {
-      "anime_name": "鲁邦 零",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1h96z89g49aj207i0alq42.jpg",
-      "cover_url_git": "img/2023/01/鲁邦 零.jpg",
-      "play_time": "23:00",
-      "play_date": "12.15",
-      "play_nums": "6",
-      "tags": ["搞笑", "冒险", "智斗", "前传"]
-    },
-    {
-      "anime_name": "生而为狗 我很幸福",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/8fd3419f837b0a25dffd99803da0094f.jpeg",
-      "cover_url_git": "img/2023/01/生而为狗 我很幸福.jpeg",
-      "play_time": "23:30",
-      "play_date": "1.4",
-      "play_nums": "12",
-      "tags": ["第一人称", "狗视角", "涩涩"]
-    },
-    {
-      "anime_name": "别当欧尼酱了！（不当哥哥了）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h8t7gm9toaj31jk26ani3.jpg",
-      "cover_url_git": "img/2023/01/别当欧尼酱了！（不当哥哥了）.jpg",
-      "play_time": "23:30",
-      "play_date": "1.5",
-      "play_nums": "12",
-      "tags": ["搞笑", "日常", "性转", "贴贴"]
-    },
-    {
-      "anime_name": "JOJO的奇妙冒险 石之海 后篇",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/34605404.jpg",
-      "cover_url_git": "img/2023/01/JOJO的奇妙冒险 石之海 后篇.jpg",
-      "play_time": "17:00",
-      "play_date": "12.1",
-      "play_nums": "14",
-      "tags": ["热血", "战斗", "异能", "冒险", "奇幻"]
-    },
-    {
-      "anime_name": "伊藤润二《狂热集》",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/0f3240936cdce51cb01b4a0f02512ff6.jpeg",
-      "cover_url_git": "img/2023/01/伊藤润二《狂热集》.jpeg",
-      "play_time": "",
-      "play_date": "1.19",
-      "play_nums": "12",
-      "tags": ["惊悚", "恐怖", "猎奇", "怪诞"]
-    },
-    {
-      "anime_name": "终末的女武神 第二季 前篇",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36318301.jpg",
-      "cover_url_git": "img/2023/01/终末的女武神 第二季 前篇.jpg",
-      "play_time": "",
-      "play_date": "1.26",
-      "play_nums": "10",
-      "tags": ["热血", "战斗", "搞笑", "人神大战"]
-    },
-    {
-      "anime_name": "冰雪极境（MAKE MY DAY）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691559625766_1070591551.jpg",
-      "cover_url_git": "img/2023/01/冰雪极境（MAKE MY DAY）.jpg",
-      "play_time": "",
-      "play_date": "2.2",
-      "play_nums": "8",
-      "tags": ["科幻", "生存", "外星生物"]
     }
   ],
   "周日": [

@@ -71,6 +71,48 @@
       "tags": ["卡牌", "竞技"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "东方少年 第二季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20220253.jpg",
+      "cover_url_git": "img/2022/07/东方少年 第二季.jpg",
+      "play_time": "00:30",
+      "play_date": "7.12",
+      "play_nums": "12",
+      "tags": ["战斗", "热血", "冒险", "奇幻", "妖魔"]
+    },
+    {
+      "anime_name": "世界末日与柴犬同行",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
+      "cover_url_git": "img/2022/07/世界末日与柴犬同行.jpg",
+      "play_time": "18:00",
+      "play_date": "8.2",
+      "play_nums": "72",
+      "tags": ["日常", "架空", "末世", "有声漫画"]
+    },
+    {
+      "anime_name": "金装的维尔梅",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/35778549.jpg",
+      "cover_url_git": "img/2022/07/金装的维尔梅.jpg",
+      "play_time": "21:30",
+      "play_date": "7.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "恶魔", "校园", "涩涩"]
+    },
+    {
+      "anime_name": "OVERLORD 第四季（不死者之王）",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692774811964_1580776339.jpg",
+      "cover_url_git": "img/2022/07/OVERLORD 第四季（不死者之王）.jpg",
+      "play_time": "22:00",
+      "play_date": "7.5",
+      "play_nums": "13",
+      "tags": ["奇幻", "战斗", "穿越", "反派", "龙傲天"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "新 东京猫猫",
@@ -173,20 +215,30 @@
       "tags": ["亲情", "日常", "美食", "治愈", "方言"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "东方少年 第二季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20220253.jpg",
-      "cover_url_git": "img/2022/07/东方少年 第二季.jpg",
-      "play_time": "00:30",
-      "play_date": "7.12",
-      "play_nums": "12",
-      "tags": ["战斗", "热血", "冒险", "奇幻", "妖魔"]
+      "anime_name": "夜夜猫歌（今晚有猫伴身边）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1h3rpvyg3ydj307409wq3j.jpg",
+      "cover_url_git": "img/2022/07/夜夜猫歌（今晚有猫伴身边）.jpg",
+      "play_time": "02:00",
+      "play_date": "8.4",
+      "play_nums": "30",
+      "tags": ["猫片", "日常", "治愈"]
+    },
+    {
+      "anime_name": "夏日重现",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35351365.jpg",
+      "cover_url_git": "img/2022/07/夏日重现.jpg",
+      "play_time": "12:00",
+      "play_date": "连载中",
+      "play_nums": "25",
+      "tags": ["悬疑", "轮回", "智斗", "青梅竹马"]
     },
     {
       "anime_name": "世界末日与柴犬同行",
-      "weekday": "周二",
+      "weekday": "周四",
       "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
       "cover_url_git": "img/2022/07/世界末日与柴犬同行.jpg",
       "play_time": "18:00",
@@ -195,24 +247,64 @@
       "tags": ["日常", "架空", "末世", "有声漫画"]
     },
     {
-      "anime_name": "金装的维尔梅",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/35778549.jpg",
-      "cover_url_git": "img/2022/07/金装的维尔梅.jpg",
+      "anime_name": "组长女儿与照料专员",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/a792b225e4427aee269dcd0c10d70658.jpeg",
+      "cover_url_git": "img/2022/07/组长女儿与照料专员.jpeg",
       "play_time": "21:30",
-      "play_date": "7.5",
+      "play_date": "7.8",
       "play_nums": "12",
-      "tags": ["奇幻", "搞笑", "恶魔", "校园", "涩涩"]
+      "tags": ["搞笑", "日常", "黑道", "萝莉"]
     },
     {
-      "anime_name": "OVERLORD 第四季（不死者之王）",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692774811964_1580776339.jpg",
-      "cover_url_git": "img/2022/07/OVERLORD 第四季（不死者之王）.jpg",
-      "play_time": "22:00",
-      "play_date": "7.5",
+      "anime_name": "在地下城寻求邂逅是否搞错了什么 第四季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/871feeacd808299f836a9dd0f2b0f42c.jpg",
+      "cover_url_git": "img/2022/07/在地下城寻求邂逅是否搞错了什么 第四季.jpg",
+      "play_time": "22:05",
+      "play_date": "7.21",
+      "play_nums": "季",
+      "tags": ["奇幻", "冒险", "战斗", "成长"]
+    },
+    {
+      "anime_name": "打工吧！魔王大人 第二季",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1goanytrk7ej31481kwn7l.jpg",
+      "cover_url_git": "img/2022/07/打工吧！魔王大人 第二季.jpg",
+      "play_time": "22:35",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["搞笑", "职场", "日常", "穿越", "魔王×勇者"]
+    },
+    {
+      "anime_name": "彻夜之歌（夜曲）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35656960.jpg",
+      "cover_url_git": "img/2022/07/彻夜之歌（夜曲）.jpg",
+      "play_time": "23:55",
+      "play_date": "7.7",
       "play_nums": "13",
-      "tags": ["奇幻", "战斗", "穿越", "反派", "龙傲天"]
+      "tags": ["奇幻", "搞笑", "日常", "恋爱", "吸血鬼"]
+    },
+    {
+      "anime_name": "暗黑破坏神",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35758800.jpg",
+      "cover_url_git": "img/2022/07/暗黑破坏神.jpg",
+      "play_time": "",
+      "play_date": "6.30",
+      "play_nums": "13",
+      "tags": ["奇幻", "战斗", "神魔", "黄暴"]
+    },
+    {
+      "anime_name": "狂赌之渊 双",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35656849.jpg",
+      "cover_url_git": "img/2022/07/狂赌之渊 双.jpg",
+      "play_time": "",
+      "play_date": "8.4",
+      "play_nums": "6",
+      "tags": ["校园", "赌博", "热血", "智斗", "前传"]
     }
   ],
   "周五": [
@@ -397,98 +489,6 @@
       "play_date": "7.2",
       "play_nums": "",
       "tags": ["日常", "地方人文", "轻百合", "浦和小调续作"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "夜夜猫歌（今晚有猫伴身边）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1h3rpvyg3ydj307409wq3j.jpg",
-      "cover_url_git": "img/2022/07/夜夜猫歌（今晚有猫伴身边）.jpg",
-      "play_time": "02:00",
-      "play_date": "8.4",
-      "play_nums": "30",
-      "tags": ["猫片", "日常", "治愈"]
-    },
-    {
-      "anime_name": "夏日重现",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35351365.jpg",
-      "cover_url_git": "img/2022/07/夏日重现.jpg",
-      "play_time": "12:00",
-      "play_date": "连载中",
-      "play_nums": "25",
-      "tags": ["悬疑", "轮回", "智斗", "青梅竹马"]
-    },
-    {
-      "anime_name": "世界末日与柴犬同行",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006sgDEegy1h4s7yj06rnj307i0acacp.jpg",
-      "cover_url_git": "img/2022/07/世界末日与柴犬同行.jpg",
-      "play_time": "18:00",
-      "play_date": "8.2",
-      "play_nums": "72",
-      "tags": ["日常", "架空", "末世", "有声漫画"]
-    },
-    {
-      "anime_name": "组长女儿与照料专员",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/a792b225e4427aee269dcd0c10d70658.jpeg",
-      "cover_url_git": "img/2022/07/组长女儿与照料专员.jpeg",
-      "play_time": "21:30",
-      "play_date": "7.8",
-      "play_nums": "12",
-      "tags": ["搞笑", "日常", "黑道", "萝莉"]
-    },
-    {
-      "anime_name": "在地下城寻求邂逅是否搞错了什么 第四季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/871feeacd808299f836a9dd0f2b0f42c.jpg",
-      "cover_url_git": "img/2022/07/在地下城寻求邂逅是否搞错了什么 第四季.jpg",
-      "play_time": "22:05",
-      "play_date": "7.21",
-      "play_nums": "季",
-      "tags": ["奇幻", "冒险", "战斗", "成长"]
-    },
-    {
-      "anime_name": "打工吧！魔王大人 第二季",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1goanytrk7ej31481kwn7l.jpg",
-      "cover_url_git": "img/2022/07/打工吧！魔王大人 第二季.jpg",
-      "play_time": "22:35",
-      "play_date": "7.14",
-      "play_nums": "12",
-      "tags": ["搞笑", "职场", "日常", "穿越", "魔王×勇者"]
-    },
-    {
-      "anime_name": "彻夜之歌（夜曲）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35656960.jpg",
-      "cover_url_git": "img/2022/07/彻夜之歌（夜曲）.jpg",
-      "play_time": "23:55",
-      "play_date": "7.7",
-      "play_nums": "13",
-      "tags": ["奇幻", "搞笑", "日常", "恋爱", "吸血鬼"]
-    },
-    {
-      "anime_name": "暗黑破坏神",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35758800.jpg",
-      "cover_url_git": "img/2022/07/暗黑破坏神.jpg",
-      "play_time": "",
-      "play_date": "6.30",
-      "play_nums": "13",
-      "tags": ["奇幻", "战斗", "神魔", "黄暴"]
-    },
-    {
-      "anime_name": "狂赌之渊 双",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35656849.jpg",
-      "cover_url_git": "img/2022/07/狂赌之渊 双.jpg",
-      "play_time": "",
-      "play_date": "8.4",
-      "play_nums": "6",
-      "tags": ["校园", "赌博", "热血", "智斗", "前传"]
     }
   ],
   "周日": [

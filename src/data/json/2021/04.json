@@ -61,6 +61,48 @@
       "tags": ["社团", "陶艺", "校园", "日常", "青春"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "影宅",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20210105.jpg",
+      "cover_url_git": "img/2021/04/影宅.jpg",
+      "play_time": "00:00",
+      "play_date": "4.13",
+      "play_nums": "13",
+      "tags": ["奇幻", "悬疑", "治愈", "猎奇", "萝莉"]
+    },
+    {
+      "anime_name": "水果篮子 最终季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210222-1/3466543edba61bd25dfab3ce0cbc011a.jpg",
+      "cover_url_git": "img/2021/04/水果篮子 最终季.jpg",
+      "play_time": "00:30",
+      "play_date": "3.13",
+      "play_nums": "13",
+      "tags": ["奇幻", "恋爱", "治愈", "乙女向", "爷青结"]
+    },
+    {
+      "anime_name": "奇巧计程车（ODD TAXI）",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692859653260_1320291455.jpg",
+      "cover_url_git": "img/2021/04/奇巧计程车（ODD TAXI）.jpg",
+      "play_time": "01:00",
+      "play_date": "4.6",
+      "play_nums": "13",
+      "tags": ["悬疑", "诡异", "动物角色"]
+    },
+    {
+      "anime_name": "MARS RED（煋红）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yunvy5ywj307i0al0ve.jpg",
+      "cover_url_git": "img/2021/04/MARS RED（煋红）.jpg",
+      "play_time": "02:00",
+      "play_date": "4.6",
+      "play_nums": "13",
+      "tags": ["奇幻", "战斗", "吸血鬼", "时代剧"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "扰乱 THE PRINCESS OF SNOW AND BLOOD",
@@ -143,46 +185,116 @@
       "tags": ["格斗", "古罗马", "传记"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "影宅",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20210105.jpg",
-      "cover_url_git": "img/2021/04/影宅.jpg",
-      "play_time": "00:00",
-      "play_date": "4.13",
-      "play_nums": "13",
-      "tags": ["奇幻", "悬疑", "治愈", "猎奇", "萝莉"]
+      "anime_name": "黑塔利亚 第七季（World★Stars）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yq9amtjej30ew0lln2p.jpg",
+      "cover_url_git": "img/2021/04/黑塔利亚 第七季（World★Stars）.jpg",
+      "play_time": "00:05",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["搞笑", "国拟人"]
     },
     {
-      "anime_name": "水果篮子 最终季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210222-1/3466543edba61bd25dfab3ce0cbc011a.jpg",
-      "cover_url_git": "img/2021/04/水果篮子 最终季.jpg",
-      "play_time": "00:30",
-      "play_date": "3.13",
-      "play_nums": "13",
-      "tags": ["奇幻", "恋爱", "治愈", "乙女向", "爷青结"]
+      "anime_name": "通灵王（新作）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
+      "cover_url_git": "img/2021/04/通灵王（新作）.jpeg",
+      "play_time": "18:00",
+      "play_date": "4.8",
+      "play_nums": "52",
+      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
     },
     {
-      "anime_name": "奇巧计程车（ODD TAXI）",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692859653260_1320291455.jpg",
-      "cover_url_git": "img/2021/04/奇巧计程车（ODD TAXI）.jpg",
-      "play_time": "01:00",
-      "play_date": "4.6",
-      "play_nums": "13",
-      "tags": ["悬疑", "诡异", "动物角色"]
+      "anime_name": "SD高达世界 群英集",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/65ce4bf73546dcb9e52bb7ea7a356c68.jpeg",
+      "cover_url_git": "img/2021/04/SD高达世界 群英集.jpeg",
+      "play_time": "18:00",
+      "play_date": "4.8",
+      "play_nums": "",
+      "tags": ["高达", "机战", "科幻"]
     },
     {
-      "anime_name": "MARS RED（煋红）",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yunvy5ywj307i0al0ve.jpg",
-      "cover_url_git": "img/2021/04/MARS RED（煋红）.jpg",
-      "play_time": "02:00",
-      "play_date": "4.6",
+      "anime_name": "极主夫道",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692775516502_781766359.jpg",
+      "cover_url_git": "img/2021/04/极主夫道.jpg",
+      "play_time": "19:00",
+      "play_date": "4.8",
+      "play_nums": "5",
+      "tags": ["搞笑", "美食", "黑道", "家庭煮夫", "PPT"]
+    },
+    {
+      "anime_name": "哥斯拉：奇异点",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692775378701_1581175592.jpg",
+      "cover_url_git": "img/2021/04/哥斯拉：奇异点.jpg",
+      "play_time": "22:30",
+      "play_date": "3.31",
       "play_nums": "13",
-      "tags": ["奇幻", "战斗", "吸血鬼", "时代剧"]
+      "tags": ["科幻", "怪兽", "大灾祸", "机甲"]
+    },
+    {
+      "anime_name": "Fairy兰丸～让我来帮助你的心～",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gp4pe413onj30go0kuagq.jpg",
+      "cover_url_git": "img/2021/04/Fairy兰丸～让我来帮助你的心～.jpg",
+      "play_time": "23:00",
+      "play_date": "4.8",
+      "play_nums": "12",
+      "tags": ["美少男变身", "汝骚甚", "女性向"]
+    },
+    {
+      "anime_name": "佐贺偶像是传奇 第二季（卷土重来）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ae166cfadf5ef07262b6e7bce4b9e1c6.jpg",
+      "cover_url_git": "img/2021/04/佐贺偶像是传奇 第二季（卷土重来）.jpg",
+      "play_time": "23:45",
+      "play_date": "4.8",
+      "play_nums": "12",
+      "tags": ["搞笑", "偶像", "僵尸", "沙雕", "轻百合"]
+    },
+    {
+      "anime_name": "后空翻!!",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f399a1d5f7e6714245c7f5475ad26530.jpeg",
+      "cover_url_git": "img/2021/04/后空翻!!.jpeg",
+      "play_time": "23:55",
+      "play_date": "4.8",
+      "play_nums": "12",
+      "tags": ["运动", "青春", "体操", "竞技", "校园", "群像"]
+    },
+    {
+      "anime_name": "B：彼之初 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210319-1/76c6a7f30b774df2aeff2b7b9bfa4b59.jpg",
+      "cover_url_git": "img/2021/04/B：彼之初 第二季.jpg",
+      "play_time": "",
+      "play_date": "3.18",
+      "play_nums": "6",
+      "tags": ["奇幻", "战斗", "悬疑", "犯罪", "警匪"]
+    },
+    {
+      "anime_name": "武士弥助",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/c2db9aa915861fd8cc5627ef8a2f05bb.jpeg",
+      "cover_url_git": "img/2021/04/武士弥助.jpeg",
+      "play_time": "",
+      "play_date": "4.29",
+      "play_nums": "6",
+      "tags": ["武士", "16世纪日本"]
+    },
+    {
+      "anime_name": "伊甸（EDEN）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/33413813.jpg",
+      "cover_url_git": "img/2021/04/伊甸（EDEN）.jpg",
+      "play_time": "",
+      "play_date": "5.27",
+      "play_nums": "4",
+      "tags": ["科幻", "人机亲情"]
     }
   ],
   "周五": [
@@ -357,118 +469,6 @@
       "play_date": "4.10",
       "play_nums": "11",
       "tags": ["科幻", "战争", "悲壮", "反乌托邦"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "黑塔利亚 第七季（World★Stars）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yq9amtjej30ew0lln2p.jpg",
-      "cover_url_git": "img/2021/04/黑塔利亚 第七季（World★Stars）.jpg",
-      "play_time": "00:05",
-      "play_date": "4.1",
-      "play_nums": "12",
-      "tags": ["搞笑", "国拟人"]
-    },
-    {
-      "anime_name": "通灵王（新作）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
-      "cover_url_git": "img/2021/04/通灵王（新作）.jpeg",
-      "play_time": "18:00",
-      "play_date": "4.8",
-      "play_nums": "52",
-      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
-    },
-    {
-      "anime_name": "SD高达世界 群英集",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/65ce4bf73546dcb9e52bb7ea7a356c68.jpeg",
-      "cover_url_git": "img/2021/04/SD高达世界 群英集.jpeg",
-      "play_time": "18:00",
-      "play_date": "4.8",
-      "play_nums": "",
-      "tags": ["高达", "机战", "科幻"]
-    },
-    {
-      "anime_name": "极主夫道",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692775516502_781766359.jpg",
-      "cover_url_git": "img/2021/04/极主夫道.jpg",
-      "play_time": "19:00",
-      "play_date": "4.8",
-      "play_nums": "5",
-      "tags": ["搞笑", "美食", "黑道", "家庭煮夫", "PPT"]
-    },
-    {
-      "anime_name": "哥斯拉：奇异点",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692775378701_1581175592.jpg",
-      "cover_url_git": "img/2021/04/哥斯拉：奇异点.jpg",
-      "play_time": "22:30",
-      "play_date": "3.31",
-      "play_nums": "13",
-      "tags": ["科幻", "怪兽", "大灾祸", "机甲"]
-    },
-    {
-      "anime_name": "Fairy兰丸～让我来帮助你的心～",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gp4pe413onj30go0kuagq.jpg",
-      "cover_url_git": "img/2021/04/Fairy兰丸～让我来帮助你的心～.jpg",
-      "play_time": "23:00",
-      "play_date": "4.8",
-      "play_nums": "12",
-      "tags": ["美少男变身", "汝骚甚", "女性向"]
-    },
-    {
-      "anime_name": "佐贺偶像是传奇 第二季（卷土重来）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ae166cfadf5ef07262b6e7bce4b9e1c6.jpg",
-      "cover_url_git": "img/2021/04/佐贺偶像是传奇 第二季（卷土重来）.jpg",
-      "play_time": "23:45",
-      "play_date": "4.8",
-      "play_nums": "12",
-      "tags": ["搞笑", "偶像", "僵尸", "沙雕", "轻百合"]
-    },
-    {
-      "anime_name": "后空翻!!",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f399a1d5f7e6714245c7f5475ad26530.jpeg",
-      "cover_url_git": "img/2021/04/后空翻!!.jpeg",
-      "play_time": "23:55",
-      "play_date": "4.8",
-      "play_nums": "12",
-      "tags": ["运动", "青春", "体操", "竞技", "校园", "群像"]
-    },
-    {
-      "anime_name": "B：彼之初 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210319-1/76c6a7f30b774df2aeff2b7b9bfa4b59.jpg",
-      "cover_url_git": "img/2021/04/B：彼之初 第二季.jpg",
-      "play_time": "",
-      "play_date": "3.18",
-      "play_nums": "6",
-      "tags": ["奇幻", "战斗", "悬疑", "犯罪", "警匪"]
-    },
-    {
-      "anime_name": "武士弥助",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/c2db9aa915861fd8cc5627ef8a2f05bb.jpeg",
-      "cover_url_git": "img/2021/04/武士弥助.jpeg",
-      "play_time": "",
-      "play_date": "4.29",
-      "play_nums": "6",
-      "tags": ["武士", "16世纪日本"]
-    },
-    {
-      "anime_name": "伊甸（EDEN）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/33413813.jpg",
-      "cover_url_git": "img/2021/04/伊甸（EDEN）.jpg",
-      "play_time": "",
-      "play_date": "5.27",
-      "play_nums": "4",
-      "tags": ["科幻", "人机亲情"]
     }
   ],
   "周日": [

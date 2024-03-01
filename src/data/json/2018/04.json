@@ -81,78 +81,6 @@
       "tags": ["冒险", "寻宝", "北海道", "明治末期"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "立花馆恋爱三角铃",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/4ca0428d0ace554123f99c6fcd2bce79.jpg",
-      "cover_url_git": "img/2018/04/立花馆恋爱三角铃.jpg",
-      "play_time": "00:00",
-      "play_date": "4.4",
-      "play_nums": "12",
-      "tags": ["百合", "三角"]
-    },
-    {
-      "anime_name": "鲁邦三世 第五季",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/allimg/c160219/1455Y5L236110-2129B.jpg",
-      "cover_url_git": "img/2018/04/鲁邦三世 第五季.jpg",
-      "play_time": "00:29",
-      "play_date": "4.4",
-      "play_nums": "",
-      "tags": ["怪盗", "冒险", "悬疑", "法国"]
-    },
-    {
-      "anime_name": "鹿枫堂四色日和",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/3c01fe987c9191e6deee1fe6abd54dd1.jpg",
-      "cover_url_git": "img/2018/04/鹿枫堂四色日和.jpg",
-      "play_time": "00:30",
-      "play_date": "4.11",
-      "play_nums": "12",
-      "tags": ["日常", "美食", "和风", "治愈"]
-    },
-    {
-      "anime_name": "齐木楠雄的灾难 第二季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20180026.jpg",
-      "cover_url_git": "img/2018/04/齐木楠雄的灾难 第二季.jpg",
-      "play_time": "01:35",
-      "play_date": "在播",
-      "play_nums": "24",
-      "tags": ["校园", "喜剧", "异能", "另类日常"]
-    },
-    {
-      "anime_name": "三次元女友（3D彼女）",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201834920396204.jpg",
-      "cover_url_git": "img/2018/04/三次元女友（3D彼女）.jpg",
-      "play_time": "02:00",
-      "play_date": "4.4",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "喜剧", "狗粮"]
-    },
-    {
-      "anime_name": "ALICE or ALICE",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20180073.jpg",
-      "cover_url_git": "img/2018/04/ALICE or ALICE.jpg",
-      "play_time": "21:25",
-      "play_date": "4.4",
-      "play_nums": "12",
-      "tags": []
-    },
-    {
-      "anime_name": "重神机潘多拉",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/20181903598203452.jpg",
-      "cover_url_git": "img/2018/04/重神机潘多拉.jpg",
-      "play_time": "23:00",
-      "play_date": "3.28",
-      "play_nums": "26",
-      "tags": ["科幻", "机战", "重庆", "超级生物"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "道口时间（踏切时间）",
@@ -263,6 +191,150 @@
       "play_date": "4.3",
       "play_nums": "12",
       "tags": ["悬疑", "异能", "动作", "都市"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "立花馆恋爱三角铃",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/4ca0428d0ace554123f99c6fcd2bce79.jpg",
+      "cover_url_git": "img/2018/04/立花馆恋爱三角铃.jpg",
+      "play_time": "00:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["百合", "三角"]
+    },
+    {
+      "anime_name": "鲁邦三世 第五季",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/allimg/c160219/1455Y5L236110-2129B.jpg",
+      "cover_url_git": "img/2018/04/鲁邦三世 第五季.jpg",
+      "play_time": "00:29",
+      "play_date": "4.4",
+      "play_nums": "",
+      "tags": ["怪盗", "冒险", "悬疑", "法国"]
+    },
+    {
+      "anime_name": "鹿枫堂四色日和",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/3c01fe987c9191e6deee1fe6abd54dd1.jpg",
+      "cover_url_git": "img/2018/04/鹿枫堂四色日和.jpg",
+      "play_time": "00:30",
+      "play_date": "4.11",
+      "play_nums": "12",
+      "tags": ["日常", "美食", "和风", "治愈"]
+    },
+    {
+      "anime_name": "齐木楠雄的灾难 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20180026.jpg",
+      "cover_url_git": "img/2018/04/齐木楠雄的灾难 第二季.jpg",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["校园", "喜剧", "异能", "另类日常"]
+    },
+    {
+      "anime_name": "三次元女友（3D彼女）",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201834920396204.jpg",
+      "cover_url_git": "img/2018/04/三次元女友（3D彼女）.jpg",
+      "play_time": "02:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "喜剧", "狗粮"]
+    },
+    {
+      "anime_name": "ALICE or ALICE",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20180073.jpg",
+      "cover_url_git": "img/2018/04/ALICE or ALICE.jpg",
+      "play_time": "21:25",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "重神机潘多拉",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/20181903598203452.jpg",
+      "cover_url_git": "img/2018/04/重神机潘多拉.jpg",
+      "play_time": "23:00",
+      "play_date": "3.28",
+      "play_nums": "26",
+      "tags": ["科幻", "机战", "重庆", "超级生物"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "最后的休止符",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/b1d497ec0c5eecc50550e98d64651f14.jpg",
+      "cover_url_git": "img/2018/04/最后的休止符.jpg",
+      "play_time": "00:30",
+      "play_date": "4.12",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "动作", "喜剧"]
+    },
+    {
+      "anime_name": "Butlers～千年百年物语～",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2018041930492341.jpg",
+      "cover_url_git": "img/2018/04/Butlers～千年百年物语～.jpg",
+      "play_time": "00:35",
+      "play_date": "4.12",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "命运石之门 0",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20180112.jpg",
+      "cover_url_git": "img/2018/04/命运石之门 0.jpg",
+      "play_time": "02:00",
+      "play_date": "4.12",
+      "play_nums": "23",
+      "tags": ["科幻", "悬疑", "穿越", "妄想科学"]
+    },
+    {
+      "anime_name": "偶活学园Friends!",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
+      "cover_url_git": "img/2018/04/偶活学园Friends!.jpg",
+      "play_time": "19:30",
+      "play_date": "4.5",
+      "play_nums": "50",
+      "tags": []
+    },
+    {
+      "anime_name": "多田君不恋爱",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/7c3062ad109ca79920eec7ad3985c793.jpg",
+      "cover_url_git": "img/2018/04/多田君不恋爱.jpg",
+      "play_time": "21:30",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["青春", "恋爱", "日常", "大学"]
+    },
+    {
+      "anime_name": "Comic Girls",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/20956.jpg",
+      "cover_url_git": "img/2018/04/Comic Girls.jpg",
+      "play_time": "23:00",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["漫画家", "萌日常", "轻喜剧", "轻百合"]
+    },
+    {
+      "anime_name": "甘粕与玛索丹",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21237.jpg",
+      "cover_url_git": "img/2018/04/甘粕与玛索丹.jpg",
+      "play_time": "23:00",
+      "play_date": "4.12",
+      "play_nums": "",
+      "tags": ["科幻", "奇幻", "龙战机", "幻想生物"]
     }
   ],
   "周五": [
@@ -487,78 +559,6 @@
       "play_date": "4.7",
       "play_nums": "12",
       "tags": ["都市", "悬疑", "恋爱", "吸血鬼"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "最后的休止符",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/b1d497ec0c5eecc50550e98d64651f14.jpg",
-      "cover_url_git": "img/2018/04/最后的休止符.jpg",
-      "play_time": "00:30",
-      "play_date": "4.12",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "动作", "喜剧"]
-    },
-    {
-      "anime_name": "Butlers～千年百年物语～",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2018041930492341.jpg",
-      "cover_url_git": "img/2018/04/Butlers～千年百年物语～.jpg",
-      "play_time": "00:35",
-      "play_date": "4.12",
-      "play_nums": "12",
-      "tags": []
-    },
-    {
-      "anime_name": "命运石之门 0",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20180112.jpg",
-      "cover_url_git": "img/2018/04/命运石之门 0.jpg",
-      "play_time": "02:00",
-      "play_date": "4.12",
-      "play_nums": "23",
-      "tags": ["科幻", "悬疑", "穿越", "妄想科学"]
-    },
-    {
-      "anime_name": "偶活学园Friends!",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
-      "cover_url_git": "img/2018/04/偶活学园Friends!.jpg",
-      "play_time": "19:30",
-      "play_date": "4.5",
-      "play_nums": "50",
-      "tags": []
-    },
-    {
-      "anime_name": "多田君不恋爱",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/7c3062ad109ca79920eec7ad3985c793.jpg",
-      "cover_url_git": "img/2018/04/多田君不恋爱.jpg",
-      "play_time": "21:30",
-      "play_date": "4.5",
-      "play_nums": "12",
-      "tags": ["青春", "恋爱", "日常", "大学"]
-    },
-    {
-      "anime_name": "Comic Girls",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/20956.jpg",
-      "cover_url_git": "img/2018/04/Comic Girls.jpg",
-      "play_time": "23:00",
-      "play_date": "4.5",
-      "play_nums": "12",
-      "tags": ["漫画家", "萌日常", "轻喜剧", "轻百合"]
-    },
-    {
-      "anime_name": "甘粕与玛索丹",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21237.jpg",
-      "cover_url_git": "img/2018/04/甘粕与玛索丹.jpg",
-      "play_time": "23:00",
-      "play_date": "4.12",
-      "play_nums": "",
-      "tags": ["科幻", "奇幻", "龙战机", "幻想生物"]
     }
   ],
   "周日": [

@@ -71,58 +71,6 @@
       "tags": ["搞笑", "科幻", "太空"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "强袭魔女 501部队出发！",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/ff99917944f242c2a5823078c915595e.jpg",
-      "cover_url_git": "img/2019/04/强袭魔女 501部队出发！.jpg",
-      "play_time": "00:30",
-      "play_date": "4.10",
-      "play_nums": "12.0",
-      "tags": ["搞笑", "轻百合", "日常"]
-    },
-    {
-      "anime_name": "一拳超人 第二季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20190086.jpg",
-      "cover_url_git": "img/2019/04/一拳超人 第二季.jpg",
-      "play_time": "02:05",
-      "play_date": "4.10",
-      "play_nums": "12.0",
-      "tags": ["热血", "战斗", "搞笑", "奇幻"]
-    },
-    {
-      "anime_name": "盾之勇者成名录",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/cea6e864e0591b44ec5a66d11bf463f1.jpg",
-      "cover_url_git": "img/2019/04/盾之勇者成名录.jpg",
-      "play_time": "22:00",
-      "play_date": "在播",
-      "play_nums": "25.0",
-      "tags": ["奇幻", "异世界", "战斗"]
-    },
-    {
-      "anime_name": "贤惠仙狐小姐",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2019040193527351.jpg",
-      "cover_url_git": "img/2019/04/贤惠仙狐小姐.jpg",
-      "play_time": "23:00",
-      "play_date": "4.10",
-      "play_nums": "12.0",
-      "tags": ["治愈", "兽耳", "奇幻", "酸"]
-    },
-    {
-      "anime_name": "贤者之孙",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/bf8d376119ef72876082b4d4523cf7c0.jpg",
-      "cover_url_git": "img/2019/04/贤者之孙.jpg",
-      "play_time": "23:30",
-      "play_date": "4.10",
-      "play_nums": "12.0",
-      "tags": ["异世界", "奇幻", "打斗", "龙傲天"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "KING OF PRISM -Shiny Seven Stars-",
@@ -183,6 +131,110 @@
       "play_date": "4.9",
       "play_nums": "",
       "tags": ["异世界", "Q版", "沙雕", "搞笑", "4作品联动"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "强袭魔女 501部队出发！",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/ff99917944f242c2a5823078c915595e.jpg",
+      "cover_url_git": "img/2019/04/强袭魔女 501部队出发！.jpg",
+      "play_time": "00:30",
+      "play_date": "4.10",
+      "play_nums": "12.0",
+      "tags": ["搞笑", "轻百合", "日常"]
+    },
+    {
+      "anime_name": "一拳超人 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20190086.jpg",
+      "cover_url_git": "img/2019/04/一拳超人 第二季.jpg",
+      "play_time": "02:05",
+      "play_date": "4.10",
+      "play_nums": "12.0",
+      "tags": ["热血", "战斗", "搞笑", "奇幻"]
+    },
+    {
+      "anime_name": "盾之勇者成名录",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/cea6e864e0591b44ec5a66d11bf463f1.jpg",
+      "cover_url_git": "img/2019/04/盾之勇者成名录.jpg",
+      "play_time": "22:00",
+      "play_date": "在播",
+      "play_nums": "25.0",
+      "tags": ["奇幻", "异世界", "战斗"]
+    },
+    {
+      "anime_name": "贤惠仙狐小姐",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2019040193527351.jpg",
+      "cover_url_git": "img/2019/04/贤惠仙狐小姐.jpg",
+      "play_time": "23:00",
+      "play_date": "4.10",
+      "play_nums": "12.0",
+      "tags": ["治愈", "兽耳", "奇幻", "酸"]
+    },
+    {
+      "anime_name": "贤者之孙",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/bf8d376119ef72876082b4d4523cf7c0.jpg",
+      "cover_url_git": "img/2019/04/贤者之孙.jpg",
+      "play_time": "23:30",
+      "play_date": "4.10",
+      "play_nums": "12.0",
+      "tags": ["异世界", "奇幻", "打斗", "龙傲天"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "卡罗尔与星期二（CAROLE & TUESDAY）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21263.jpg",
+      "cover_url_git": "img/2019/04/卡罗尔与星期二（CAROLE & TUESDAY）.jpg",
+      "play_time": "04:30",
+      "play_date": "4.11",
+      "play_nums": "24.0",
+      "tags": ["音乐", "励志", "科幻"]
+    },
+    {
+      "anime_name": "偶像活动Friends～闪耀的宝石～",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/67e4169f3ab163eef2c378521d298522.jpg",
+      "cover_url_git": "img/2019/04/偶像活动Friends～闪耀的宝石～.jpg",
+      "play_time": "18:30",
+      "play_date": "4.4",
+      "play_nums": "26.0",
+      "tags": ["偶像", "轻百合"]
+    },
+    {
+      "anime_name": "八十龟酱观察日记",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/20190401985723890751.jpg",
+      "cover_url_git": "img/2019/04/八十龟酱观察日记.jpg",
+      "play_time": "18:53",
+      "play_date": "4.4",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "叛逆性百万亚瑟王 第二季",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/30335385.jpg",
+      "cover_url_git": "img/2019/04/叛逆性百万亚瑟王 第二季.jpg",
+      "play_time": "21:00",
+      "play_date": "4.4",
+      "play_nums": "11.0",
+      "tags": ["奇幻", "战斗", "恶搞", "搞笑"]
+    },
+    {
+      "anime_name": "魔偶马戏团",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
+      "cover_url_git": "img/2019/04/魔偶马戏团.jpg",
+      "play_time": "22:30",
+      "play_date": "在播",
+      "play_nums": "36.0",
+      "tags": ["冒险", "热血", "战斗", "奇幻"]
     }
   ],
   "周五": [
@@ -317,58 +369,6 @@
       "play_date": "4.6",
       "play_nums": "",
       "tags": ["后宫", "恋爱", "搞笑", "福利"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "卡罗尔与星期二（CAROLE & TUESDAY）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21263.jpg",
-      "cover_url_git": "img/2019/04/卡罗尔与星期二（CAROLE & TUESDAY）.jpg",
-      "play_time": "04:30",
-      "play_date": "4.11",
-      "play_nums": "24.0",
-      "tags": ["音乐", "励志", "科幻"]
-    },
-    {
-      "anime_name": "偶像活动Friends～闪耀的宝石～",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/67e4169f3ab163eef2c378521d298522.jpg",
-      "cover_url_git": "img/2019/04/偶像活动Friends～闪耀的宝石～.jpg",
-      "play_time": "18:30",
-      "play_date": "4.4",
-      "play_nums": "26.0",
-      "tags": ["偶像", "轻百合"]
-    },
-    {
-      "anime_name": "八十龟酱观察日记",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/20190401985723890751.jpg",
-      "cover_url_git": "img/2019/04/八十龟酱观察日记.jpg",
-      "play_time": "18:53",
-      "play_date": "4.4",
-      "play_nums": "",
-      "tags": []
-    },
-    {
-      "anime_name": "叛逆性百万亚瑟王 第二季",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/30335385.jpg",
-      "cover_url_git": "img/2019/04/叛逆性百万亚瑟王 第二季.jpg",
-      "play_time": "21:00",
-      "play_date": "4.4",
-      "play_nums": "11.0",
-      "tags": ["奇幻", "战斗", "恶搞", "搞笑"]
-    },
-    {
-      "anime_name": "魔偶马戏团",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
-      "cover_url_git": "img/2019/04/魔偶马戏团.jpg",
-      "play_time": "22:30",
-      "play_date": "在播",
-      "play_nums": "36.0",
-      "tags": ["冒险", "热血", "战斗", "奇幻"]
     }
   ],
   "周日": [

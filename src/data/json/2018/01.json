@@ -71,38 +71,6 @@
       "tags": ["忍者", "异能", "厮杀", "悲恋"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "齐木楠雄的灾难 第二季",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20180026.jpg",
-      "cover_url_git": "img/2018/01/齐木楠雄的灾难 第二季.jpg",
-      "play_time": "01:35",
-      "play_date": "1.17",
-      "play_nums": "24.0",
-      "tags": ["校园", "喜剧", "异能", "另类日常"]
-    },
-    {
-      "anime_name": "火影忍者 博人传之火影次世代",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017043929309474.jpg",
-      "cover_url_git": "img/2018/01/火影忍者 博人传之火影次世代.jpg",
-      "play_time": "17:55",
-      "play_date": "在播",
-      "play_nums": "51.0",
-      "tags": ["热血", "战斗", "冒险", "忍者世界"]
-    },
-    {
-      "anime_name": "废柴王子",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/5ba2370c5ac52742fe2c64d12977ec26.jpeg",
-      "cover_url_git": "img/2018/01/废柴王子.jpeg",
-      "play_time": "22:30",
-      "play_date": "1.10",
-      "play_nums": "12.0",
-      "tags": ["恋爱", "喜剧", "养成", "乙女向"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "阿松 第二季",
@@ -173,6 +141,90 @@
       "play_date": "1.9",
       "play_nums": "13.0",
       "tags": ["奇幻", "穿越", "骨傲天", "反派视角"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "齐木楠雄的灾难 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20180026.jpg",
+      "cover_url_git": "img/2018/01/齐木楠雄的灾难 第二季.jpg",
+      "play_time": "01:35",
+      "play_date": "1.17",
+      "play_nums": "24.0",
+      "tags": ["校园", "喜剧", "异能", "另类日常"]
+    },
+    {
+      "anime_name": "火影忍者 博人传之火影次世代",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017043929309474.jpg",
+      "cover_url_git": "img/2018/01/火影忍者 博人传之火影次世代.jpg",
+      "play_time": "17:55",
+      "play_date": "在播",
+      "play_nums": "51.0",
+      "tags": ["热血", "战斗", "冒险", "忍者世界"]
+    },
+    {
+      "anime_name": "废柴王子",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/5ba2370c5ac52742fe2c64d12977ec26.jpeg",
+      "cover_url_git": "img/2018/01/废柴王子.jpeg",
+      "play_time": "22:30",
+      "play_date": "1.10",
+      "play_nums": "12.0",
+      "tags": ["恋爱", "喜剧", "养成", "乙女向"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "紫罗兰永恒花园",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017483409878.jpg",
+      "cover_url_git": "img/2018/01/紫罗兰永恒花园.jpg",
+      "play_time": "00:00",
+      "play_date": "1.11",
+      "play_nums": "14.0",
+      "tags": ["成长", "爱情", "凄美", "战争回忆"]
+    },
+    {
+      "anime_name": "爱吃拉面的小泉同学",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/7ccd17aecdc0c8245bc68e0569e12d81.jpg",
+      "cover_url_git": "img/2018/01/爱吃拉面的小泉同学.jpg",
+      "play_time": "19:00",
+      "play_date": "1.4",
+      "play_nums": "12.0",
+      "tags": ["日常", "美食", "反差", "轻百合"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
+      "cover_url_git": "img/2018/01/偶像活动Stars 第二季.jpg",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50.0",
+      "tags": []
+    },
+    {
+      "anime_name": "原书·原书使",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21033.jpg",
+      "cover_url_git": "img/2018/01/原书·原书使.jpg",
+      "play_time": "22:30",
+      "play_date": "1.11",
+      "play_nums": "12.0",
+      "tags": ["童话", "校园", "轻百合", "魔法少女"]
+    },
+    {
+      "anime_name": "摇曳露营△",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/b2dae575713554840edbf2a903912a5a.jpg",
+      "cover_url_git": "img/2018/01/摇曳露营△.jpg",
+      "play_time": "23:30",
+      "play_date": "1.4",
+      "play_nums": "12.0",
+      "tags": ["日常", "治愈", "户外系", "轻百合", "芳文社"]
     }
   ],
   "周五": [
@@ -387,58 +439,6 @@
       "play_date": "1.6",
       "play_nums": "12.0",
       "tags": ["真·百合", "姐妹", "女校", "反差"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "紫罗兰永恒花园",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2017483409878.jpg",
-      "cover_url_git": "img/2018/01/紫罗兰永恒花园.jpg",
-      "play_time": "00:00",
-      "play_date": "1.11",
-      "play_nums": "14.0",
-      "tags": ["成长", "爱情", "凄美", "战争回忆"]
-    },
-    {
-      "anime_name": "爱吃拉面的小泉同学",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/7ccd17aecdc0c8245bc68e0569e12d81.jpg",
-      "cover_url_git": "img/2018/01/爱吃拉面的小泉同学.jpg",
-      "play_time": "19:00",
-      "play_date": "1.4",
-      "play_nums": "12.0",
-      "tags": ["日常", "美食", "反差", "轻百合"]
-    },
-    {
-      "anime_name": "偶像活动Stars 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
-      "cover_url_git": "img/2018/01/偶像活动Stars 第二季.jpg",
-      "play_time": "19:30",
-      "play_date": "在播",
-      "play_nums": "50.0",
-      "tags": []
-    },
-    {
-      "anime_name": "原书·原书使",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21033.jpg",
-      "cover_url_git": "img/2018/01/原书·原书使.jpg",
-      "play_time": "22:30",
-      "play_date": "1.11",
-      "play_nums": "12.0",
-      "tags": ["童话", "校园", "轻百合", "魔法少女"]
-    },
-    {
-      "anime_name": "摇曳露营△",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/b2dae575713554840edbf2a903912a5a.jpg",
-      "cover_url_git": "img/2018/01/摇曳露营△.jpg",
-      "play_time": "23:30",
-      "play_date": "1.4",
-      "play_nums": "12.0",
-      "tags": ["日常", "治愈", "户外系", "轻百合", "芳文社"]
     }
   ],
   "周日": [

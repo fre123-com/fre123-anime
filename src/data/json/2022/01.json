@@ -91,6 +91,48 @@
       "tags": ["热血", "战斗", "冒险", "废土"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "幻想三国志 -天元灵心记-",
+      "weekday": "周二",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693547329581_1037417997.jpg",
+      "cover_url_git": "img/2022/01/幻想三国志 -天元灵心记-.jpg",
+      "play_time": "01:00",
+      "play_date": "1.11",
+      "play_nums": "",
+      "tags": ["奇幻", "战斗", "鬼怪"]
+    },
+    {
+      "anime_name": "天才王子的赤字国家振兴术",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/6e6880degy1gozx7n1wyxj205i07ngm9.jpg",
+      "cover_url_git": "img/2022/01/天才王子的赤字国家振兴术.jpg",
+      "play_time": "22:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "搞笑", "治国", "恋爱"]
+    },
+    {
+      "anime_name": "与变成了异世界美少女的好友一起冒险",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/6272d0b976f24019ac4395a3304fde83.jpeg",
+      "cover_url_git": "img/2022/01/与变成了异世界美少女的好友一起冒险.jpeg",
+      "play_time": "23:00",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "搞笑", "穿越", "性转", "冒险"]
+    },
+    {
+      "anime_name": "自称贤者弟子的贤者",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gs0a7qwwdqj30ku0tjq93.jpg",
+      "cover_url_git": "img/2022/01/自称贤者弟子的贤者.jpg",
+      "play_time": "23:30",
+      "play_date": "1.11",
+      "play_nums": "12",
+      "tags": ["异世界", "穿越", "性转", "龙傲天"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "彩绿",
@@ -153,46 +195,76 @@
       "tags": ["热血", "奇斗", "异能", "冒险", "奇幻"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "幻想三国志 -天元灵心记-",
-      "weekday": "周二",
-      "cover_url": "https://unmc.cdn.bcebos.com/1693547329581_1037417997.jpg",
-      "cover_url_git": "img/2022/01/幻想三国志 -天元灵心记-.jpg",
+      "anime_name": "相爱相杀（杀爱）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35282326.jpg",
+      "cover_url_git": "img/2022/01/相爱相杀（杀爱）.jpg",
+      "play_time": "00:30",
+      "play_date": "1.13",
+      "play_nums": "12",
+      "tags": ["杀手", "恋爱", "黑帮", "悬疑"]
+    },
+    {
+      "anime_name": "东京24区（港澳台）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvqngkkqi4j615o1n01kx02.jpg",
+      "cover_url_git": "img/2022/01/东京24区（港澳台）.jpg",
       "play_time": "01:00",
-      "play_date": "1.11",
-      "play_nums": "",
-      "tags": ["奇幻", "战斗", "鬼怪"]
-    },
-    {
-      "anime_name": "天才王子的赤字国家振兴术",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/6e6880degy1gozx7n1wyxj205i07ngm9.jpg",
-      "cover_url_git": "img/2022/01/天才王子的赤字国家振兴术.jpg",
-      "play_time": "22:30",
-      "play_date": "1.11",
+      "play_date": "1.6",
       "play_nums": "12",
-      "tags": ["异世界", "搞笑", "治国", "恋爱"]
+      "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]
     },
     {
-      "anime_name": "与变成了异世界美少女的好友一起冒险",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/6272d0b976f24019ac4395a3304fde83.jpeg",
-      "cover_url_git": "img/2022/01/与变成了异世界美少女的好友一起冒险.jpeg",
+      "anime_name": "通灵王（新作）",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
+      "cover_url_git": "img/2022/01/通灵王（新作）.jpeg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "52",
+      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "小小世界",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/017eb1dd27995a3804154f8f57e4f4a6.jpeg",
+      "cover_url_git": "img/2022/01/小小世界.jpeg",
+      "play_time": "18:00",
+      "play_date": "1.13",
+      "play_nums": "10",
+      "tags": ["音乐", "Q版"]
+    },
+    {
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gun5bsacpjj607409wmy102.jpg",
+      "cover_url_git": "img/2022/01/BanG Dream! 少女乐团派对！☆PICO Fever!.jpg",
       "play_time": "23:00",
-      "play_date": "1.11",
-      "play_nums": "12",
-      "tags": ["异世界", "搞笑", "穿越", "性转", "冒险"]
+      "play_date": "连载中",
+      "play_nums": "26",
+      "tags": ["Q版", "搞笑", "乐队", "日常"]
     },
     {
-      "anime_name": "自称贤者弟子的贤者",
-      "weekday": "周二",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gs0a7qwwdqj30ku0tjq93.jpg",
-      "cover_url_git": "img/2022/01/自称贤者弟子的贤者.jpg",
+      "anime_name": "最游记RELOAD -ZEROIN-",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1693464934740_429889498.jpg",
+      "cover_url_git": "img/2022/01/最游记RELOAD -ZEROIN-.jpg",
+      "play_time": "23:00",
+      "play_date": "1.6",
+      "play_nums": "13",
+      "tags": ["奇幻", "热血", "架空", "冒险"]
+    },
+    {
+      "anime_name": "平凡职业造就世界最强 第二季",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/35074694.jpg",
+      "cover_url_git": "img/2022/01/平凡职业造就世界最强 第二季.jpg",
       "play_time": "23:30",
-      "play_date": "1.11",
+      "play_date": "1.13",
       "play_nums": "12",
-      "tags": ["异世界", "穿越", "性转", "龙傲天"]
+      "tags": ["奇幻", "冒险", "战斗", "后宫", "穿越", "龙傲天"]
     }
   ],
   "周五": [
@@ -387,78 +459,6 @@
       "play_date": "1.1",
       "play_nums": "1",
       "tags": ["科幻", "异能", "兄妹", "回忆", "前传"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "相爱相杀（杀爱）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35282326.jpg",
-      "cover_url_git": "img/2022/01/相爱相杀（杀爱）.jpg",
-      "play_time": "00:30",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["杀手", "恋爱", "黑帮", "悬疑"]
-    },
-    {
-      "anime_name": "东京24区（港澳台）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1gvqngkkqi4j615o1n01kx02.jpg",
-      "cover_url_git": "img/2022/01/东京24区（港澳台）.jpg",
-      "play_time": "01:00",
-      "play_date": "1.6",
-      "play_nums": "12",
-      "tags": ["奇幻", "战斗", "悬疑", "英雄剧"]
-    },
-    {
-      "anime_name": "通灵王（新作）",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/51099d295722c8364ccc8048c82572a1.jpeg",
-      "cover_url_git": "img/2022/01/通灵王（新作）.jpeg",
-      "play_time": "18:00",
-      "play_date": "连载中",
-      "play_nums": "52",
-      "tags": ["奇幻", "少年", "热血", "战斗", "冒险"]
-    },
-    {
-      "anime_name": "小小世界",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/017eb1dd27995a3804154f8f57e4f4a6.jpeg",
-      "cover_url_git": "img/2022/01/小小世界.jpeg",
-      "play_time": "18:00",
-      "play_date": "1.13",
-      "play_nums": "10",
-      "tags": ["音乐", "Q版"]
-    },
-    {
-      "anime_name": "BanG Dream! 少女乐团派对！☆PICO Fever!",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1gun5bsacpjj607409wmy102.jpg",
-      "cover_url_git": "img/2022/01/BanG Dream! 少女乐团派对！☆PICO Fever!.jpg",
-      "play_time": "23:00",
-      "play_date": "连载中",
-      "play_nums": "26",
-      "tags": ["Q版", "搞笑", "乐队", "日常"]
-    },
-    {
-      "anime_name": "最游记RELOAD -ZEROIN-",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1693464934740_429889498.jpg",
-      "cover_url_git": "img/2022/01/最游记RELOAD -ZEROIN-.jpg",
-      "play_time": "23:00",
-      "play_date": "1.6",
-      "play_nums": "13",
-      "tags": ["奇幻", "热血", "架空", "冒险"]
-    },
-    {
-      "anime_name": "平凡职业造就世界最强 第二季",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/35074694.jpg",
-      "cover_url_git": "img/2022/01/平凡职业造就世界最强 第二季.jpg",
-      "play_time": "23:30",
-      "play_date": "1.13",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "后宫", "穿越", "龙傲天"]
     }
   ],
   "周日": [

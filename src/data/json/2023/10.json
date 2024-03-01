@@ -71,98 +71,6 @@
       "tags": ["校园", "社团", "日常", "音乐", "男团"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "勇者赫鲁库",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/35770923.jpg",
-      "cover_url_git": "img/2023/10/勇者赫鲁库.jpg",
-      "play_time": "01:29",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["奇幻", "搞笑", "冒险", "王道", "吐槽"]
-    },
-    {
-      "anime_name": "圣女魔力无所不能 第二季",
-      "weekday": "周三",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/121c06ff7ca5b3b89ad70699c4e228b9.jpeg",
-      "cover_url_git": "img/2023/10/圣女魔力无所不能 第二季.jpeg",
-      "play_time": "18:00",
-      "play_date": "11.1",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "异世界", "穿越", "凤傲天"]
-    },
-    {
-      "anime_name": "巨兽防卫企业（BULLBUSTER）",
-      "weekday": "周三",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hijjjbz9guj305i07naaj.jpg",
-      "cover_url_git": "img/2023/10/巨兽防卫企业（BULLBUSTER）.jpg",
-      "play_time": "21:00",
-      "play_date": "10.4",
-      "play_nums": "12",
-      "tags": ["科幻", "机战", "巨兽", "职场"]
-    },
-    {
-      "anime_name": "捡走被人悔婚的千金，教会她坏坏的幸福生活",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgm05jasx6j30ku0ucwk4.jpg",
-      "cover_url_git": "img/2023/10/捡走被人悔婚的千金，教会她坏坏的幸福生活.jpg",
-      "play_time": "21:00",
-      "play_date": "11.1",
-      "play_nums": "12",
-      "tags": ["奇幻", "日常", "搞笑温情", "甜度爆表"]
-    },
-    {
-      "anime_name": "想要成为影之实力者！ 第二季",
-      "weekday": "周三",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hirq3bfkh7j305i07nmxg.jpg",
-      "cover_url_git": "img/2023/10/想要成为影之实力者！ 第二季.jpg",
-      "play_time": "22:30",
-      "play_date": "10.4",
-      "play_nums": "12",
-      "tags": ["奇幻", "战斗", "搞笑", "装逼", "异世界", "龙傲天"]
-    },
-    {
-      "anime_name": "赛马娘 第三季",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/36156834.jpg",
-      "cover_url_git": "img/2023/10/赛马娘 第三季.jpg",
-      "play_time": "23:30",
-      "play_date": "11.1",
-      "play_nums": "13",
-      "tags": ["校园", "运动", "竞技", "成长", "赛马拟人"]
-    },
-    {
-      "anime_name": "神选（KAMIERABI）",
-      "weekday": "周三",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20230194.jpg",
-      "cover_url_git": "img/2023/10/神选（KAMIERABI）.jpg",
-      "play_time": "23:55",
-      "play_date": "10.4",
-      "play_nums": "13",
-      "tags": ["异能战斗", "大逃杀"]
-    },
-    {
-      "anime_name": "勇者赫鲁库",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/35770923.jpg",
-      "cover_url_git": "img/2023/10/勇者赫鲁库.jpg",
-      "play_time": "01:29",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["奇幻", "冒险", "搞笑", "王道"]
-    },
-    {
-      "anime_name": "捡走被人悔婚的千金，教会她坏坏的幸福生活",
-      "weekday": "周三",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgm05jasx6j30ku0ucwk4.jpg",
-      "cover_url_git": "img/2023/10/捡走被人悔婚的千金，教会她坏坏的幸福生活.jpg",
-      "play_time": "21:00",
-      "play_date": "10.4",
-      "play_nums": "12",
-      "tags": ["奇幻", "日常", "搞笑温情", "甜度爆表"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "腼腆英雄（SHY）",
@@ -273,6 +181,240 @@
       "play_date": "11.28",
       "play_nums": "",
       "tags": ["奇幻", "超自然"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "勇者赫鲁库",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35770923.jpg",
+      "cover_url_git": "img/2023/10/勇者赫鲁库.jpg",
+      "play_time": "01:29",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "搞笑", "冒险", "王道", "吐槽"]
+    },
+    {
+      "anime_name": "圣女魔力无所不能 第二季",
+      "weekday": "周三",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/121c06ff7ca5b3b89ad70699c4e228b9.jpeg",
+      "cover_url_git": "img/2023/10/圣女魔力无所不能 第二季.jpeg",
+      "play_time": "18:00",
+      "play_date": "11.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "异世界", "穿越", "凤傲天"]
+    },
+    {
+      "anime_name": "巨兽防卫企业（BULLBUSTER）",
+      "weekday": "周三",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hijjjbz9guj305i07naaj.jpg",
+      "cover_url_git": "img/2023/10/巨兽防卫企业（BULLBUSTER）.jpg",
+      "play_time": "21:00",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["科幻", "机战", "巨兽", "职场"]
+    },
+    {
+      "anime_name": "捡走被人悔婚的千金，教会她坏坏的幸福生活",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgm05jasx6j30ku0ucwk4.jpg",
+      "cover_url_git": "img/2023/10/捡走被人悔婚的千金，教会她坏坏的幸福生活.jpg",
+      "play_time": "21:00",
+      "play_date": "11.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "日常", "搞笑温情", "甜度爆表"]
+    },
+    {
+      "anime_name": "想要成为影之实力者！ 第二季",
+      "weekday": "周三",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hirq3bfkh7j305i07nmxg.jpg",
+      "cover_url_git": "img/2023/10/想要成为影之实力者！ 第二季.jpg",
+      "play_time": "22:30",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "搞笑", "装逼", "异世界", "龙傲天"]
+    },
+    {
+      "anime_name": "赛马娘 第三季",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/36156834.jpg",
+      "cover_url_git": "img/2023/10/赛马娘 第三季.jpg",
+      "play_time": "23:30",
+      "play_date": "11.1",
+      "play_nums": "13",
+      "tags": ["校园", "运动", "竞技", "成长", "赛马拟人"]
+    },
+    {
+      "anime_name": "神选（KAMIERABI）",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230194.jpg",
+      "cover_url_git": "img/2023/10/神选（KAMIERABI）.jpg",
+      "play_time": "23:55",
+      "play_date": "10.4",
+      "play_nums": "13",
+      "tags": ["异能战斗", "大逃杀"]
+    },
+    {
+      "anime_name": "勇者赫鲁库",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/35770923.jpg",
+      "cover_url_git": "img/2023/10/勇者赫鲁库.jpg",
+      "play_time": "01:29",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "冒险", "搞笑", "王道"]
+    },
+    {
+      "anime_name": "捡走被人悔婚的千金，教会她坏坏的幸福生活",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgm05jasx6j30ku0ucwk4.jpg",
+      "cover_url_git": "img/2023/10/捡走被人悔婚的千金，教会她坏坏的幸福生活.jpg",
+      "play_time": "21:00",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "日常", "搞笑温情", "甜度爆表"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "绊之Allele 第二季",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1hhv3b6rxa5j207i0amjsq.jpg",
+      "cover_url_git": "img/2023/10/绊之Allele 第二季.jpg",
+      "play_time": "00:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["校园", "虚拟偶像", "科幻", "音乐"]
+    },
+    {
+      "anime_name": "16bit的感动 ANOTHER LAYER",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hijqhwoywvj305i07n74p.jpg",
+      "cover_url_git": "img/2023/10/16bit的感动 ANOTHER LAYER.jpg",
+      "play_time": "01:00",
+      "play_date": "10.5",
+      "play_nums": "13",
+      "tags": ["Galgame业界", "职场", "穿越", "搞笑"]
+    },
+    {
+      "anime_name": "咒术回战 第二季",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
+      "cover_url_git": "img/2023/10/咒术回战 第二季.jpg",
+      "play_time": "20:00",
+      "play_date": "连载中",
+      "play_nums": "23",
+      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
+    },
+    {
+      "anime_name": "浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1691459049382_465109914.jpg",
+      "cover_url_git": "img/2023/10/浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）.jpg",
+      "play_time": "21:00",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["热血", "战斗", "武士", "时代剧"]
+    },
+    {
+      "anime_name": "冒险者女儿到大都市当了S级冒险者",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1692166837419_1445063584.jpg",
+      "cover_url_git": "img/2023/10/冒险者女儿到大都市当了S级冒险者.jpg",
+      "play_time": "22:00",
+      "play_date": "11.2",
+      "play_nums": "13",
+      "tags": ["奇幻", "冒险", "日常", "亲情", "养女儿"]
+    },
+    {
+      "anime_name": "魔法使的新娘 第二季 后半篇（魔法师的爱徒）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
+      "cover_url_git": "img/2023/10/魔法使的新娘 第二季 后半篇（魔法师的爱徒）.jpg",
+      "play_time": "22:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
+    },
+    {
+      "anime_name": "仙魔大战（圣魔大战）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36415579.jpg",
+      "cover_url_git": "img/2023/10/仙魔大战（圣魔大战）.jpg",
+      "play_time": "23:30",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "天使与恶魔"]
+    },
+    {
+      "anime_name": "拳愿阿修罗 第二季",
+      "weekday": "周四",
+      "cover_url": "https://unmc.cdn.bcebos.com/1694500798974_85588980.jpg",
+      "cover_url_git": "img/2023/10/拳愿阿修罗 第二季.jpg",
+      "play_time": "",
+      "play_date": "9.21",
+      "play_nums": "12",
+      "tags": ["格斗", "竞技", "热血"]
+    },
+    {
+      "anime_name": "冥王（PLUTO）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1hgzsqb1cbzj207i0b3abd.jpg",
+      "cover_url_git": "img/2023/10/冥王（PLUTO）.jpg",
+      "play_time": "",
+      "play_date": "10.26",
+      "play_nums": "8",
+      "tags": ["科幻", "悬疑", "战斗", "侦探", "机器人"]
+    },
+    {
+      "anime_name": "鬼武者",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36105233.jpg",
+      "cover_url_git": "img/2023/10/鬼武者.jpg",
+      "play_time": "",
+      "play_date": "11.2",
+      "play_nums": "8",
+      "tags": ["奇幻", "战斗", "武士"]
+    },
+    {
+      "anime_name": "恶魔小子（恶魔君）",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgf7n4wqqvj30u011ie3r.jpg",
+      "cover_url_git": "img/2023/10/恶魔小子（恶魔君）.jpg",
+      "play_time": "",
+      "play_date": "11.9",
+      "play_nums": "12",
+      "tags": ["悬疑", "侦探", "冒险", "超自然", "文艺复兴"]
+    },
+    {
+      "anime_name": "想当冒险者前往都市的女儿成为S级",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hf3x5tjldsj30nl0xc0y7.jpg",
+      "cover_url_git": "img/2023/10/想当冒险者前往都市的女儿成为S级.jpg",
+      "play_time": "22:00",
+      "play_date": "9.28",
+      "play_nums": "13",
+      "tags": ["奇幻", "冒险", "日常", "亲情", "养女儿"]
+    },
+    {
+      "anime_name": "魔法使的新娘 第二季 后半篇（魔法师的爱徒）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
+      "cover_url_git": "img/2023/10/魔法使的新娘 第二季 后半篇（魔法师的爱徒）.jpg",
+      "play_time": "23:00",
+      "play_date": "10.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
+    },
+    {
+      "anime_name": "咒术回战 第二季",
+      "weekday": "周四",
+      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
+      "cover_url_git": "img/2023/10/咒术回战 第二季.jpg",
+      "play_time": "23:56",
+      "play_date": "连载中",
+      "play_nums": "23",
+      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
     }
   ],
   "周五": [
@@ -547,148 +689,6 @@
       "play_date": "9.2",
       "play_nums": "2",
       "tags": ["恋爱", "校园", "搞笑", "日常", "青春", "党争"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "绊之Allele 第二季",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1hhv3b6rxa5j207i0amjsq.jpg",
-      "cover_url_git": "img/2023/10/绊之Allele 第二季.jpg",
-      "play_time": "00:00",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["校园", "虚拟偶像", "科幻", "音乐"]
-    },
-    {
-      "anime_name": "16bit的感动 ANOTHER LAYER",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hijqhwoywvj305i07n74p.jpg",
-      "cover_url_git": "img/2023/10/16bit的感动 ANOTHER LAYER.jpg",
-      "play_time": "01:00",
-      "play_date": "10.5",
-      "play_nums": "13",
-      "tags": ["Galgame业界", "职场", "穿越", "搞笑"]
-    },
-    {
-      "anime_name": "咒术回战 第二季",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
-      "cover_url_git": "img/2023/10/咒术回战 第二季.jpg",
-      "play_time": "20:00",
-      "play_date": "连载中",
-      "play_nums": "23",
-      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
-    },
-    {
-      "anime_name": "浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1691459049382_465109914.jpg",
-      "cover_url_git": "img/2023/10/浪客剑心 -明治剑客浪漫谭-（神剑闯江湖）.jpg",
-      "play_time": "21:00",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["热血", "战斗", "武士", "时代剧"]
-    },
-    {
-      "anime_name": "冒险者女儿到大都市当了S级冒险者",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1692166837419_1445063584.jpg",
-      "cover_url_git": "img/2023/10/冒险者女儿到大都市当了S级冒险者.jpg",
-      "play_time": "22:00",
-      "play_date": "11.2",
-      "play_nums": "13",
-      "tags": ["奇幻", "冒险", "日常", "亲情", "养女儿"]
-    },
-    {
-      "anime_name": "魔法使的新娘 第二季 后半篇（魔法师的爱徒）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
-      "cover_url_git": "img/2023/10/魔法使的新娘 第二季 后半篇（魔法师的爱徒）.jpg",
-      "play_time": "22:00",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
-    },
-    {
-      "anime_name": "仙魔大战（圣魔大战）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36415579.jpg",
-      "cover_url_git": "img/2023/10/仙魔大战（圣魔大战）.jpg",
-      "play_time": "23:30",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["奇幻", "冒险", "战斗", "天使与恶魔"]
-    },
-    {
-      "anime_name": "拳愿阿修罗 第二季",
-      "weekday": "周四",
-      "cover_url": "https://unmc.cdn.bcebos.com/1694500798974_85588980.jpg",
-      "cover_url_git": "img/2023/10/拳愿阿修罗 第二季.jpg",
-      "play_time": "",
-      "play_date": "9.21",
-      "play_nums": "12",
-      "tags": ["格斗", "竞技", "热血"]
-    },
-    {
-      "anime_name": "冥王（PLUTO）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1hgzsqb1cbzj207i0b3abd.jpg",
-      "cover_url_git": "img/2023/10/冥王（PLUTO）.jpg",
-      "play_time": "",
-      "play_date": "10.26",
-      "play_nums": "8",
-      "tags": ["科幻", "悬疑", "战斗", "侦探", "机器人"]
-    },
-    {
-      "anime_name": "鬼武者",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36105233.jpg",
-      "cover_url_git": "img/2023/10/鬼武者.jpg",
-      "play_time": "",
-      "play_date": "11.2",
-      "play_nums": "8",
-      "tags": ["奇幻", "战斗", "武士"]
-    },
-    {
-      "anime_name": "恶魔小子（恶魔君）",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgf7n4wqqvj30u011ie3r.jpg",
-      "cover_url_git": "img/2023/10/恶魔小子（恶魔君）.jpg",
-      "play_time": "",
-      "play_date": "11.9",
-      "play_nums": "12",
-      "tags": ["悬疑", "侦探", "冒险", "超自然", "文艺复兴"]
-    },
-    {
-      "anime_name": "想当冒险者前往都市的女儿成为S级",
-      "weekday": "周四",
-      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hf3x5tjldsj30nl0xc0y7.jpg",
-      "cover_url_git": "img/2023/10/想当冒险者前往都市的女儿成为S级.jpg",
-      "play_time": "22:00",
-      "play_date": "9.28",
-      "play_nums": "13",
-      "tags": ["奇幻", "冒险", "日常", "亲情", "养女儿"]
-    },
-    {
-      "anime_name": "魔法使的新娘 第二季 后半篇（魔法师的爱徒）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/36086066.jpg",
-      "cover_url_git": "img/2023/10/魔法使的新娘 第二季 后半篇（魔法师的爱徒）.jpg",
-      "play_time": "23:00",
-      "play_date": "10.5",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "治愈", "魔法", "人外"]
-    },
-    {
-      "anime_name": "咒术回战 第二季",
-      "weekday": "周四",
-      "cover_url": "//fc.sinaimg.cn/large/008vY4jCgy1hfmbfazy5hj305i07njro.jpg",
-      "cover_url_git": "img/2023/10/咒术回战 第二季.jpg",
-      "play_time": "23:56",
-      "play_date": "连载中",
-      "play_nums": "23",
-      "tags": ["奇幻", "热血", "战斗", "校园", "妖魔"]
     }
   ],
   "周日": [

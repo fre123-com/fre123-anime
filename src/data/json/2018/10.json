@@ -91,68 +91,6 @@
       "tags": ["冒险", "美食", "战斗"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "嫁给非人类",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201810129420939056234.jpg",
-      "cover_url_git": "img/2018/10/嫁给非人类.jpg",
-      "play_time": "00:00",
-      "play_date": "10.3",
-      "play_nums": "12",
-      "tags": ["治愈", "人外"]
-    },
-    {
-      "anime_name": "为我而生 CONCEPTION",
-      "weekday": "周三",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2018102935092390612.jpg",
-      "cover_url_git": "img/2018/10/为我而生 CONCEPTION.jpg",
-      "play_time": "00:30",
-      "play_date": "10.10",
-      "play_nums": "12",
-      "tags": ["冒险", "魔法", "后宫", "怀孕"]
-    },
-    {
-      "anime_name": "强风吹拂",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/21386.jpg",
-      "cover_url_git": "img/2018/10/强风吹拂.jpg",
-      "play_time": "01:29",
-      "play_date": "10.3",
-      "play_nums": "23",
-      "tags": ["青春", "体育", "竞技"]
-    },
-    {
-      "anime_name": "中间管理录利根川（一日外出录班长）",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/6fe20df2e9caabae089a231d83c7d00a.jpg",
-      "cover_url_git": "img/2018/10/中间管理录利根川（一日外出录班长）.jpg",
-      "play_time": "04:30",
-      "play_date": "在播",
-      "play_nums": "24",
-      "tags": ["赌博", "搞笑", "前传"]
-    },
-    {
-      "anime_name": "RErideD -跨越时空的德里达-",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/21290.jpg",
-      "cover_url_git": "img/2018/10/RErideD -跨越时空的德里达-.jpg",
-      "play_time": "22:00",
-      "play_date": "10.3",
-      "play_nums": "12",
-      "tags": ["科幻", "冒险", "穿越"]
-    },
-    {
-      "anime_name": "我喜欢的是小说里的你",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gtgd2ydv3ej30830ac759.jpg",
-      "cover_url_git": "img/2018/10/我喜欢的是小说里的你.jpg",
-      "play_time": "22:30",
-      "play_date": "10.10",
-      "play_nums": "10",
-      "tags": ["恋爱", "喜剧", "妹控", "兄控"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "关于我转生变成史莱姆这档事",
@@ -233,6 +171,150 @@
       "play_date": "10.9",
       "play_nums": "12",
       "tags": ["战斗", "奇幻", "猎奇"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "嫁给非人类",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201810129420939056234.jpg",
+      "cover_url_git": "img/2018/10/嫁给非人类.jpg",
+      "play_time": "00:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["治愈", "人外"]
+    },
+    {
+      "anime_name": "为我而生 CONCEPTION",
+      "weekday": "周三",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/2018102935092390612.jpg",
+      "cover_url_git": "img/2018/10/为我而生 CONCEPTION.jpg",
+      "play_time": "00:30",
+      "play_date": "10.10",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "后宫", "怀孕"]
+    },
+    {
+      "anime_name": "强风吹拂",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/21386.jpg",
+      "cover_url_git": "img/2018/10/强风吹拂.jpg",
+      "play_time": "01:29",
+      "play_date": "10.3",
+      "play_nums": "23",
+      "tags": ["青春", "体育", "竞技"]
+    },
+    {
+      "anime_name": "中间管理录利根川（一日外出录班长）",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/6fe20df2e9caabae089a231d83c7d00a.jpg",
+      "cover_url_git": "img/2018/10/中间管理录利根川（一日外出录班长）.jpg",
+      "play_time": "04:30",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["赌博", "搞笑", "前传"]
+    },
+    {
+      "anime_name": "RErideD -跨越时空的德里达-",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/21290.jpg",
+      "cover_url_git": "img/2018/10/RErideD -跨越时空的德里达-.jpg",
+      "play_time": "22:00",
+      "play_date": "10.3",
+      "play_nums": "12",
+      "tags": ["科幻", "冒险", "穿越"]
+    },
+    {
+      "anime_name": "我喜欢的是小说里的你",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gtgd2ydv3ej30830ac759.jpg",
+      "cover_url_git": "img/2018/10/我喜欢的是小说里的你.jpg",
+      "play_time": "22:30",
+      "play_date": "10.10",
+      "play_nums": "10",
+      "tags": ["恋爱", "喜剧", "妹控", "兄控"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "天空与海洋之间",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/87fe0da40abd86b1c7a23a2208cc75c9.jpg",
+      "cover_url_git": "img/2018/10/天空与海洋之间.jpg",
+      "play_time": "00:00",
+      "play_date": "10.4",
+      "play_nums": "12",
+      "tags": ["少女", "励志", "宇宙钓鱼", "科幻"]
+    },
+    {
+      "anime_name": "青春猪头少年不会梦到兔女郎学姐",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/d6286e3e37291cc8cee241e8cd30c89e.jpg",
+      "cover_url_git": "img/2018/10/青春猪头少年不会梦到兔女郎学姐.jpg",
+      "play_time": "02:50",
+      "play_date": "10.4",
+      "play_nums": "13",
+      "tags": ["青春", "恋爱", "校园", "奇幻"]
+    },
+    {
+      "anime_name": "只要贝尔哲布布大小姐喜欢就好",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/d470f350ab894685d91b49e0f0fb39b8.jpeg",
+      "cover_url_git": "img/2018/10/只要贝尔哲布布大小姐喜欢就好.jpeg",
+      "play_time": "02:50",
+      "play_date": "10.11",
+      "play_nums": "12",
+      "tags": ["日常", "搞笑", "萌系", "恋爱"]
+    },
+    {
+      "anime_name": "偶活学园Friends!",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
+      "cover_url_git": "img/2018/10/偶活学园Friends!.jpg",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": ["偶像", "百合"]
+    },
+    {
+      "anime_name": "叛逆性百万亚瑟王",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201810193059252.jpg",
+      "cover_url_git": "img/2018/10/叛逆性百万亚瑟王.jpg",
+      "play_time": "21:00",
+      "play_date": "10.25",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "奇幻"]
+    },
+    {
+      "anime_name": "BanG Dream! 少女乐团派对！☆PICO",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/7212b741f8ca1320a4bb620fcc40078b.jpg",
+      "cover_url_git": "img/2018/10/BanG Dream! 少女乐团派对！☆PICO.jpg",
+      "play_time": "22:00",
+      "play_date": "在播",
+      "play_nums": "半年",
+      "tags": ["Q版", "萌系", "乐队", "偶像"]
+    },
+    {
+      "anime_name": "魔偶马戏团",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
+      "cover_url_git": "img/2018/10/魔偶马戏团.jpg",
+      "play_time": "22:30",
+      "play_date": "10.10",
+      "play_nums": "36",
+      "tags": ["冒险", "热血", "打斗"]
+    },
+    {
+      "anime_name": "梅露可物语 -无精打采的少年与瓶中少女-",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/88d48bf6eea9b664cd7f08becd40948a.jpg",
+      "cover_url_git": "img/2018/10/梅露可物语 -无精打采的少年与瓶中少女-.jpg",
+      "play_time": "22:30",
+      "play_date": "10.11",
+      "play_nums": "12",
+      "tags": ["冒险", "魔法", "奇幻"]
     }
   ],
   "周五": [
@@ -457,88 +539,6 @@
       "play_date": "10.6",
       "play_nums": "21",
       "tags": ["冒险", "热血", "魔法", "日法合作"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "天空与海洋之间",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/87fe0da40abd86b1c7a23a2208cc75c9.jpg",
-      "cover_url_git": "img/2018/10/天空与海洋之间.jpg",
-      "play_time": "00:00",
-      "play_date": "10.4",
-      "play_nums": "12",
-      "tags": ["少女", "励志", "宇宙钓鱼", "科幻"]
-    },
-    {
-      "anime_name": "青春猪头少年不会梦到兔女郎学姐",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/d6286e3e37291cc8cee241e8cd30c89e.jpg",
-      "cover_url_git": "img/2018/10/青春猪头少年不会梦到兔女郎学姐.jpg",
-      "play_time": "02:50",
-      "play_date": "10.4",
-      "play_nums": "13",
-      "tags": ["青春", "恋爱", "校园", "奇幻"]
-    },
-    {
-      "anime_name": "只要贝尔哲布布大小姐喜欢就好",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/d470f350ab894685d91b49e0f0fb39b8.jpeg",
-      "cover_url_git": "img/2018/10/只要贝尔哲布布大小姐喜欢就好.jpeg",
-      "play_time": "02:50",
-      "play_date": "10.11",
-      "play_nums": "12",
-      "tags": ["日常", "搞笑", "萌系", "恋爱"]
-    },
-    {
-      "anime_name": "偶活学园Friends!",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
-      "cover_url_git": "img/2018/10/偶活学园Friends!.jpg",
-      "play_time": "19:30",
-      "play_date": "在播",
-      "play_nums": "50",
-      "tags": ["偶像", "百合"]
-    },
-    {
-      "anime_name": "叛逆性百万亚瑟王",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/imgcover/cover/201810193059252.jpg",
-      "cover_url_git": "img/2018/10/叛逆性百万亚瑟王.jpg",
-      "play_time": "21:00",
-      "play_date": "10.25",
-      "play_nums": "12",
-      "tags": ["冒险", "魔法", "奇幻"]
-    },
-    {
-      "anime_name": "BanG Dream! 少女乐团派对！☆PICO",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/7212b741f8ca1320a4bb620fcc40078b.jpg",
-      "cover_url_git": "img/2018/10/BanG Dream! 少女乐团派对！☆PICO.jpg",
-      "play_time": "22:00",
-      "play_date": "在播",
-      "play_nums": "半年",
-      "tags": ["Q版", "萌系", "乐队", "偶像"]
-    },
-    {
-      "anime_name": "魔偶马戏团",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
-      "cover_url_git": "img/2018/10/魔偶马戏团.jpg",
-      "play_time": "22:30",
-      "play_date": "10.10",
-      "play_nums": "36",
-      "tags": ["冒险", "热血", "打斗"]
-    },
-    {
-      "anime_name": "梅露可物语 -无精打采的少年与瓶中少女-",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/88d48bf6eea9b664cd7f08becd40948a.jpg",
-      "cover_url_git": "img/2018/10/梅露可物语 -无精打采的少年与瓶中少女-.jpg",
-      "play_time": "22:30",
-      "play_date": "10.11",
-      "play_nums": "12",
-      "tags": ["冒险", "魔法", "奇幻"]
     }
   ],
   "周日": [

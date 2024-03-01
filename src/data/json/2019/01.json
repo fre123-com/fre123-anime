@@ -51,6 +51,78 @@
       "tags": ["热血", "战斗", "搞笑", "奇幻", "超能力"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "关于我转生变成史莱姆这档事",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/781bf23e18cbaf7bfff16b34bbae8f0d.jpg",
+      "cover_url_git": "img/2019/01/关于我转生变成史莱姆这档事.jpg",
+      "play_time": "00:30",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": ["穿越", "奇幻", "萌王", "后宫", "战斗"]
+    },
+    {
+      "anime_name": "粉彩回忆",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/17d167b1b91570476b94eee40babb421.jpg",
+      "cover_url_git": "img/2019/01/粉彩回忆.jpg",
+      "play_time": "01:30",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["萌系", "秋叶原"]
+    },
+    {
+      "anime_name": "队长小翼（足球小将）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20180107.jpg",
+      "cover_url_git": "img/2019/01/队长小翼（足球小将）.jpg",
+      "play_time": "02:30",
+      "play_date": "在播",
+      "play_nums": "52",
+      "tags": ["重置", "运动", "足球", "热血", "文艺复兴"]
+    },
+    {
+      "anime_name": "兽娘动物园 第二季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/4fda25722b0b1c0f192f5d46575cc0ce.jpg",
+      "cover_url_git": "img/2019/01/兽娘动物园 第二季.jpg",
+      "play_time": "02:05",
+      "play_date": "1.15",
+      "play_nums": "12",
+      "tags": ["兽娘", "废土", "超自然", "“虚假的加帕里”"]
+    },
+    {
+      "anime_name": "黑色四叶草（黑色五叶草）",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/6738.jpg",
+      "cover_url_git": "img/2019/01/黑色四叶草（黑色五叶草）.jpg",
+      "play_time": "18:25",
+      "play_date": "在播",
+      "play_nums": "",
+      "tags": ["奇幻", "魔法", "热血", "打斗", "咆哮帝"]
+    },
+    {
+      "anime_name": "天使降临到了我身边！",
+      "weekday": "周二",
+      "cover_url": "https://dm530.org/thumbnails/21496.jpg",
+      "cover_url_git": "img/2019/01/天使降临到了我身边！.jpg",
+      "play_time": "22:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["百合", "萌系", "小学生", "治愈", "搞笑"]
+    },
+    {
+      "anime_name": "环战公主（CIRCLET PRINCESS）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/cd39aebad210c2cfe3f4172e17c23f82.jpg",
+      "cover_url_git": "img/2019/01/环战公主（CIRCLET PRINCESS）.jpg",
+      "play_time": "22:00",
+      "play_date": "1.8",
+      "play_nums": "12",
+      "tags": ["战斗", "社团", "百合"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "临死!!江古田",
@@ -143,76 +215,76 @@
       "tags": []
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "关于我转生变成史莱姆这档事",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/781bf23e18cbaf7bfff16b34bbae8f0d.jpg",
-      "cover_url_git": "img/2019/01/关于我转生变成史莱姆这档事.jpg",
-      "play_time": "00:30",
-      "play_date": "在播",
-      "play_nums": "26",
-      "tags": ["穿越", "奇幻", "萌王", "后宫", "战斗"]
-    },
-    {
-      "anime_name": "粉彩回忆",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/17d167b1b91570476b94eee40babb421.jpg",
-      "cover_url_git": "img/2019/01/粉彩回忆.jpg",
-      "play_time": "01:30",
-      "play_date": "1.8",
+      "anime_name": "同居人是猫",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/7e5023f82318fe2133ec21fa50e9956f.jpg",
+      "cover_url_git": "img/2019/01/同居人是猫.jpg",
+      "play_time": "00:00",
+      "play_date": "1.10",
       "play_nums": "12",
-      "tags": ["萌系", "秋叶原"]
+      "tags": ["猫片", "日常", "治愈"]
     },
     {
-      "anime_name": "队长小翼（足球小将）",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20180107.jpg",
-      "cover_url_git": "img/2019/01/队长小翼（足球小将）.jpg",
-      "play_time": "02:30",
-      "play_date": "在播",
-      "play_nums": "52",
-      "tags": ["重置", "运动", "足球", "热血", "文艺复兴"]
-    },
-    {
-      "anime_name": "兽娘动物园 第二季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201207-1/4fda25722b0b1c0f192f5d46575cc0ce.jpg",
-      "cover_url_git": "img/2019/01/兽娘动物园 第二季.jpg",
-      "play_time": "02:05",
-      "play_date": "1.15",
-      "play_nums": "12",
-      "tags": ["兽娘", "废土", "超自然", "“虚假的加帕里”"]
-    },
-    {
-      "anime_name": "黑色四叶草（黑色五叶草）",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/6738.jpg",
-      "cover_url_git": "img/2019/01/黑色四叶草（黑色五叶草）.jpg",
-      "play_time": "18:25",
-      "play_date": "在播",
+      "anime_name": "交锋联盟 机巧一族",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f6da79c7d75c4fdab00a33944a7510bb.jpeg",
+      "cover_url_git": "img/2019/01/交锋联盟 机巧一族.jpeg",
+      "play_time": "19:00",
+      "play_date": "2.14",
       "play_nums": "",
-      "tags": ["奇幻", "魔法", "热血", "打斗", "咆哮帝"]
+      "tags": []
     },
     {
-      "anime_name": "天使降临到了我身边！",
-      "weekday": "周二",
-      "cover_url": "https://dm530.org/thumbnails/21496.jpg",
-      "cover_url_git": "img/2019/01/天使降临到了我身边！.jpg",
-      "play_time": "22:00",
-      "play_date": "1.8",
-      "play_nums": "12",
-      "tags": ["百合", "萌系", "小学生", "治愈", "搞笑"]
+      "anime_name": "偶活学园Friends!",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
+      "cover_url_git": "img/2019/01/偶活学园Friends!.jpg",
+      "play_time": "19:30",
+      "play_date": "在播",
+      "play_nums": "50",
+      "tags": ["偶像", "百合"]
     },
     {
-      "anime_name": "环战公主（CIRCLET PRINCESS）",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/cd39aebad210c2cfe3f4172e17c23f82.jpg",
-      "cover_url_git": "img/2019/01/环战公主（CIRCLET PRINCESS）.jpg",
+      "anime_name": "Dimension High School",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gt7ytb8n9wj30hs0p442i.jpg",
+      "cover_url_git": "img/2019/01/Dimension High School.jpg",
+      "play_time": "21:00",
+      "play_date": "1.10",
+      "play_nums": "季",
+      "tags": ["2.5次元", "脑洞", "超现实"]
+    },
+    {
+      "anime_name": "飞翔吧！战机少女",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21422.jpg",
+      "cover_url_git": "img/2019/01/飞翔吧！战机少女.jpg",
       "play_time": "22:00",
-      "play_date": "1.8",
+      "play_date": "1.10",
       "play_nums": "12",
-      "tags": ["战斗", "社团", "百合"]
+      "tags": ["机战", "世界系", "军事", "后宫", "奇幻"]
+    },
+    {
+      "anime_name": "魔偶马戏团",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
+      "cover_url_git": "img/2019/01/魔偶马戏团.jpg",
+      "play_time": "22:30",
+      "play_date": "在播",
+      "play_nums": "36",
+      "tags": ["冒险", "热血", "打斗"]
+    },
+    {
+      "anime_name": "BanG Dream! 第二季",
+      "weekday": "周四",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/5f8e5f98ff5065a430d93fbbd4989925.jpeg",
+      "cover_url_git": "img/2019/01/BanG Dream! 第二季.jpeg",
+      "play_time": "23:30",
+      "play_date": "1.3",
+      "play_nums": "13",
+      "tags": ["偶像", "乐队", "音乐"]
     }
   ],
   "周五": [
@@ -387,78 +459,6 @@
       "play_date": "1.5",
       "play_nums": "13",
       "tags": ["神魔", "治愈", "奇幻"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "同居人是猫",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/7e5023f82318fe2133ec21fa50e9956f.jpg",
-      "cover_url_git": "img/2019/01/同居人是猫.jpg",
-      "play_time": "00:00",
-      "play_date": "1.10",
-      "play_nums": "12",
-      "tags": ["猫片", "日常", "治愈"]
-    },
-    {
-      "anime_name": "交锋联盟 机巧一族",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/f6da79c7d75c4fdab00a33944a7510bb.jpeg",
-      "cover_url_git": "img/2019/01/交锋联盟 机巧一族.jpeg",
-      "play_time": "19:00",
-      "play_date": "2.14",
-      "play_nums": "",
-      "tags": []
-    },
-    {
-      "anime_name": "偶活学园Friends!",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21284.jpg",
-      "cover_url_git": "img/2019/01/偶活学园Friends!.jpg",
-      "play_time": "19:30",
-      "play_date": "在播",
-      "play_nums": "50",
-      "tags": ["偶像", "百合"]
-    },
-    {
-      "anime_name": "Dimension High School",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1gt7ytb8n9wj30hs0p442i.jpg",
-      "cover_url_git": "img/2019/01/Dimension High School.jpg",
-      "play_time": "21:00",
-      "play_date": "1.10",
-      "play_nums": "季",
-      "tags": ["2.5次元", "脑洞", "超现实"]
-    },
-    {
-      "anime_name": "飞翔吧！战机少女",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21422.jpg",
-      "cover_url_git": "img/2019/01/飞翔吧！战机少女.jpg",
-      "play_time": "22:00",
-      "play_date": "1.10",
-      "play_nums": "12",
-      "tags": ["机战", "世界系", "军事", "后宫", "奇幻"]
-    },
-    {
-      "anime_name": "魔偶马戏团",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21293.jpg",
-      "cover_url_git": "img/2019/01/魔偶马戏团.jpg",
-      "play_time": "22:30",
-      "play_date": "在播",
-      "play_nums": "36",
-      "tags": ["冒险", "热血", "打斗"]
-    },
-    {
-      "anime_name": "BanG Dream! 第二季",
-      "weekday": "周四",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/5f8e5f98ff5065a430d93fbbd4989925.jpeg",
-      "cover_url_git": "img/2019/01/BanG Dream! 第二季.jpeg",
-      "play_time": "23:30",
-      "play_date": "1.3",
-      "play_nums": "13",
-      "tags": ["偶像", "乐队", "音乐"]
     }
   ],
   "周日": [

@@ -81,38 +81,6 @@
       "tags": ["文豪", "悬疑", "推理"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "篮球少年王（鸭子的天空）",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1695891288805_356135127.jpg",
-      "cover_url_git": "img/2020/04/篮球少年王（鸭子的天空）.jpg",
-      "play_time": "18:25",
-      "play_date": "连载中",
-      "play_nums": "50",
-      "tags": ["运动", "篮球", "热血", "励志", "竞技"]
-    },
-    {
-      "anime_name": "球咏",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/096fb9896975977fc64b262e8e16e099.jpg",
-      "cover_url_git": "img/2020/04/球咏.jpg",
-      "play_time": "22:00",
-      "play_date": "4.1",
-      "play_nums": "12",
-      "tags": ["运动", "棒球", "校园", "轻百合", "芳文社"]
-    },
-    {
-      "anime_name": "神之塔",
-      "weekday": "周三",
-      "cover_url": "https://dm530.org/thumbnails/21788.jpg",
-      "cover_url_git": "img/2020/04/神之塔.jpg",
-      "play_time": "23:30",
-      "play_date": "4.1",
-      "play_nums": "13",
-      "tags": ["奇幻", "冒险", "战斗"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "那个世界属于妖怪组",
@@ -173,6 +141,80 @@
       "play_date": "4.7",
       "play_nums": "12",
       "tags": ["日常", "搞笑", "钓鱼"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "篮球少年王（鸭子的天空）",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891288805_356135127.jpg",
+      "cover_url_git": "img/2020/04/篮球少年王（鸭子的天空）.jpg",
+      "play_time": "18:25",
+      "play_date": "连载中",
+      "play_nums": "50",
+      "tags": ["运动", "篮球", "热血", "励志", "竞技"]
+    },
+    {
+      "anime_name": "球咏",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/096fb9896975977fc64b262e8e16e099.jpg",
+      "cover_url_git": "img/2020/04/球咏.jpg",
+      "play_time": "22:00",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["运动", "棒球", "校园", "轻百合", "芳文社"]
+    },
+    {
+      "anime_name": "神之塔",
+      "weekday": "周三",
+      "cover_url": "https://dm530.org/thumbnails/21788.jpg",
+      "cover_url_git": "img/2020/04/神之塔.jpg",
+      "play_time": "23:30",
+      "play_date": "4.1",
+      "play_nums": "13",
+      "tags": ["奇幻", "冒险", "战斗"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "星掠者",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/7f51aad17beffb36e41105606a7dc066.jpg",
+      "cover_url_git": "img/2020/04/星掠者.jpg",
+      "play_time": "01:05",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["奇幻", "战斗", "冒险", "肉"]
+    },
+    {
+      "anime_name": "高达创形者 再起 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
+      "cover_url_git": "img/2020/04/高达创形者 再起 第二季.jpg",
+      "play_time": "19:00",
+      "play_date": "4.9",
+      "play_nums": "",
+      "tags": ["机战", "科幻", "热血", "卖胶"]
+    },
+    {
+      "anime_name": "八男？别闹了！",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/21553.jpg",
+      "cover_url_git": "img/2020/04/八男？别闹了！.jpg",
+      "play_time": "20:00",
+      "play_date": "4.2",
+      "play_nums": "12",
+      "tags": ["穿越", "奇幻", "冒险", "后宫", "龙傲天"]
+    },
+    {
+      "anime_name": "隐瞒之事",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/7443200436f366bac922190ca9e4b3b9.jpg",
+      "cover_url_git": "img/2020/04/隐瞒之事.jpg",
+      "play_time": "23:45",
+      "play_date": "4.2",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "父女", "治愈"]
     }
   ],
   "周五": [
@@ -307,48 +349,6 @@
       "play_date": "4.4",
       "play_nums": "12",
       "tags": ["艺术", "励志", "文艺复兴"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "星掠者",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/7f51aad17beffb36e41105606a7dc066.jpg",
-      "cover_url_git": "img/2020/04/星掠者.jpg",
-      "play_time": "01:05",
-      "play_date": "连载中",
-      "play_nums": "24",
-      "tags": ["奇幻", "战斗", "冒险", "肉"]
-    },
-    {
-      "anime_name": "高达创形者 再起 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
-      "cover_url_git": "img/2020/04/高达创形者 再起 第二季.jpg",
-      "play_time": "19:00",
-      "play_date": "4.9",
-      "play_nums": "",
-      "tags": ["机战", "科幻", "热血", "卖胶"]
-    },
-    {
-      "anime_name": "八男？别闹了！",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/21553.jpg",
-      "cover_url_git": "img/2020/04/八男？别闹了！.jpg",
-      "play_time": "20:00",
-      "play_date": "4.2",
-      "play_nums": "12",
-      "tags": ["穿越", "奇幻", "冒险", "后宫", "龙傲天"]
-    },
-    {
-      "anime_name": "隐瞒之事",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/7443200436f366bac922190ca9e4b3b9.jpg",
-      "cover_url_git": "img/2020/04/隐瞒之事.jpg",
-      "play_time": "23:45",
-      "play_date": "4.2",
-      "play_nums": "12",
-      "tags": ["搞笑", "日常", "父女", "治愈"]
     }
   ],
   "周日": [

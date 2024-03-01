@@ -51,6 +51,88 @@
       "tags": ["搞笑", "日常", "天使", "恶魔"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "新撰组镇魂歌 二分之一",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20170134930597568.jpg",
+      "cover_url_git": "img/2017/01/新撰组镇魂歌 二分之一.jpg",
+      "play_time": "00:00",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "TRICKSTER 少年侦探团",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20161040239032487234.jpg",
+      "cover_url_git": "img/2017/01/TRICKSTER 少年侦探团.jpg",
+      "play_time": "01:05",
+      "play_date": "在播",
+      "play_nums": "24",
+      "tags": ["推理", "悬疑", "科幻", "基情"]
+    },
+    {
+      "anime_name": "鬼平",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ec7d2cdf6d39eca5febca19364e167c9.jpg",
+      "cover_url_git": "img/2017/01/鬼平.jpg",
+      "play_time": "01:35",
+      "play_date": "1.10",
+      "play_nums": "13",
+      "tags": []
+    },
+    {
+      "anime_name": "飙速宅男 第三季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170048.jpg",
+      "cover_url_git": "img/2017/01/飙速宅男 第三季.jpg",
+      "play_time": "01:35",
+      "play_date": "1.10",
+      "play_nums": "25",
+      "tags": ["运动", "自行车", "社团", "励志"]
+    },
+    {
+      "anime_name": "喵阿楞",
+      "weekday": "周二",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2016100003489537.jpg",
+      "cover_url_git": "img/2017/01/喵阿楞.jpg",
+      "play_time": "06:45",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": []
+    },
+    {
+      "anime_name": "信长的忍者（忍者少女千百万鸟）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201121-1/62f929f07afe89bb9e8832526a7d2787.jpg",
+      "cover_url_git": "img/2017/01/信长的忍者（忍者少女千百万鸟）.jpg",
+      "play_time": "21:55",
+      "play_date": "在播",
+      "play_nums": "26",
+      "tags": []
+    },
+    {
+      "anime_name": "漫研部 第三季",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/e00c2225cdc379e783cd28b7b5c63f21.jpeg",
+      "cover_url_git": "img/2017/01/漫研部 第三季.jpeg",
+      "play_time": "22:30",
+      "play_date": "1.3",
+      "play_nums": "12",
+      "tags": []
+    },
+    {
+      "anime_name": "ACCA13区监察课",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/08f579b33564e9e22fafd16a7330c041.jpg",
+      "cover_url_git": "img/2017/01/ACCA13区监察课.jpg",
+      "play_time": "22:30",
+      "play_date": "1.10",
+      "play_nums": "12",
+      "tags": ["悬疑", "群像", "另类", "架空世界"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "Hand Shakers",
@@ -133,86 +215,46 @@
       "tags": ["搞笑", "百合", "另类日常", "京阿尼"]
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "新撰组镇魂歌 二分之一",
-      "weekday": "周二",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20170134930597568.jpg",
-      "cover_url_git": "img/2017/01/新撰组镇魂歌 二分之一.jpg",
-      "play_time": "00:00",
-      "play_date": "1.10",
-      "play_nums": "12",
-      "tags": []
-    },
-    {
-      "anime_name": "TRICKSTER 少年侦探团",
-      "weekday": "周二",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/20161040239032487234.jpg",
-      "cover_url_git": "img/2017/01/TRICKSTER 少年侦探团.jpg",
-      "play_time": "01:05",
-      "play_date": "在播",
-      "play_nums": "24",
-      "tags": ["推理", "悬疑", "科幻", "基情"]
-    },
-    {
-      "anime_name": "鬼平",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ec7d2cdf6d39eca5febca19364e167c9.jpg",
-      "cover_url_git": "img/2017/01/鬼平.jpg",
+      "anime_name": "为美好的世界献上祝福！ 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170004.jpg",
+      "cover_url_git": "img/2017/01/为美好的世界献上祝福！ 第二季.jpg",
       "play_time": "01:35",
-      "play_date": "1.10",
-      "play_nums": "13",
-      "tags": []
+      "play_date": "1.12",
+      "play_nums": "10",
+      "tags": ["奇幻", "冒险", "穿越", "搞笑", "阿库娅", "MDZZ"]
     },
     {
-      "anime_name": "飙速宅男 第三季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170048.jpg",
-      "cover_url_git": "img/2017/01/飙速宅男 第三季.jpg",
-      "play_time": "01:35",
-      "play_date": "1.10",
-      "play_nums": "25",
-      "tags": ["运动", "自行车", "社团", "励志"]
+      "anime_name": "CHAOS;CHILD（混沌子）",
+      "weekday": "周四",
+      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201701294093467.jpg",
+      "cover_url_git": "img/2017/01/CHAOS;CHILD（混沌子）.jpg",
+      "play_time": "03:30",
+      "play_date": "1.12",
+      "play_nums": "12+1",
+      "tags": ["都市", "悬疑", "猎奇", "妄想科学"]
     },
     {
-      "anime_name": "喵阿楞",
-      "weekday": "周二",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/2016100003489537.jpg",
-      "cover_url_git": "img/2017/01/喵阿楞.jpg",
-      "play_time": "06:45",
-      "play_date": "在播",
-      "play_nums": "26",
-      "tags": []
-    },
-    {
-      "anime_name": "信长的忍者（忍者少女千百万鸟）",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201121-1/62f929f07afe89bb9e8832526a7d2787.jpg",
-      "cover_url_git": "img/2017/01/信长的忍者（忍者少女千百万鸟）.jpg",
-      "play_time": "21:55",
-      "play_date": "在播",
-      "play_nums": "26",
-      "tags": []
-    },
-    {
-      "anime_name": "漫研部 第三季",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/e00c2225cdc379e783cd28b7b5c63f21.jpeg",
-      "cover_url_git": "img/2017/01/漫研部 第三季.jpeg",
+      "anime_name": "政宗君的复仇",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/e86c8f581e4485be4926f13e48dc7bd3.jpg",
+      "cover_url_git": "img/2017/01/政宗君的复仇.jpg",
       "play_time": "22:30",
-      "play_date": "1.3",
+      "play_date": "1.5",
       "play_nums": "12",
-      "tags": []
+      "tags": ["校园", "恋爱", "逆袭", "励志"]
     },
     {
-      "anime_name": "ACCA13区监察课",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/08f579b33564e9e22fafd16a7330c041.jpg",
-      "cover_url_git": "img/2017/01/ACCA13区监察课.jpg",
-      "play_time": "22:30",
-      "play_date": "1.10",
+      "anime_name": "人渣的本愿",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/b462c83f97b5f984e346be3fe997e78a.jpg",
+      "cover_url_git": "img/2017/01/人渣的本愿.jpg",
+      "play_time": "23:55",
+      "play_date": "1.12",
       "play_nums": "12",
-      "tags": ["悬疑", "群像", "另类", "架空世界"]
+      "tags": ["恋爱", "扭曲", "贵圈真乱", "倒A挡"]
     }
   ],
   "周五": [
@@ -357,48 +399,6 @@
       "play_date": "1.21",
       "play_nums": "13",
       "tags": ["校园", "励志", "音乐", "乐队"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "为美好的世界献上祝福！ 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170004.jpg",
-      "cover_url_git": "img/2017/01/为美好的世界献上祝福！ 第二季.jpg",
-      "play_time": "01:35",
-      "play_date": "1.12",
-      "play_nums": "10",
-      "tags": ["奇幻", "冒险", "穿越", "搞笑", "阿库娅", "MDZZ"]
-    },
-    {
-      "anime_name": "CHAOS;CHILD（混沌子）",
-      "weekday": "周四",
-      "cover_url": "https://www.iyxdm.cc/uploads/animecover/201701294093467.jpg",
-      "cover_url_git": "img/2017/01/CHAOS;CHILD（混沌子）.jpg",
-      "play_time": "03:30",
-      "play_date": "1.12",
-      "play_nums": "12+1",
-      "tags": ["都市", "悬疑", "猎奇", "妄想科学"]
-    },
-    {
-      "anime_name": "政宗君的复仇",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/e86c8f581e4485be4926f13e48dc7bd3.jpg",
-      "cover_url_git": "img/2017/01/政宗君的复仇.jpg",
-      "play_time": "22:30",
-      "play_date": "1.5",
-      "play_nums": "12",
-      "tags": ["校园", "恋爱", "逆袭", "励志"]
-    },
-    {
-      "anime_name": "人渣的本愿",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/b462c83f97b5f984e346be3fe997e78a.jpg",
-      "cover_url_git": "img/2017/01/人渣的本愿.jpg",
-      "play_time": "23:55",
-      "play_date": "1.12",
-      "play_nums": "12",
-      "tags": ["恋爱", "扭曲", "贵圈真乱", "倒A挡"]
     }
   ],
   "周日": [

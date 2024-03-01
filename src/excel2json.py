@@ -57,7 +57,7 @@ def get_anime_data(year, month):
     """
     获取动画数据
     """
-
+    year, month = str(year), str(month)
     data_path = os.path.join(os.path.dirname(__file__), "data")
     excel_path = os.path.join(data_path, f"excel/{year}/{month}.xlsx")
     json_path = os.path.join(data_path, f"json/{year}/{month}.json")
@@ -141,10 +141,37 @@ def get_anime_data(year, month):
         json.dump(result, f, ensure_ascii=False)
 
 
+def soeted_json(year, month):
+    """
+    json 排序
+    """
+    year, month = str(year), str(month)
+    data_path = os.path.join(os.path.dirname(__file__), "data")
+    json_path = os.path.join(data_path, f"json/{year}/{month}.json")
+    if os.path.exists(json_path):
+        print(f"正在处理数据： {json_path}")
+        with open(json_path, "r", encoding="utf8") as f:
+            data = json.load(f)
+            # 按照周一到周日排序
+            sorted_data = {
+                "周一": data.get("周一", []),
+                "周二": data.get("周二", []),
+                "周三": data.get("周三", []),
+                "周四": data.get("周四", []),
+                "周五": data.get("周五", []),
+                "周六": data.get("周六", []),
+                "周日": data.get("周日", []),
+            }
+            with open(json_path, "w", encoding="utf8") as f:
+                json.dump(sorted_data, f, ensure_ascii=False)
+
+
 if __name__ == "__main__":
     # 2024 年单独计算
-    year, month = 2024, "01"
-    get_anime_data(str(year), month)
-    # for year in range(2017, 2024):
-    #     for month in ["01", "04", "07", "10"]:
-    #         get_anime_data(str(year), month)
+    # year, month = 2024, "01"
+    # soeted_json(year, month)
+    # get_anime_data(year, month)
+    for year in range(2017, 2024):
+        for month in ["01", "04", "07", "10"]:
+            soeted_json(year, month)
+            # get_anime_data(year, month)

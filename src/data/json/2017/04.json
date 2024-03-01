@@ -71,6 +71,78 @@
       "tags": ["魔法", "战斗", "冒险", "魔法岛风"]
     }
   ],
+  "周二": [
+    {
+      "anime_name": "高校星歌剧 第二季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170214.jpg",
+      "cover_url_git": "img/2017/04/高校星歌剧 第二季.jpg",
+      "play_time": "00:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["音乐", "歌剧", "校园", "羞耻Play"]
+    },
+    {
+      "anime_name": "机甲少女 FRAME ARMS GIRL",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/94925050143f558c4399f8ae10b730b7.jpg",
+      "cover_url_git": "img/2017/04/机甲少女 FRAME ARMS GIRL.jpg",
+      "play_time": "01:30",
+      "play_date": "4.4",
+      "play_nums": "季",
+      "tags": ["科幻", "军武", "机娘", "模型", "“广告”"]
+    },
+    {
+      "anime_name": "飙速宅男 第三季",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170048.jpg",
+      "cover_url_git": "img/2017/04/飙速宅男 第三季.jpg",
+      "play_time": "01:35",
+      "play_date": "在播",
+      "play_nums": "25",
+      "tags": ["运动", "自行车", "社团", "励志"]
+    },
+    {
+      "anime_name": "快把我哥带走（中+日）",
+      "weekday": "周二",
+      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/79f3655d2b6e8a143626b1815a5865b1.jpeg",
+      "cover_url_git": "img/2017/04/快把我哥带走（中+日）.jpeg",
+      "play_time": "10:00",
+      "play_date": "3.28",
+      "play_nums": "季",
+      "tags": []
+    },
+    {
+      "anime_name": "美妙天堂 偶像时间",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20140144.jpg",
+      "cover_url_git": "img/2017/04/美妙天堂 偶像时间.jpg",
+      "play_time": "17:55",
+      "play_date": "4.4",
+      "play_nums": "半年",
+      "tags": []
+    },
+    {
+      "anime_name": "不正经的魔术讲师与禁忌教典",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/93f2a3eee3e51b9a4a660edac9e575b0.jpg",
+      "cover_url_git": "img/2017/04/不正经的魔术讲师与禁忌教典.jpg",
+      "play_time": "21:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["校园", "魔法", "战斗", "师生"]
+    },
+    {
+      "anime_name": "覆面系NOISE",
+      "weekday": "周二",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/e023874f06e27df8df081ac8e48b6fc1.jpg",
+      "cover_url_git": "img/2017/04/覆面系NOISE.jpg",
+      "play_time": "23:30",
+      "play_date": "4.11",
+      "play_nums": "12",
+      "tags": ["校园", "音乐", "恋爱", "少女漫", "白学(?)"]
+    }
+  ],
   "周三": [
     {
       "anime_name": "末日时在做什么？有没有空？可以来拯救吗？",
@@ -143,76 +215,66 @@
       "tags": []
     }
   ],
-  "周二": [
+  "周四": [
     {
-      "anime_name": "高校星歌剧 第二季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170214.jpg",
-      "cover_url_git": "img/2017/04/高校星歌剧 第二季.jpg",
+      "anime_name": "最强番长是少女（中+日）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ddca7fc3e461f04149371c8a5e1d53a4.jpg",
+      "cover_url_git": "img/2017/04/最强番长是少女（中+日）.jpg",
       "play_time": "00:00",
-      "play_date": "4.4",
-      "play_nums": "12",
-      "tags": ["音乐", "歌剧", "校园", "羞耻Play"]
-    },
-    {
-      "anime_name": "机甲少女 FRAME ARMS GIRL",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/94925050143f558c4399f8ae10b730b7.jpg",
-      "cover_url_git": "img/2017/04/机甲少女 FRAME ARMS GIRL.jpg",
-      "play_time": "01:30",
-      "play_date": "4.4",
-      "play_nums": "季",
-      "tags": ["科幻", "军武", "机娘", "模型", "“广告”"]
-    },
-    {
-      "anime_name": "飙速宅男 第三季",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170048.jpg",
-      "cover_url_git": "img/2017/04/飙速宅男 第三季.jpg",
-      "play_time": "01:35",
-      "play_date": "在播",
-      "play_nums": "25",
-      "tags": ["运动", "自行车", "社团", "励志"]
-    },
-    {
-      "anime_name": "快把我哥带走（中+日）",
-      "weekday": "周二",
-      "cover_url": "https://pic.rmb.bdstatic.com/bjh/down/79f3655d2b6e8a143626b1815a5865b1.jpeg",
-      "cover_url_git": "img/2017/04/快把我哥带走（中+日）.jpeg",
-      "play_time": "10:00",
-      "play_date": "3.28",
+      "play_date": "4.13",
       "play_nums": "季",
       "tags": []
     },
     {
-      "anime_name": "美妙天堂 偶像时间",
-      "weekday": "周二",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20140144.jpg",
-      "cover_url_git": "img/2017/04/美妙天堂 偶像时间.jpg",
-      "play_time": "17:55",
-      "play_date": "4.4",
+      "anime_name": "重启咲良田",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/9b24911f8c5374dd2e61213256c9a10d.jpg",
+      "cover_url_git": "img/2017/04/重启咲良田.jpg",
+      "play_time": "00:00",
+      "play_date": "4.6",
+      "play_nums": "24",
+      "tags": ["青春", "悬疑", "致郁", "超能力"]
+    },
+    {
+      "anime_name": "樱花任务",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201125-1/f56c72a9d1d2be934f52abd29a3189cb.jpg",
+      "cover_url_git": "img/2017/04/樱花任务.jpg",
+      "play_time": "00:30",
+      "play_date": "4.6",
+      "play_nums": "25",
+      "tags": ["职场", "青春", "旅游宣传", "工作少女系列"]
+    },
+    {
+      "anime_name": "武装少女 Machiavellism",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20170033.jpg",
+      "cover_url_git": "img/2017/04/武装少女 Machiavellism.jpg",
+      "play_time": "00:30",
+      "play_date": "4.6",
+      "play_nums": "季",
+      "tags": ["校园", "打斗", "恋爱", "后宫"]
+    },
+    {
+      "anime_name": "偶像活动Stars 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
+      "cover_url_git": "img/2017/04/偶像活动Stars 第二季.jpg",
+      "play_time": "19:30",
+      "play_date": "4.6",
       "play_nums": "半年",
       "tags": []
     },
     {
-      "anime_name": "不正经的魔术讲师与禁忌教典",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/93f2a3eee3e51b9a4a660edac9e575b0.jpg",
-      "cover_url_git": "img/2017/04/不正经的魔术讲师与禁忌教典.jpg",
-      "play_time": "21:00",
-      "play_date": "4.4",
+      "anime_name": "月色真美",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/1de53c5c812dfd2cc9567b8a14b7fe12.jpg",
+      "cover_url_git": "img/2017/04/月色真美.jpg",
+      "play_time": "23:00",
+      "play_date": "4.6",
       "play_nums": "12",
-      "tags": ["校园", "魔法", "战斗", "师生"]
-    },
-    {
-      "anime_name": "覆面系NOISE",
-      "weekday": "周二",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/e023874f06e27df8df081ac8e48b6fc1.jpg",
-      "cover_url_git": "img/2017/04/覆面系NOISE.jpg",
-      "play_time": "23:30",
-      "play_date": "4.11",
-      "play_nums": "12",
-      "tags": ["校园", "音乐", "恋爱", "少女漫", "白学(?)"]
+      "tags": ["恋爱", "校园", "青春", "日常"]
     }
   ],
   "周五": [
@@ -377,68 +439,6 @@
       "play_date": "4.1",
       "play_nums": "12",
       "tags": ["战斗", "热血", "冒险", "悬疑", "网盘见"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "最强番长是少女（中+日）",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-5/ddca7fc3e461f04149371c8a5e1d53a4.jpg",
-      "cover_url_git": "img/2017/04/最强番长是少女（中+日）.jpg",
-      "play_time": "00:00",
-      "play_date": "4.13",
-      "play_nums": "季",
-      "tags": []
-    },
-    {
-      "anime_name": "重启咲良田",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/9b24911f8c5374dd2e61213256c9a10d.jpg",
-      "cover_url_git": "img/2017/04/重启咲良田.jpg",
-      "play_time": "00:00",
-      "play_date": "4.6",
-      "play_nums": "24",
-      "tags": ["青春", "悬疑", "致郁", "超能力"]
-    },
-    {
-      "anime_name": "樱花任务",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201125-1/f56c72a9d1d2be934f52abd29a3189cb.jpg",
-      "cover_url_git": "img/2017/04/樱花任务.jpg",
-      "play_time": "00:30",
-      "play_date": "4.6",
-      "play_nums": "25",
-      "tags": ["职场", "青春", "旅游宣传", "工作少女系列"]
-    },
-    {
-      "anime_name": "武装少女 Machiavellism",
-      "weekday": "周四",
-      "cover_url": "https://cdn.aqdstatic.com:966/age/20170033.jpg",
-      "cover_url_git": "img/2017/04/武装少女 Machiavellism.jpg",
-      "play_time": "00:30",
-      "play_date": "4.6",
-      "play_nums": "季",
-      "tags": ["校园", "打斗", "恋爱", "后宫"]
-    },
-    {
-      "anime_name": "偶像活动Stars 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/jpg/ly1h2yp0be4v1j30jf0rskgc.jpg",
-      "cover_url_git": "img/2017/04/偶像活动Stars 第二季.jpg",
-      "play_time": "19:30",
-      "play_date": "4.6",
-      "play_nums": "半年",
-      "tags": []
-    },
-    {
-      "anime_name": "月色真美",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/1de53c5c812dfd2cc9567b8a14b7fe12.jpg",
-      "cover_url_git": "img/2017/04/月色真美.jpg",
-      "play_time": "23:00",
-      "play_date": "4.6",
-      "play_nums": "12",
-      "tags": ["恋爱", "校园", "青春", "日常"]
     }
   ],
   "周日": [

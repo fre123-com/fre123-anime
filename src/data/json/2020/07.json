@@ -51,48 +51,6 @@
       "tags": ["搞笑", "动物拟人"]
     }
   ],
-  "周三": [
-    {
-      "anime_name": "篮球少年王（鸭子的天空）",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1695891288805_356135127.jpg",
-      "cover_url_git": "img/2020/07/篮球少年王（鸭子的天空）.jpg",
-      "play_time": "17:55",
-      "play_date": "连载中",
-      "play_nums": "50",
-      "tags": ["运动", "篮球", "热血", "励志", "竞技"]
-    },
-    {
-      "anime_name": "驱魔者（GIBIATE）",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1694091033154_251871852.jpg",
-      "cover_url_git": "img/2020/07/驱魔者（GIBIATE）.jpg",
-      "play_time": "22:00",
-      "play_date": "7.15",
-      "play_nums": "12",
-      "tags": ["穿越", "废土", "生存"]
-    },
-    {
-      "anime_name": "Re:从零开始的异世界生活 第二季（前半篇）",
-      "weekday": "周三",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/9c8ff17883e4bd3e4db4273cb3d85e5d.jpg",
-      "cover_url_git": "img/2020/07/Re:从零开始的异世界生活 第二季（前半篇）.jpg",
-      "play_time": "23:00",
-      "play_date": "7.8",
-      "play_nums": "13",
-      "tags": ["奇幻", "异世界", "轮回", "战斗", "后宫"]
-    },
-    {
-      "anime_name": "恋与制作人～EVOL×LOVE～",
-      "weekday": "周三",
-      "cover_url": "https://unmc.cdn.bcebos.com/1695368953144_1953399637.jpg",
-      "cover_url_git": "img/2020/07/恋与制作人～EVOL×LOVE～.jpg",
-      "play_time": "23:00",
-      "play_date": "7.15",
-      "play_nums": "12",
-      "tags": ["奇幻", "恋爱", "职场", "逆后宫", "乙女向"]
-    }
-  ],
   "周二": [
     {
       "anime_name": "高校之神",
@@ -173,6 +131,80 @@
       "play_date": "6.2",
       "play_nums": "23",
       "tags": ["搞笑", "悬疑", "智斗"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "篮球少年王（鸭子的天空）",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695891288805_356135127.jpg",
+      "cover_url_git": "img/2020/07/篮球少年王（鸭子的天空）.jpg",
+      "play_time": "17:55",
+      "play_date": "连载中",
+      "play_nums": "50",
+      "tags": ["运动", "篮球", "热血", "励志", "竞技"]
+    },
+    {
+      "anime_name": "驱魔者（GIBIATE）",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1694091033154_251871852.jpg",
+      "cover_url_git": "img/2020/07/驱魔者（GIBIATE）.jpg",
+      "play_time": "22:00",
+      "play_date": "7.15",
+      "play_nums": "12",
+      "tags": ["穿越", "废土", "生存"]
+    },
+    {
+      "anime_name": "Re:从零开始的异世界生活 第二季（前半篇）",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/9c8ff17883e4bd3e4db4273cb3d85e5d.jpg",
+      "cover_url_git": "img/2020/07/Re:从零开始的异世界生活 第二季（前半篇）.jpg",
+      "play_time": "23:00",
+      "play_date": "7.8",
+      "play_nums": "13",
+      "tags": ["奇幻", "异世界", "轮回", "战斗", "后宫"]
+    },
+    {
+      "anime_name": "恋与制作人～EVOL×LOVE～",
+      "weekday": "周三",
+      "cover_url": "https://unmc.cdn.bcebos.com/1695368953144_1953399637.jpg",
+      "cover_url_git": "img/2020/07/恋与制作人～EVOL×LOVE～.jpg",
+      "play_time": "23:00",
+      "play_date": "7.15",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "职场", "逆后宫", "乙女向"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "没落要塞（DECA-DENCE）",
+      "weekday": "周四",
+      "cover_url": "https://dm530.org/thumbnails/34456099.jpg",
+      "cover_url_git": "img/2020/07/没落要塞（DECA-DENCE）.jpg",
+      "play_time": "00:00",
+      "play_date": "6.28",
+      "play_nums": "12",
+      "tags": ["科幻", "冒险", "战斗"]
+    },
+    {
+      "anime_name": "高达创形者 再起 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
+      "cover_url_git": "img/2020/07/高达创形者 再起 第二季.jpg",
+      "play_time": "19:00",
+      "play_date": "7.9",
+      "play_nums": "13",
+      "tags": ["机战", "科幻", "热血", "卖胶"]
+    },
+    {
+      "anime_name": "日本沉没2020",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/499140da505ef52e3ca034982c28e7e0.jpg",
+      "cover_url_git": "img/2020/07/日本沉没2020.jpg",
+      "play_time": "18:00",
+      "play_date": "7.9",
+      "play_nums": "10",
+      "tags": ["科幻", "灾难"]
     }
   ],
   "周五": [
@@ -327,38 +359,6 @@
       "play_date": "7.4",
       "play_nums": "12",
       "tags": ["奇幻", "偶像", "校园", "音乐", "轻百合"]
-    }
-  ],
-  "周四": [
-    {
-      "anime_name": "没落要塞（DECA-DENCE）",
-      "weekday": "周四",
-      "cover_url": "https://dm530.org/thumbnails/34456099.jpg",
-      "cover_url_git": "img/2020/07/没落要塞（DECA-DENCE）.jpg",
-      "play_time": "00:00",
-      "play_date": "6.28",
-      "play_nums": "12",
-      "tags": ["科幻", "冒险", "战斗"]
-    },
-    {
-      "anime_name": "高达创形者 再起 第二季",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/82221bb6b30a66436c2a80e71ea39ff1.jpg",
-      "cover_url_git": "img/2020/07/高达创形者 再起 第二季.jpg",
-      "play_time": "19:00",
-      "play_date": "7.9",
-      "play_nums": "13",
-      "tags": ["机战", "科幻", "热血", "卖胶"]
-    },
-    {
-      "anime_name": "日本沉没2020",
-      "weekday": "周四",
-      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-4/499140da505ef52e3ca034982c28e7e0.jpg",
-      "cover_url_git": "img/2020/07/日本沉没2020.jpg",
-      "play_time": "18:00",
-      "play_date": "7.9",
-      "play_nums": "10",
-      "tags": ["科幻", "灾难"]
     }
   ],
   "周日": [
