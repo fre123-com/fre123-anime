@@ -1,0 +1,706 @@
+{
+  "周一": [
+    {
+      "anime_name": "明明是个碍事配角、却被王子给宠爱了",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw690/007bt1GHly1hn6zzm3fkij30gl0ljadc.jpg",
+      "cover_url_git": "img/2024/04/明明是个碍事配角、却被王子给宠爱了.jpg",
+      "play_time": "00:00",
+      "play_date": "4.8",
+      "play_nums": "8",
+      "tags": ["耽美", "涩涩"]
+    },
+    {
+      "anime_name": "末班列车去哪里了？",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgf7toy568j30rs11vk6e.jpg",
+      "cover_url_git": "img/2024/04/末班列车去哪里了.jpg",
+      "play_time": "20:00",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "少女", "列车", "异变", "公路片"]
+    },
+    {
+      "anime_name": "神渴望着游戏。（神明渴求着游戏）",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hfhd86hoh0j30n20xb7hb.jpg",
+      "cover_url_git": "img/2024/04/神渴望着游戏。（神明渴求着游戏）.jpg",
+      "play_time": "20:30",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "智斗", "冒险", "神魔", "穿越"]
+    },
+    {
+      "anime_name": "月光下的异世界之旅 第二季",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/large/008kBpBlgy1guqgu7jcbkj607409wjrv02.jpg",
+      "cover_url_git": "img/2024/04/月光下的异世界之旅 第二季.jpg",
+      "play_time": "23:00",
+      "play_date": "连载中",
+      "play_nums": "25",
+      "tags": ["奇幻", "战斗", "冒险", "搞笑", "穿越", "龙傲天"]
+    },
+    {
+      "anime_name": "怪物转生（Re:Monster）",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hi25vumd4sj31jk26mtza.jpg",
+      "cover_url_git": "img/2024/04/怪物转生（Re:Monster）.jpg",
+      "play_time": "23:00",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "成长", "逆袭", "哥布林", "穿越"]
+    },
+    {
+      "anime_name": "我回来了，欢迎回来",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw600/6c72b0a3ly1hnqhqxrw06j20ku0ti4gx.jpg",
+      "cover_url_git": "img/2024/04/我回来了，欢迎回来.jpg",
+      "play_time": "23:30",
+      "play_date": "4.8",
+      "play_nums": "",
+      "tags": ["日常", "家庭", "带娃", "耽美", "ABO"]
+    },
+    {
+      "anime_name": "渴求游戏之神。",
+      "weekday": "周一",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hfhd86hoh0j30n20xb7hb.jpg",
+      "cover_url_git": "img/2024/04/渴求游戏之神。.jpg",
+      "play_time": "20:30",
+      "play_date": "4.1",
+      "play_nums": "12",
+      "tags": ["奇幻", "智斗", "冒险", "神魔", "穿越"]
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "狼与香辛料 行商邂逅贤狼",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240014.jpg",
+      "cover_url_git": "img/2024/04/狼与香辛料 行商邂逅贤狼.jpg",
+      "play_time": "00:30",
+      "play_date": "4.2",
+      "play_nums": "25",
+      "tags": ["奇幻", "治愈", "冒险", "公路片", "重制"]
+    },
+    {
+      "anime_name": "转生为第七王子 随心所欲的魔法学习之路",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240011.jpg",
+      "cover_url_git": "img/2024/04/转生为第七王子 随心所欲的魔法学习之路.jpg",
+      "play_time": "00:30",
+      "play_date": "4.2",
+      "play_nums": "季",
+      "tags": ["奇幻", "搞笑", "成长", "龙傲天", "兄弟你好香"]
+    },
+    {
+      "anime_name": "被称为废物的原英雄被家里流放后随心所欲地活下去",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240036.jpg",
+      "cover_url_git": "img/2024/04/被称为废物的原英雄被家里流放后随心所欲地活下去.jpeg",
+      "play_time": "01:00",
+      "play_date": "4.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "后宫", "转世", "龙傲天"]
+    },
+    {
+      "anime_name": "刀剑乱舞 回 -虚传 燃烧的本能寺-",
+      "weekday": "周二",
+      "cover_url": "https://lz.sinaimg.cn/mw690/0023tf8ygy1hmip93c87nj60nk0xcjz402.jpg",
+      "cover_url_git": "img/2024/04/刀剑乱舞 回 -虚传 燃烧的本能寺-.jpg",
+      "play_time": "22:00",
+      "play_date": "4.2",
+      "play_nums": "8",
+      "tags": ["奇幻", "战斗", "武士", "拟人", "历史"]
+    },
+    {
+      "anime_name": "无名记忆（Unnamed Memory）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240017.jpg",
+      "cover_url_git": "img/2024/04/无名记忆（Unnamed Memory）.jpg",
+      "play_time": "22:30",
+      "play_date": "4.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "恋爱", "魔法", "诅咒"]
+    },
+    {
+      "anime_name": "RINKAI! 女子竞轮",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240016.jpg",
+      "cover_url_git": "img/2024/04/RINKAI! 女子竞轮.jpg",
+      "play_time": "23:00",
+      "play_date": "4.9",
+      "play_nums": "",
+      "tags": ["运动", "自行车", "热血", "竞技", "少女"]
+    },
+    {
+      "anime_name": "失忆投捕",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240018.jpg",
+      "cover_url_git": "img/2024/04/失忆投捕.jpg",
+      "play_time": "23:00",
+      "play_date": "4.9",
+      "play_nums": "12",
+      "tags": ["运动", "棒球", "校园", "青春", "励志"]
+    },
+    {
+      "anime_name": "花野井君与相思病（花野井同学与恋爱病）",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240025.jpg",
+      "cover_url_git": "img/2024/04/花野井君与相思病（花野井同学与恋爱病）.jpg",
+      "play_time": "23:30",
+      "play_date": "4.9",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "日常", "少女"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "沙漠大冒险：剧集",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240019.jpg",
+      "cover_url_git": "img/2024/04/沙漠大冒险：剧集.jpg",
+      "play_time": "15:00",
+      "play_date": "3.20",
+      "play_nums": "13",
+      "tags": ["冒险", "沙漠", "超自然"]
+    },
+    {
+      "anime_name": "声优广播的台前幕后",
+      "weekday": "周三",
+      "cover_url": "https://lz.sinaimg.cn/mw690/7489b2b9gy1hmt3xnc6ubj214h1lbh5w.jpg",
+      "cover_url_git": "img/2024/04/声优广播的台前幕后.jpg",
+      "play_time": "20:30",
+      "play_date": "4.10",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "声优", "反差", "贴贴"]
+    },
+    {
+      "anime_name": "怪异与少女与神隐",
+      "weekday": "周三",
+      "cover_url": "https://wx1.sinaimg.cn/mw690/006xrGK9gy1hnajtsqi5mj30hs0pan0o.jpg",
+      "cover_url_git": "img/2024/04/怪异与少女与神隐.jpg",
+      "play_time": "21:30",
+      "play_date": "4.10",
+      "play_nums": "12",
+      "tags": ["悬疑", "怪谈", "灵异", "超自然", "都市传奇"]
+    },
+    {
+      "anime_name": "战国妖狐",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230277.jpg",
+      "cover_url_git": "img/2024/04/战国妖狐.jpg",
+      "play_time": "23:00",
+      "play_date": "连载中",
+      "play_nums": "37",
+      "tags": ["妖魔", "冒险", "成长", "喜剧", "群像", "和风"]
+    },
+    {
+      "anime_name": "为美好的世界献上祝福 第三季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-3/7409d6d315c53b3033ab022bc7f8ee16.jpg",
+      "cover_url_git": "img/2024/04/为美好的世界献上祝福 第三季.jpg",
+      "play_time": "23:00",
+      "play_date": "4.10",
+      "play_nums": "11",
+      "tags": ["搞笑", "奇幻", "冒险", "日常", "异世界"]
+    },
+    {
+      "anime_name": "约会大作战 第五季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240021.jpg",
+      "cover_url_git": "img/2024/04/约会大作战 第五季.jpg",
+      "play_time": "23:30",
+      "play_date": "4.10",
+      "play_nums": "12",
+      "tags": ["科幻", "战斗", "恋爱", "后宫"]
+    },
+    {
+      "anime_name": "格林童话变奏曲",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240063.jpg",
+      "cover_url_git": "img/2024/04/格林童话变奏曲.jpg",
+      "play_time": "",
+      "play_date": "4.17",
+      "play_nums": "6",
+      "tags": ["恐怖", "黑暗", "心理", "暗黑童话"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "调酒师 神之杯（王牌酒保）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240022.jpg",
+      "cover_url_git": "img/2024/04/调酒师 神之杯（王牌酒保）.jpg",
+      "play_time": "00:00",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["酒吧", "调酒", "科普", "治愈"]
+    },
+    {
+      "anime_name": "格斗实况（直播风暴）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20210102-1/dfa2867107edeed1db9a343feb126b92.jpg",
+      "cover_url_git": "img/2024/04/格斗实况（直播风暴）.jpg",
+      "play_time": "02:25",
+      "play_date": "4.11",
+      "play_nums": "",
+      "tags": ["格斗", "喜剧", "自媒体", "逆袭", "励志"]
+    },
+    {
+      "anime_name": "迷宫饭",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hijkkvvfqmj32bc35he82.jpg",
+      "cover_url_git": "img/2024/04/迷宫饭.jpg",
+      "play_time": "21:30",
+      "play_date": "连载中",
+      "play_nums": "24",
+      "tags": ["美食", "奇幻", "冒险", "搞笑", "地下城生态学"]
+    },
+    {
+      "anime_name": "摇曳露营△ 第三季",
+      "weekday": "周四",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hlpxw4nrhgj313e1jke51.jpg",
+      "cover_url_git": "img/2024/04/摇曳露营△ 第三季.jpg",
+      "play_time": "22:30",
+      "play_date": "4.4",
+      "play_nums": "12",
+      "tags": ["露营", "日常", "治愈", "轻百合", "芳文社"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "身为魔王的我娶了奴隶精灵为妻 该如何表白我的爱",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/mw690/008rOMXAgy1hne2mij5psj31ha1z4wzl.jpg",
+      "cover_url_git": "img/2024/04/身为魔王的我娶了奴隶精灵为妻 该如何表白我的爱.jpg",
+      "play_time": "00:30",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "搞笑", "日常", "狗粮"]
+    },
+    {
+      "anime_name": "防风少年（防风铃 / WIND BREAKER）",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hj4d32qw1wj31jk26l4mj.jpg",
+      "cover_url_git": "",
+      "play_time": "00:56",
+      "play_date": "4.5",
+      "play_nums": "25",
+      "tags": ["热血", "动作", "校园", "不良", "帮派"]
+    },
+    {
+      "anime_name": "怪人的沙拉碗",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hijj3nvchaj314c1kw7js.jpg",
+      "cover_url_git": "img/2024/04/怪人的沙拉碗.jpg",
+      "play_time": "00:58",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["奇幻", "搞笑", "日常", "群像", "穿越"]
+    },
+    {
+      "anime_name": "福星小子 第二季（她来自烦星）",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230302.jpg",
+      "cover_url_git": "img/2024/04/福星小子 第二季（她来自烦星）.jpg",
+      "play_time": "01:30",
+      "play_date": "连载中",
+      "play_nums": "23",
+      "tags": ["奇幻", "恋爱", "搞笑", "日常", "校园", "重制"]
+    },
+    {
+      "anime_name": "宝可梦 地平线",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/large/008w3CKjgy1hcjbwcua2bj307i0amabk.jpg",
+      "cover_url_git": "img/2024/04/宝可梦 地平线.jpg",
+      "play_time": "17:55",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["奇幻", "冒险", "竞技", "精灵宝可梦"]
+    },
+    {
+      "anime_name": "Love Live！虹咲学园学园偶像同好会 短篇动画 2",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230033.jpg",
+      "cover_url_git": "img/2024/04/Love Live！虹咲学园学园偶像同好会 短篇动画 2.jpg",
+      "play_time": "21:00",
+      "play_date": "4.5",
+      "play_nums": "",
+      "tags": ["偶像", "校园", "搞笑", "日常", "贴贴", "Q版"]
+    },
+    {
+      "anime_name": "星际庄的恋爱日记（外星笔记）",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240032.jpg",
+      "cover_url_git": "img/2024/04/星际庄的恋爱日记（外星笔记）.jpg",
+      "play_time": "22:00",
+      "play_date": "4.5",
+      "play_nums": "12",
+      "tags": ["科幻", "搞笑", "恋爱", "日常", "群像"]
+    },
+    {
+      "anime_name": "关于我转生变成史莱姆这档事 第三季",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240033.jpg",
+      "cover_url_git": "img/2024/04/关于我转生变成史莱姆这档事 第三季.jpg",
+      "play_time": "23:00",
+      "play_date": "4.5",
+      "play_nums": "26",
+      "tags": ["奇幻", "战斗", "搞笑", "群像", "异世界", "龙傲天"]
+    },
+    {
+      "anime_name": "哭泣少女乐队（GIRLS BAND CRY）",
+      "weekday": "周五",
+      "cover_url": "https://lz.sinaimg.cn/mw690/e886fa78gy1hl1qp9ufn6j21un2icu0y.jpg",
+      "cover_url_git": "img/2024/04/哭泣少女乐队（GIRLS BAND CRY）.jpg",
+      "play_time": "23:30",
+      "play_date": "4.5",
+      "play_nums": "13",
+      "tags": ["音乐", "摇滚", "乐队", "青春", "少女"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "魔法科高校的劣等生 第三季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240034.jpg",
+      "cover_url_git": "img/2024/04/魔法科高校的劣等生 第三季.jpg",
+      "play_time": "00:00",
+      "play_date": "4.6",
+      "play_nums": "13",
+      "tags": ["科幻", "战斗", "校园", "兄妹", "龙傲天"]
+    },
+    {
+      "anime_name": "魔王学院的不适任者 第二季 后半篇",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/large/006yt1Omgy1h6hywaf1nnj30xh1bc45p.jpg",
+      "cover_url_git": "img/2024/04/魔王学院的不适任者 第二季 后半篇.jpg",
+      "play_time": "00:30",
+      "play_date": "4.13",
+      "play_nums": "",
+      "tags": ["奇幻", "战斗", "校园", "后宫", "龙傲天"]
+    },
+    {
+      "anime_name": "偶像大师 闪耀色彩",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hc6lb6zbglj30zk1e3nbb.jpg",
+      "cover_url_git": "img/2024/04/偶像大师 闪耀色彩.jpg",
+      "play_time": "01:00",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["偶像", "音乐", "演艺圈", "成长", "贴贴"]
+    },
+    {
+      "anime_name": "极速星舞（HIGHSPEED Etoile）",
+      "weekday": "周六",
+      "cover_url": "https://p26.toutiaoimg.com/img/tos-cn-i-siecs4i2o7/11b80f86f80f4120b7f6778b067d15ae~noop.image",
+      "cover_url_git": "img/2024/04/极速星舞（HIGHSPEED Etoile）.image",
+      "play_time": "01:30",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["运动", "赛车", "竞技", "少女", "科幻"]
+    },
+    {
+      "anime_name": "影之诗F 方舟篇（ArkRuler篇）",
+      "weekday": "周六",
+      "cover_url": "https://imgs.aixifan.com/newUpload/205108_cf212b694bf0410f95c30d31a2d881ea.jpg",
+      "cover_url_git": "img/2024/04/影之诗F 方舟篇（ArkRuler篇）.jpg",
+      "play_time": "08:30",
+      "play_date": "4.13",
+      "play_nums": "",
+      "tags": ["卡牌", "竞技"]
+    },
+    {
+      "anime_name": "喂！蜻蜓（蜻蛉高球）",
+      "weekday": "周六",
+      "cover_url": "http://lz.sinaimg.cn/large/8a65eec0gy1hnrx69vuv5j207i09zadh.jpg",
+      "cover_url_git": "img/2024/04/喂！蜻蜓（蜻蛉高球）.jpg",
+      "play_time": "09:30",
+      "play_date": "4.6",
+      "play_nums": "26",
+      "tags": ["运动", "高尔夫", "励志", "成长"]
+    },
+    {
+      "anime_name": "我的英雄学院 第七季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240041.jpg",
+      "cover_url_git": "img/2024/04/我的英雄学院 第七季.jpg",
+      "play_time": "17:30",
+      "play_date": "5.4",
+      "play_nums": "25",
+      "tags": ["奇幻", "战斗", "校园", "异能", "热血"]
+    },
+    {
+      "anime_name": "名侦探柯南",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20000005.jpg",
+      "cover_url_git": "img/2024/04/名侦探柯南.jpg",
+      "play_time": "19:30",
+      "play_date": "连载中",
+      "play_nums": "1201",
+      "tags": ["推理", "悬疑", "智斗"]
+    },
+    {
+      "anime_name": "我独自升级",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230009.jpg",
+      "cover_url_git": "img/2024/04/我独自升级.jpg",
+      "play_time": "20:30",
+      "play_date": "即将完结",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "热血", "成长"]
+    },
+    {
+      "anime_name": "单间、光照尚好、附带天使。",
+      "weekday": "周六",
+      "cover_url": "https://fc.sinaimg.cn/mw1024/006yt1Omgy1hijj45bup9j30p00xcwhx.jpg",
+      "cover_url_git": "img/2024/04/单间、光照尚好、附带天使。.jpg",
+      "play_time": "22:00",
+      "play_date": "4.6",
+      "play_nums": "12",
+      "tags": ["恋爱", "搞笑", "日常", "倒贴", "治愈"]
+    },
+    {
+      "anime_name": "良禽不择木（乌鸦姬不选择主人）",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/mw690/a8a888e6gy1hn00tred4ij21r22h6u0x.jpg",
+      "cover_url_git": "img/2024/04/良禽不择木（乌鸦姬不选择主人）.jpg",
+      "play_time": "22:45",
+      "play_date": "4.6",
+      "play_nums": "",
+      "tags": ["奇幻", "和风", "宫廷", "架空", "超自然"]
+    },
+    {
+      "anime_name": "怪兽8号",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240043.jpg",
+      "cover_url_git": "img/2024/04/怪兽8号.jpg",
+      "play_time": "23:00",
+      "play_date": "4.13",
+      "play_nums": "12",
+      "tags": ["热血", "战斗", "王道", "科幻", "异能"]
+    },
+    {
+      "anime_name": "杀手寓言",
+      "weekday": "周六",
+      "cover_url": "https://lz.sinaimg.cn/mw690/9d0d09ably1hma8cokpnoj228535s4qp.jpg",
+      "cover_url_git": "img/2024/04/杀手寓言.jpg",
+      "play_time": "23:55",
+      "play_date": "4.6",
+      "play_nums": "半年",
+      "tags": ["动作", "黑道", "都市", "硬核搞笑"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "夜晚的水母不会游泳",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgcy3mm3izj30nj0xcgzu.jpg",
+      "cover_url_git": "img/2024/04/夜晚的水母不会游泳.jpg",
+      "play_time": "00:00",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["音乐", "少女", "青春", "群像"]
+    },
+    {
+      "anime_name": "黑执事 寄宿学校篇",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hhriwv7t01j30nk0xb430.jpg",
+      "cover_url_git": "img/2024/04/黑执事 寄宿学校篇.jpg",
+      "play_time": "00:00",
+      "play_date": "4.14",
+      "play_nums": "季",
+      "tags": ["奇幻", "战斗", "管家", "恶魔", "悬疑"]
+    },
+    {
+      "anime_name": "THE NEW GATE",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/orj360/7489b2b9gy1hnjlj6drn8j20th15o1kx.jpg",
+      "cover_url_git": "img/2024/04/THE NEW GATE.jpg",
+      "play_time": "01:30",
+      "play_date": "4.14",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "网游", "穿越"]
+    },
+    {
+      "anime_name": "恋语轻唱（恰如细语般的恋歌）",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hh1426ldbnj314l1lcqnh.jpg",
+      "cover_url_git": "img/2024/04/恋语轻唱（恰如细语般的恋歌）.jpg",
+      "play_time": "01:30",
+      "play_date": "4.14",
+      "play_nums": "",
+      "tags": ["校园", "恋爱", "音乐", "百合", "乐队", "扭曲"]
+    },
+    {
+      "anime_name": "与妖为邻",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hgbfjl0ihij30nj0xcq9g.jpg",
+      "cover_url_git": "img/2024/04/与妖为邻.jpg",
+      "play_time": "01:00",
+      "play_date": "4.7",
+      "play_nums": "13",
+      "tags": ["奇幻", "日常", "治愈", "妖怪", "群像"]
+    },
+    {
+      "anime_name": "美妙宠物 光之美少女！",
+      "weekday": "周日",
+      "cover_url": "https://cdn.yinghuazy.xyz/upload/vod/20201029-2/fb5e550148981fcdbb5d73839a2aeb01.jpg",
+      "cover_url_git": "img/2024/04/美妙宠物 光之美少女！.jpg",
+      "play_time": "07:30",
+      "play_date": "连载中",
+      "play_nums": "年",
+      "tags": ["奇幻", "美少女", "战斗", "贴贴"]
+    },
+    {
+      "anime_name": "新干线变形机器人 改变世界",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw600/0026YIXUgy1hmm4jc1do4j60xc1az7gy02.jpg",
+      "cover_url_git": "img/2024/04/新干线变形机器人 改变世界.jpg",
+      "play_time": "07:30",
+      "play_date": "4.7",
+      "play_nums": "",
+      "tags": ["科幻", "动作", "机甲"]
+    },
+    {
+      "anime_name": "逃走中 GREAT MISSION",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230091.jpg",
+      "cover_url_git": "img/2024/04/逃走中 GREAT MISSION.jpg",
+      "play_time": "08:00",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["科幻", "生存游戏", "跑酷"]
+    },
+    {
+      "anime_name": "秘密的偶像公主",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/orj360/0061eUprgy1hmuebpphulj30hs0p5td9.jpg",
+      "cover_url_git": "img/2024/04/秘密的偶像公主.jpg",
+      "play_time": "09:00",
+      "play_date": "4.7",
+      "play_nums": "",
+      "tags": ["偶像", "音乐", "变身"]
+    },
+    {
+      "anime_name": "航海王（海贼王）",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw690/0076NW5Ngy1ge3ztw2rdej307i0b90uy.jpg",
+      "cover_url_git": "img/2024/04/航海王（海贼王）.jpg",
+      "play_time": "上午",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["热血", "战斗", "冒险", "搞笑", "梦想"]
+    },
+    {
+      "anime_name": "战队大失格",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240052.jpg",
+      "cover_url_git": "img/2024/04/战队大失格.jpg",
+      "play_time": "15:30",
+      "play_date": "4.7",
+      "play_nums": "季",
+      "tags": ["科幻", "战斗", "搞笑", "异能", "反英雄", "反套路"]
+    },
+    {
+      "anime_name": "夜樱家的大作战",
+      "weekday": "周日",
+      "cover_url": "https://fc.sinaimg.cn/mw1024/006yt1Omgy1hcc5mpzrx6j31hc1w77r2.jpg",
+      "cover_url_git": "img/2024/04/夜樱家的大作战.jpg",
+      "play_time": "16:30",
+      "play_date": "4.7",
+      "play_nums": "27",
+      "tags": ["动作", "搞笑", "恋爱", "间谍", "异能", "家族"]
+    },
+    {
+      "anime_name": "队长小翼 世少篇（足球小将 第二季）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230228.jpg",
+      "cover_url_git": "img/2024/04/队长小翼 世少篇（足球小将 第二季）.jpg",
+      "play_time": "18:00",
+      "play_date": "连载中",
+      "play_nums": "39",
+      "tags": ["运动", "体育竞技", "热血", "足球"]
+    },
+    {
+      "anime_name": "吹响吧！上低音号 第三季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20150003.jpg",
+      "cover_url_git": "img/2024/04/吹响吧！上低音号 第三季.jpg",
+      "play_time": "18:00",
+      "play_date": "4.7",
+      "play_nums": "13",
+      "tags": ["音乐", "校园", "青春", "励志", "社团", "贴贴"]
+    },
+    {
+      "anime_name": "死神少爷与黑女仆 第三季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240055.jpg",
+      "cover_url_git": "img/2024/04/死神少爷与黑女仆 第三季.jpg",
+      "play_time": "22:00",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "恋爱", "搞笑", "日常", "主仆", "狗粮"]
+    },
+    {
+      "anime_name": "鬼灭之刃 柱训练篇",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw690/0023tf8ygy1hkozvhk3lcj60u016fk8g02.jpg",
+      "cover_url_git": "img/2024/04/鬼灭之刃 柱训练篇.jpg",
+      "play_time": "22:15",
+      "play_date": "5.12",
+      "play_nums": "",
+      "tags": ["奇幻", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "老夫老妻重返青春",
+      "weekday": "周日",
+      "cover_url": "https://unmc.bj.bcebos.com/1710303517593_1116153346.jpg",
+      "cover_url_git": "img/2024/04/老夫老妻重返青春.jpg",
+      "play_time": "22:30",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["搞笑", "日常", "老夫老妻", "反差", "狗粮"]
+    },
+    {
+      "anime_name": "吸血鬼男子宿舍",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hjdj70b0s7j31jk26pqv5.jpg",
+      "cover_url_git": "img/2024/04/吸血鬼男子宿舍.jpg",
+      "play_time": "22:30",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "女扮男装", "逆后宫", "乙女"]
+    },
+    {
+      "anime_name": "转生贵族凭鉴定技能扭转人生",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw690/006uebK1ly1he1owx9mfkj31ww2pg4qt.jpg",
+      "cover_url_git": "img/2024/04/转生贵族凭鉴定技能扭转人生.jpg",
+      "play_time": "22:30",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "异能", "成长", "领地治理", "转生异世界"]
+    },
+    {
+      "anime_name": "无职转生 第二季 后半篇",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/mw1024/006yt1Omgy1hec3jyfo09j31jk26mtjc.jpg",
+      "cover_url_git": "img/2024/04/无职转生 第二季 后半篇.jpg",
+      "play_time": "23:00",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "成长", "穿越异世界"]
+    },
+    {
+      "anime_name": "蔚蓝档案",
+      "weekday": "周日",
+      "cover_url": "https://lz.sinaimg.cn/large/8a65eec0gy1hm8gkub344j207i0aljsm.jpg",
+      "cover_url_git": "img/2024/04/蔚蓝档案.jpg",
+      "play_time": "23:30",
+      "play_date": "4.7",
+      "play_nums": "12",
+      "tags": ["科幻", "校园", "枪战", "日常", "贴贴"]
+    }
+  ]
+}

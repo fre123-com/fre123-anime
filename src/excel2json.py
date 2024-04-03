@@ -123,7 +123,6 @@ def get_anime_data(year, month):
                 anime_data.append(row_data)
 
     # 聚合
-
     final_df = pd.DataFrame(anime_data)
     # 按照 weekday 分组
     grouped_df = final_df.groupby("weekday")
@@ -168,10 +167,11 @@ def soeted_json(year, month):
 
 if __name__ == "__main__":
     # 2024 年单独计算
-    # year, month = 2024, "01"
-    # soeted_json(year, month)
+    year, month = 2024, "04"
+
     # get_anime_data(year, month)
-    for year in range(2017, 2024):
-        for month in ["01", "04", "07", "10"]:
-            soeted_json(year, month)
-            # get_anime_data(year, month)
+    soeted_json(year, month)
+    # for year in range(2017, 2024):
+    #     for month in ["01", "04", "07", "10"]:
+    #         soeted_json(year, month)
+    # get_anime_data(year, month)
