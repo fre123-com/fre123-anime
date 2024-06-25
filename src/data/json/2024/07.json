@@ -1,0 +1,686 @@
+{
+  "周一": [
+    {
+      "anime_name": "夜游生活（夜晚游玩生活）",
+      "weekday": "周一",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240076.jpg",
+      "cover_url_git": "img/2024/07/夜游生活（夜晚游玩生活）.jpg",
+      "play_time": "00:00",
+      "play_date": "7.8",
+      "play_nums": "8",
+      "tags": ["僧侣档", "涩涩"]
+    },
+    {
+      "anime_name": "异世界悠闲纪行 边养娃边当冒险者",
+      "weekday": "周一",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240080.jpg",
+      "cover_url_git": "img/2024/07/异世界悠闲纪行 边养娃边当冒险者.jpg",
+      "play_time": "00:50",
+      "play_date": "7.8",
+      "play_nums": "季",
+      "tags": ["奇幻", "冒险", "带娃", "日常", "转生异世界"]
+    },
+    {
+      "anime_name": "暗芝居 第十三季",
+      "weekday": "周一",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240081.jpg",
+      "cover_url_git": "img/2024/07/暗芝居 第十三季.jpg",
+      "play_time": "01:50",
+      "play_date": "7.15",
+      "play_nums": "季",
+      "tags": ["都市传说", "怪谈", "惊悚", "猎奇"]
+    },
+    {
+      "anime_name": "深夜冲击",
+      "weekday": "周一",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240074.jpg",
+      "cover_url_git": "img/2024/07/深夜冲击.jpg",
+      "play_time": "21:30",
+      "play_date": "7.8",
+      "play_nums": "季",
+      "tags": ["自媒体", "奇幻", "整活", "贴贴"]
+    },
+    {
+      "anime_name": "腼腆英雄 第二季（东京夺还篇）",
+      "weekday": "周一",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240082.jpg",
+      "cover_url_git": "img/2024/07/腼腆英雄 第二季（东京夺还篇）.jpg",
+      "play_time": "23:00",
+      "play_date": "7.1",
+      "play_nums": "季",
+      "tags": ["超级英雄", "战斗", "救援", "超能力", "贴贴"]
+    },
+    {
+      "anime_name": "",
+      "weekday": "周一",
+      "cover_url": "",
+      "cover_url_git": "img/2024/07/.",
+      "play_time": "00:00",
+      "play_date": "",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "",
+      "weekday": "周一",
+      "cover_url": "",
+      "cover_url_git": "img/2024/07/.",
+      "play_time": "00:00",
+      "play_date": "",
+      "play_nums": "",
+      "tags": []
+    },
+    {
+      "anime_name": "",
+      "weekday": "周一",
+      "cover_url": "",
+      "cover_url_git": "img/2024/07/.",
+      "play_time": "00:00",
+      "play_date": "",
+      "play_nums": "",
+      "tags": []
+    }
+  ],
+  "周二": [
+    {
+      "anime_name": "狼与香辛料 行商邂逅贤狼",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240014.jpg",
+      "cover_url_git": "img/2024/07/狼与香辛料 行商邂逅贤狼.jpg",
+      "play_time": "00:30",
+      "play_date": "连载中",
+      "play_nums": "25",
+      "tags": ["奇幻", "治愈", "冒险", "公路片", "重制"]
+    },
+    {
+      "anime_name": "大叔新人冒险者被最强小队拼死锻炼后无敌了",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240083.jpg",
+      "cover_url_git": "img/2024/07/大叔新人冒险者被最强小队拼死锻炼后无敌了.jpg",
+      "play_time": "01:00",
+      "play_date": "7.2",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "战斗", "扮猪吃虎", "逆袭"]
+    },
+    {
+      "anime_name": "魔法少女与恶曾是敌人",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240084.jpg",
+      "cover_url_git": "img/2024/07/魔法少女与恶曾是敌人.jpg",
+      "play_time": "21:45",
+      "play_date": "7.9",
+      "play_nums": "12",
+      "tags": ["恋爱", "狗粮", "宠溺", "奇幻", "敌对阵营"]
+    },
+    {
+      "anime_name": "我的妻子没有感情",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240085.jpg",
+      "cover_url_git": "img/2024/07/我的妻子没有感情.jpg",
+      "play_time": "22:00",
+      "play_date": "7.2",
+      "play_nums": "季",
+      "tags": ["人机恋", "日常", "温馨", "无口"]
+    },
+    {
+      "anime_name": "异世界失格",
+      "weekday": "周二",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240086.jpg",
+      "cover_url_git": "img/2024/07/异世界失格.jpg",
+      "play_time": "22:30",
+      "play_date": "7.9",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "颓废", "黑色幽默", "穿越异世界"]
+    }
+  ],
+  "周三": [
+    {
+      "anime_name": "多数欠",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240087.jpg",
+      "cover_url_git": "img/2024/07/多数欠.jpg",
+      "play_time": "00:59",
+      "play_date": "7.3",
+      "play_nums": "半年",
+      "tags": ["智斗", "生存", "大逃杀"]
+    },
+    {
+      "anime_name": "魔王军最强的魔术师是人类",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240088.jpg",
+      "cover_url_git": "img/2024/07/魔王军最强的魔术师是人类.jpg",
+      "play_time": "21:00",
+      "play_date": "7.3",
+      "play_nums": "季",
+      "tags": ["奇幻", "战争", "魔法", "转生"]
+    },
+    {
+      "anime_name": "你与我最后的战场 亦或是世界起始的圣战 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20200201.jpg",
+      "cover_url_git": "img/2024/07/你与我最后的战场 亦或是世界起始的圣战 第二季.jpg",
+      "play_time": "21:30",
+      "play_date": "7.10",
+      "play_nums": "季",
+      "tags": ["奇幻", "战争", "恋爱", "狗粮", "敌对阵营"]
+    },
+    {
+      "anime_name": "【我推的孩子】 第二季",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240089.jpg",
+      "cover_url_git": "img/2024/07/【我推的孩子】 第二季.jpg",
+      "play_time": "22:00",
+      "play_date": "7.3",
+      "play_nums": "12",
+      "tags": ["偶像", "恋爱", "演艺界", "舞台剧", "扭曲"]
+    },
+    {
+      "anime_name": "不时轻声地以俄语遮羞的邻座艾莉同学",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240075.jpg",
+      "cover_url_git": "img/2024/07/不时轻声地以俄语遮羞的邻座艾莉同学.jpg",
+      "play_time": "22:30",
+      "play_date": "7.3",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "傲娇", "白毛"]
+    },
+    {
+      "anime_name": "恋爱没法用双子除尽",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240090.jpg",
+      "cover_url_git": "img/2024/07/恋爱没法用双子除尽.jpg",
+      "play_time": "22:30",
+      "play_date": "7.10",
+      "play_nums": "季",
+      "tags": ["校园", "恋爱", "扭曲", "胃疼", "姐妹"]
+    },
+    {
+      "anime_name": "战国妖狐 千魔混沌篇（后半篇）",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240091.jpg",
+      "cover_url_git": "img/2024/07/战国妖狐 千魔混沌篇（后半篇）.jpg",
+      "play_time": "23:00",
+      "play_date": "7.17",
+      "play_nums": "24",
+      "tags": ["奇幻", "妖魔", "冒险", "成长", "战斗"]
+    },
+    {
+      "anime_name": "德里科的托儿所（Delicos Nursery）",
+      "weekday": "周三",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240092.jpg",
+      "cover_url_git": "img/2024/07/德里科的托儿所（Delicos Nursery）.jpg",
+      "play_time": "23:30",
+      "play_date": "8.7",
+      "play_nums": "季",
+      "tags": ["奇幻", "吸血鬼", "悬疑", "带娃"]
+    }
+  ],
+  "周四": [
+    {
+      "anime_name": "义妹生活",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240093.jpg",
+      "cover_url_git": "img/2024/07/义妹生活.jpg",
+      "play_time": "20:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["恋爱", "兄妹", "家庭", "校园", "日常", "细腻"]
+    },
+    {
+      "anime_name": "黄昏失焦",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240094.jpg",
+      "cover_url_git": "img/2024/07/黄昏失焦.jpg",
+      "play_time": "22:30",
+      "play_date": "7.4",
+      "play_nums": "季",
+      "tags": ["校园", "恋爱", "社团", "日常", "耽美"]
+    },
+    {
+      "anime_name": "拉面红猫",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240095.jpg",
+      "cover_url_git": "img/2024/07/拉面红猫.jpg",
+      "play_time": "22:56",
+      "play_date": "7.4",
+      "play_nums": "季",
+      "tags": ["美食", "日常", "治愈", "喵星人"]
+    },
+    {
+      "anime_name": "我会招架一切 反误会的世界最强想成为冒险者",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240096.jpg",
+      "cover_url_git": "img/2024/07/我会招架一切 反误会的世界最强想成为冒险者.jpg",
+      "play_time": "23:00",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "冒险", "喜剧", "逆袭"]
+    },
+    {
+      "anime_name": "女神的露天咖啡厅 第二季",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240097.jpg",
+      "cover_url_git": "img/2024/07/女神的露天咖啡厅 第二季.jpg",
+      "play_time": "23:26",
+      "play_date": "7.4",
+      "play_nums": "季",
+      "tags": ["恋爱", "搞笑", "经营", "日常", "党争", "后宫"]
+    },
+    {
+      "anime_name": "百变的七仓同学（疑似后宫）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240098.jpg",
+      "cover_url_git": "img/2024/07/百变的七仓同学（疑似后宫）.jpg",
+      "play_time": "23:30",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "日常", "一人饰多角"]
+    },
+    {
+      "anime_name": "前辈是男孩子（前辈是伪娘）",
+      "weekday": "周四",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240099.jpg",
+      "cover_url_git": "img/2024/07/前辈是男孩子（前辈是伪娘）.jpg",
+      "play_time": "23:55",
+      "play_date": "7.4",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "伪娘", "三角恋"]
+    }
+  ],
+  "周五": [
+    {
+      "anime_name": "宝可梦 地平线",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230073.jpg",
+      "cover_url_git": "img/2024/07/宝可梦 地平线.jpg",
+      "play_time": "17:55",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["奇幻", "冒险", "竞技", "精灵宝可梦"]
+    },
+    {
+      "anime_name": "2.5次元的诱惑",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240101.jpg",
+      "cover_url_git": "img/2024/07/2.5次元的诱惑.jpg",
+      "play_time": "21:30",
+      "play_date": "7.5",
+      "play_nums": "半年",
+      "tags": ["校园", "恋爱", "Cos", "搞笑", "后宫", "涩涩"]
+    },
+    {
+      "anime_name": "尼尔：自动人形 Ver1.1a 第2部分",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240102.jpg",
+      "cover_url_git": "img/2024/07/尼尔：自动人形 Ver1.1a 第2部分.jpg",
+      "play_time": "22:30",
+      "play_date": "7.5",
+      "play_nums": "季",
+      "tags": ["科幻", "战斗", "末世", "二周目", "刀"]
+    },
+    {
+      "anime_name": "再见，地球",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240103.jpg",
+      "cover_url_git": "img/2024/07/再见，地球.jpg",
+      "play_time": "22:30",
+      "play_date": "7.12",
+      "play_nums": "季",
+      "tags": ["奇幻", "冒险", "战斗", "异世界"]
+    },
+    {
+      "anime_name": "关于我转生变成史莱姆这档事 第三季",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240033.jpg",
+      "cover_url_git": "img/2024/07/关于我转生变成史莱姆这档事 第三季.jpg",
+      "play_time": "23:00",
+      "play_date": "连载中",
+      "play_nums": "26",
+      "tags": ["奇幻", "战斗", "搞笑", "群像", "异世界", "龙傲天"]
+    },
+    {
+      "anime_name": "异世界自杀小队",
+      "weekday": "周五",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240104.jpg",
+      "cover_url_git": "img/2024/07/异世界自杀小队.jpg",
+      "play_time": "23:30",
+      "play_date": "7.5",
+      "play_nums": "10",
+      "tags": ["奇幻", "战斗", "反英雄", "穿越异世界", "DC"]
+    }
+  ],
+  "周六": [
+    {
+      "anime_name": "古连泰沙U",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240105.jpg",
+      "cover_url_git": "img/2024/07/古连泰沙U.jpg",
+      "play_time": "00:23",
+      "play_date": "7.6",
+      "play_nums": "",
+      "tags": ["科幻", "机战", "重制"]
+    },
+    {
+      "anime_name": "地下城里的人们",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240106.jpg",
+      "cover_url_git": "img/2024/07/地下城里的人们.jpg",
+      "play_time": "00:53",
+      "play_date": "7.6",
+      "play_nums": "12",
+      "tags": ["奇幻", "冒险", "地下城", "经营", "迷宫班"]
+    },
+    {
+      "anime_name": "这个世界漏洞百出",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240107.jpg",
+      "cover_url_git": "img/2024/07/这个世界漏洞百出.jpg",
+      "play_time": "01:23",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["奇幻", "冒险", "搞笑", "网游", "BUG"]
+    },
+    {
+      "anime_name": "卡片战斗先导者 DivineZ 第二季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240108.jpg",
+      "cover_url_git": "img/2024/07/卡片战斗先导者 DivineZ 第二季.jpg",
+      "play_time": "07:00",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["卡牌", "竞技"]
+    },
+    {
+      "anime_name": "喂！蜻蜓（蜻蛉高球）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240040.jpg",
+      "cover_url_git": "img/2024/07/喂！蜻蜓（蜻蛉高球）.jpg",
+      "play_time": "09:30",
+      "play_date": "连载中",
+      "play_nums": "26",
+      "tags": ["运动", "高尔夫", "励志", "成长"]
+    },
+    {
+      "anime_name": "我的英雄学院 第七季",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240041.jpg",
+      "cover_url_git": "img/2024/07/我的英雄学院 第七季.jpg",
+      "play_time": "17:30",
+      "play_date": "连载中",
+      "play_nums": "21",
+      "tags": ["奇幻", "战斗", "校园", "异能", "热血"]
+    },
+    {
+      "anime_name": "名侦探柯南",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20000005.jpg",
+      "cover_url_git": "img/2024/07/名侦探柯南.jpg",
+      "play_time": "19:30",
+      "play_date": "连载中",
+      "play_nums": "1201",
+      "tags": ["推理", "悬疑", "智斗"]
+    },
+    {
+      "anime_name": "魔导具师妲莉亚永不妥协",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240109.jpg",
+      "cover_url_git": "img/2024/07/魔导具师妲莉亚永不妥协.jpg",
+      "play_time": "20:00",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["奇幻", "日常", "经营", "大女主", "转生异世界"]
+    },
+    {
+      "anime_name": "从路人角色开始的探索英雄谭",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240110.jpg",
+      "cover_url_git": "img/2024/07/从路人角色开始的探索英雄谭.jpg",
+      "play_time": "21:00",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["奇幻", "冒险", "战斗", "逆袭", "现代幻想"]
+    },
+    {
+      "anime_name": "物语系列 外传季&怪物季（愚物语&抚物语）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240111.jpg",
+      "cover_url_git": "img/2024/07/物语系列 外传季&怪物季（愚物语&抚物语）.jpg",
+      "play_time": "21:00",
+      "play_date": "7.6",
+      "play_nums": "",
+      "tags": ["奇幻", "怪异", "群像", "后日谈", "外传"]
+    },
+    {
+      "anime_name": "为何我的世界被遗忘了？",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240112.jpg",
+      "cover_url_git": "img/2024/07/为何我的世界被遗忘了？.jpg",
+      "play_time": "21:30",
+      "play_date": "7.13",
+      "play_nums": "12",
+      "tags": ["奇幻", "战斗", "冒险", "末世", "逆天改命"]
+    },
+    {
+      "anime_name": "天穗之咲稻姬",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240113.jpg",
+      "cover_url_git": "img/2024/07/天穗之咲稻姬.jpg",
+      "play_time": "22:00",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["神魔", "种田", "冒险"]
+    },
+    {
+      "anime_name": "擅长逃跑的殿下（少主溜得快）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240114.jpg",
+      "cover_url_git": "img/2024/07/擅长逃跑的殿下（少主溜得快）.jpg",
+      "play_time": "22:30",
+      "play_date": "7.6",
+      "play_nums": "季",
+      "tags": ["历史", "乱世", "逃亡", "复仇", "喜剧"]
+    },
+    {
+      "anime_name": "良禽不择木（乌鸦姬不选择主人）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240045.jpg",
+      "cover_url_git": "img/2024/07/良禽不择木（乌鸦姬不选择主人）.jpg",
+      "play_time": "22:45",
+      "play_date": "连载中",
+      "play_nums": "20",
+      "tags": ["奇幻", "和风", "宫廷", "架空", "超自然"]
+    },
+    {
+      "anime_name": "亚托莉 -我挚爱的时光-（ATRI）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240115.jpg",
+      "cover_url_git": "img/2024/07/亚托莉 -我挚爱的时光-（ATRI）.jpg",
+      "play_time": "23:00",
+      "play_date": "7.13",
+      "play_nums": "13",
+      "tags": ["科幻", "仿生机器人", "恋爱", "治愈", "末世"]
+    },
+    {
+      "anime_name": "杀手寓言",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240046.jpg",
+      "cover_url_git": "img/2024/07/杀手寓言.jpg",
+      "play_time": "23:55",
+      "play_date": "连载中",
+      "play_nums": "25",
+      "tags": ["动作", "黑道", "都市", "硬核搞笑"]
+    },
+    {
+      "anime_name": "影之诗F 方舟篇（ArkRuler篇）",
+      "weekday": "周六",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240039.jpg",
+      "cover_url_git": "img/2024/07/影之诗F 方舟篇（ArkRuler篇）.jpg",
+      "play_time": "08:30",
+      "play_date": "4.13",
+      "play_nums": "",
+      "tags": ["卡牌", "竞技"]
+    }
+  ],
+  "周日": [
+    {
+      "anime_name": "精灵小姐瘦不了。",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240116.jpg",
+      "cover_url_git": "img/2024/07/精灵小姐瘦不了。.jpg",
+      "play_time": "00:30",
+      "play_date": "7.7",
+      "play_nums": "季",
+      "tags": ["日常", "搞笑", "减肥", "异种族", "逆穿越"]
+    },
+    {
+      "anime_name": "小市民系列",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240117.jpg",
+      "cover_url_git": "img/2024/07/小市民系列.jpg",
+      "play_time": "00:30",
+      "play_date": "7.7",
+      "play_nums": "季",
+      "tags": ["推理", "校园", "日常", "甜点"]
+    },
+    {
+      "anime_name": "败犬女主太多了！",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240118.jpg",
+      "cover_url_git": "img/2024/07/败犬女主太多了！.jpg",
+      "play_time": "01:00",
+      "play_date": "7.14",
+      "play_nums": "12",
+      "tags": ["校园", "恋爱", "搞笑", "青春", "乐子人男主"]
+    },
+    {
+      "anime_name": "美妙宠物 光之美少女！",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240003.jpg",
+      "cover_url_git": "img/2024/07/美妙宠物 光之美少女！.jpg",
+      "play_time": "07:30",
+      "play_date": "连载中",
+      "play_nums": "年",
+      "tags": ["奇幻", "美少女", "战斗", "贴贴"]
+    },
+    {
+      "anime_name": "航海王（海贼王）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20000001.jpg",
+      "cover_url_git": "img/2024/07/航海王（海贼王）.jpg",
+      "play_time": "上午",
+      "play_date": "连载中",
+      "play_nums": "长期连载",
+      "tags": ["热血", "战斗", "冒险", "搞笑", "梦想"]
+    },
+    {
+      "anime_name": "杖与剑的魔剑谭",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240119.jpg",
+      "cover_url_git": "img/2024/07/杖与剑的魔剑谭.jpg",
+      "play_time": "15:30",
+      "play_date": "7.7",
+      "play_nums": "季",
+      "tags": ["奇幻", "战斗", "王道", "校园", "魔法", "逆袭"]
+    },
+    {
+      "anime_name": "夜樱家的大作战",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240054.jpg",
+      "cover_url_git": "img/2024/07/夜樱家的大作战.jpg",
+      "play_time": "16:30",
+      "play_date": "连载中",
+      "play_nums": "27",
+      "tags": ["动作", "搞笑", "恋爱", "间谍", "异能", "家族"]
+    },
+    {
+      "anime_name": "0岁儿童开始冲刺的故事",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240120.jpg",
+      "cover_url_git": "img/2024/07/0岁儿童开始冲刺的故事.jpg",
+      "play_time": "16:55",
+      "play_date": "7.7",
+      "play_nums": "12",
+      "tags": ["奇幻", "魔法", "幼女", "凤傲天", "转生"]
+    },
+    {
+      "anime_name": "妖精的尾巴 百年任务",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240121.jpg",
+      "cover_url_git": "img/2024/07/妖精的尾巴 百年任务.jpg",
+      "play_time": "17:00",
+      "play_date": "7.7",
+      "play_nums": "半年",
+      "tags": ["奇幻", "热血", "战斗", "冒险"]
+    },
+    {
+      "anime_name": "神之塔 第二季",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240122.jpg",
+      "cover_url_git": "img/2024/07/神之塔 第二季.jpg",
+      "play_time": "22:00",
+      "play_date": "7.7",
+      "play_nums": "24",
+      "tags": ["奇幻", "战斗", "冒险", "热血", "PVE", "PVP"]
+    },
+    {
+      "anime_name": "筋肉人 完美超人始祖篇",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240123.jpg",
+      "cover_url_git": "img/2024/07/筋肉人 完美超人始祖篇.jpg",
+      "play_time": "22:30",
+      "play_date": "7.7",
+      "play_nums": "年",
+      "tags": ["超级英雄", "搏斗", "摔跤"]
+    },
+    {
+      "anime_name": "鹿乃子乃子虎视眈眈",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240124.jpg",
+      "cover_url_git": "img/2024/07/鹿乃子乃子虎视眈眈.jpg",
+      "play_time": "22:30",
+      "play_date": "7.7",
+      "play_nums": "12",
+      "tags": ["校园", "搞笑", "抽象", "究极沙雕", "电波"]
+    },
+    {
+      "anime_name": "少女如草花绽放（菜一般 花一般）",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240125.jpg",
+      "cover_url_git": "img/2024/07/少女如草花绽放（菜一般 花一般）.jpg",
+      "play_time": "22:45",
+      "play_date": "7.7",
+      "play_nums": "12",
+      "tags": ["校园", "日常", "啦啦队", "青春", "少女", "励志"]
+    },
+    {
+      "anime_name": "身为VTuber的我因为忘记关台而成了传说",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240126.jpg",
+      "cover_url_git": "img/2024/07/身为VTuber的我因为忘记关台而成了传说.jpg",
+      "play_time": "23:30",
+      "play_date": "7.7",
+      "play_nums": "季",
+      "tags": ["主播", "搞笑", "日常", "反差", "玩梗", "贴贴"]
+    },
+    {
+      "anime_name": "逃走中 GREAT MISSION",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20230091.jpg",
+      "cover_url_git": "img/2024/07/逃走中 GREAT MISSION.jpg",
+      "play_time": "08:00",
+      "play_date": "连载中",
+      "play_nums": "",
+      "tags": ["科幻", "生存游戏", "跑酷"]
+    },
+    {
+      "anime_name": "秘密的偶像公主",
+      "weekday": "周日",
+      "cover_url": "https://cdn.aqdstatic.com:966/age/20240051.jpg",
+      "cover_url_git": "img/2024/07/秘密的偶像公主.jpg",
+      "play_time": "09:00",
+      "play_date": "4.7",
+      "play_nums": "",
+      "tags": ["偶像", "音乐", "变身"]
+    }
+  ]
+}

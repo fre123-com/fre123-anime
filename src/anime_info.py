@@ -11,12 +11,12 @@ from bs4 import BeautifulSoup
 
 def get_anime_cover(anime_name: str):
     """
-    基于 https://www.fre123.com/anime/s 展示结果获取番剧封面
+    基于 https://www.fre321.com/anime/s 展示结果获取番剧封面
     Args:
         anime_name (str): 番剧名称
     """
     try:
-        url = f"https://www.fre123.com/anime/s?query={anime_name}"
+        url = f"https://www.fre321.com/anime/s?query={anime_name}"
         response = requests.get(url, timeout=30)
         soup = BeautifulSoup(response.text, "html.parser")
         image = soup.select_one("img.item-cover")

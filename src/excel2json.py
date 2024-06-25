@@ -119,7 +119,7 @@ def get_anime_data(year, month):
                     "tags": tags,
                 }
                 # print(final_row_list)
-                # print(row_data)
+                print(row_data)
                 anime_data.append(row_data)
 
     # 聚合
@@ -167,9 +167,9 @@ def soeted_json(year, month):
 
 if __name__ == "__main__":
     # 2024 年单独计算
-    year, month = 2024, "04"
+    year, month = 2024, "07"
 
-    # get_anime_data(year, month)
+    get_anime_data(year, month)
     soeted_json(year, month)
     # for year in range(2017, 2024):
     #     for month in ["01", "04", "07", "10"]:
